@@ -1,0 +1,1142 @@
+{
+  "sprites": [
+    {
+      "id": "",
+      "index": 0,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -4,
+        "y": -4
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 16
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 0,
+      "trimmedRect": {
+        "h": 8,
+        "w": 8,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 8,
+        "w": 8,
+        "x": 20,
+        "y": 20
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 8.0,
+          "y": 0.0
+        },
+        {
+          "x": 8.0,
+          "y": 8.0
+        },
+        {
+          "x": 0.0,
+          "y": 8.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 1,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -1,
+        "y": -1
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 16
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 1,
+      "trimmedRect": {
+        "h": 14,
+        "w": 14,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 14,
+        "w": 14,
+        "x": 33,
+        "y": 17
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 14.0,
+          "y": 0.0
+        },
+        {
+          "x": 14.0,
+          "y": 14.0
+        },
+        {
+          "x": 0.0,
+          "y": 14.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 2,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 16
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 2,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 16
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 3,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 16
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 3,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 16
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 4,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 16
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 4,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 16
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 5,
+      "pivot": {
+        "x": 8.0,
+        "y": 9.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": -2
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 16
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 5,
+      "trimmedRect": {
+        "h": 14,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 14,
+        "w": 16,
+        "x": 112,
+        "y": 18
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 14.0
+        },
+        {
+          "x": 0.0,
+          "y": 14.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 6,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 48
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 6,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 48
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 7,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -1,
+        "y": -1
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 48
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 7,
+      "trimmedRect": {
+        "h": 14,
+        "w": 14,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 14,
+        "w": 14,
+        "x": 33,
+        "y": 49
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 14.0,
+          "y": 0.0
+        },
+        {
+          "x": 14.0,
+          "y": 14.0
+        },
+        {
+          "x": 0.0,
+          "y": 14.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 8,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 48
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 8,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 48
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 9,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 48
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 9,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 48
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 10,
+      "pivot": {
+        "x": 8.5,
+        "y": 10.5
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -1,
+        "y": -5
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 128,
+        "y": 48
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 10,
+      "trimmedRect": {
+        "h": 11,
+        "w": 15,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 11,
+        "w": 15,
+        "x": 129,
+        "y": 53
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 15.0,
+          "y": 0.0
+        },
+        {
+          "x": 15.0,
+          "y": 11.0
+        },
+        {
+          "x": 0.0,
+          "y": 11.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 11,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 11,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 80
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 12,
+      "pivot": {
+        "x": 8.0,
+        "y": 7.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -1,
+        "y": -1
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 12,
+      "trimmedRect": {
+        "h": 12,
+        "w": 14,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 12,
+        "w": 14,
+        "x": 33,
+        "y": 81
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 14.0,
+          "y": 0.0
+        },
+        {
+          "x": 14.0,
+          "y": 12.0
+        },
+        {
+          "x": 0.0,
+          "y": 12.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 13,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 13,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 80
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 14,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 14,
+      "trimmedRect": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 96,
+        "y": 80
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 0.0
+        },
+        {
+          "x": 16.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 15,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -3,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 112,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 15,
+      "trimmedRect": {
+        "h": 16,
+        "w": 10,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 10,
+        "x": 115,
+        "y": 80
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 10.0,
+          "y": 0.0
+        },
+        {
+          "x": 10.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 16,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -6,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 128,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 16,
+      "trimmedRect": {
+        "h": 16,
+        "w": 4,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 4,
+        "x": 134,
+        "y": 80
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 4.0,
+          "y": 0.0
+        },
+        {
+          "x": 4.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 17,
+      "pivot": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "rect": {
+        "h": 16,
+        "w": 16,
+        "x": -3,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "Items.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 16,
+        "w": 16,
+        "x": 144,
+        "y": 80
+      },
+      "tags": {},
+      "textureFilename": "out/sprite001.png",
+      "textureSpriteIndex": 17,
+      "trimmedRect": {
+        "h": 16,
+        "w": 10,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 16,
+        "w": 10,
+        "x": 147,
+        "y": 80
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 10.0,
+          "y": 0.0
+        },
+        {
+          "x": 10.0,
+          "y": 16.0
+        },
+        {
+          "x": 0.0,
+          "y": 16.0
+        }
+      ]
+    }
+  ],
+  "tags": [],
+  "textures": [
+    {
+      "filename": "out/sprite001.png",
+      "height": 8,
+      "spriteIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "width": 8
+    },
+    {
+      "filename": "out/sprite002.png",
+      "height": 14,
+      "spriteIndices": [],
+      "width": 14
+    },
+    {
+      "filename": "out/sprite003.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite004.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite005.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite006.png",
+      "height": 14,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite007.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite008.png",
+      "height": 14,
+      "spriteIndices": [],
+      "width": 14
+    },
+    {
+      "filename": "out/sprite009.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite010.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite011.png",
+      "height": 11,
+      "spriteIndices": [],
+      "width": 15
+    },
+    {
+      "filename": "out/sprite012.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite013.png",
+      "height": 12,
+      "spriteIndices": [],
+      "width": 14
+    },
+    {
+      "filename": "out/sprite014.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite015.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 16
+    },
+    {
+      "filename": "out/sprite016.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 10
+    },
+    {
+      "filename": "out/sprite017.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 4
+    },
+    {
+      "filename": "out/sprite018.png",
+      "height": 16,
+      "spriteIndices": [],
+      "width": 10
+    }
+  ]
+}
