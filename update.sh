@@ -4,6 +4,8 @@ set -e -u
 logfile=$(realpath "log.txt")
 echo > "${logfile}"
 
+spright -v | grep '(c)' | tee -a "${logfile}"
+
 cores=$(cat /proc/cpuinfo | grep process | wc -l)
 cat /proc/cpuinfo | grep "model name" | uniq  2>&1 | tee -a "${logfile}"
 echo "cores           : ${cores}"             2>&1 | tee -a "${logfile}"

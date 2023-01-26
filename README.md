@@ -80,3 +80,9 @@ Splitting a sprite sheet in individual files: [spright.conf](split/spright.conf)
 
 --------
 
+## Grid offset/spacing
+
+Splitting multiple arrangements at once: [spright.conf](split/spright.conf)
+
+<kbd><img src="grid/explosion3.png"/></kbd><br/>
+<kbd><img src="grid/spright0.png"/></kbd>
