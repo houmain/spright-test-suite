@@ -1,0 +1,26 @@
+
+spright 1.7.0 (c) 2020-2023 by Albert Kalchmair
+model name	: Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz
+cores           : 8
+----- compact -----
+Initializing cpSpace - Chipmunk v7.0.3 (Debug Enabled)
+Compile with -DNDEBUG defined to disable debug mode and runtime assertion checks
+input: 8ms, trimming: 7ms, packing: 382ms, output description: 5ms, output textures: 86ms
+----- deduplicate -----
+input: 34ms, trimming: 0ms, packing: 47ms, output description: 35ms, output textures: 185ms
+----- docs -----
+input: 4ms, trimming: 0ms, packing: 145ms, output description: 12ms, output textures: 40ms
+----- docs-auto -----
+input: 7ms, trimming: 0ms, packing: 180ms, output description: 12ms, output textures: 42ms
+----- extrude -----
+input: 5ms, trimming: 0ms, packing: 0ms, output description: 1ms, output textures: 62ms
+----- grid -----
+input: 6ms, trimming: 0ms, packing: 14ms, output description: 4ms, output textures: 63ms
+----- layers -----
+input: 39ms, trimming: 0ms, packing: 5ms, output description: 2ms, output textures: 135ms
+----- layers-old -----
+input: 15ms, trimming: 0ms, packing: 1ms, output description: 1ms, output textures: 167ms
+----- scalings -----
+input: 27ms, trimming: 0ms, packing: 0ms, output description: 0ms, output textures: 244ms
+----- split -----
+input: 1ms, trimming: 0ms, packing: 0ms, output description: 3ms, output textures: 8ms

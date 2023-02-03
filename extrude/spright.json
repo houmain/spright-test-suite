@@ -1,0 +1,470 @@
+{
+  "sprites": [
+    {
+      "id": "",
+      "index": 0,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 6,
+        "y": 6
+      },
+      "rotated": false,
+      "sourceFilename": "hp_cobble_mossy.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 0,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 6,
+        "y": 6
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 1,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 87,
+        "y": 6
+      },
+      "rotated": false,
+      "sourceFilename": "hp_earth_ground.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 1,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 87,
+        "y": 6
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 2,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 168,
+        "y": 6
+      },
+      "rotated": false,
+      "sourceFilename": "hp_fabric.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 2,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 168,
+        "y": 6
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 3,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 6,
+        "y": 87
+      },
+      "rotated": false,
+      "sourceFilename": "hp_floor_tiles.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 3,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 6,
+        "y": 87
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 4,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 87,
+        "y": 87
+      },
+      "rotated": false,
+      "sourceFilename": "hp_glass_crystal.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 4,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 87,
+        "y": 87
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 5,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 168,
+        "y": 87
+      },
+      "rotated": false,
+      "sourceFilename": "hp_ground_cracked.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 5,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 168,
+        "y": 87
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 6,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 6,
+        "y": 168
+      },
+      "rotated": false,
+      "sourceFilename": "hp_rock.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 6,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 6,
+        "y": 168
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 7,
+      "pivot": {
+        "x": 34.5,
+        "y": 34.5
+      },
+      "rect": {
+        "h": 69,
+        "w": 69,
+        "x": 87,
+        "y": 168
+      },
+      "rotated": false,
+      "sourceFilename": "hp_wood.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 7,
+      "trimmedRect": {
+        "h": 69,
+        "w": 69,
+        "x": 87,
+        "y": 168
+      },
+      "trimmedSourceRect": {
+        "h": 69,
+        "w": 69,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 0.0
+        },
+        {
+          "x": 69.0,
+          "y": 69.0
+        },
+        {
+          "x": 0.0,
+          "y": 69.0
+        }
+      ]
+    }
+  ],
+  "tags": [],
+  "textures": [
+    {
+      "filename": "spright0.png",
+      "height": 243,
+      "spriteIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "width": 243
+    }
+  ]
+}

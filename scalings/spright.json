@@ -1,0 +1,71 @@
+{
+  "sprites": [
+    {
+      "id": "",
+      "index": 0,
+      "pivot": {
+        "x": 256.0,
+        "y": 256.0
+      },
+      "rect": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "rotated": false,
+      "sourceFilename": "diffuse.png",
+      "sourcePath": "",
+      "sourceRect": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "tags": {},
+      "textureFilename": "spright0.png",
+      "textureSpriteIndex": 0,
+      "trimmedRect": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "trimmedSourceRect": {
+        "h": 512,
+        "w": 512,
+        "x": 0,
+        "y": 0
+      },
+      "vertices": [
+        {
+          "x": 0.0,
+          "y": 0.0
+        },
+        {
+          "x": 512.0,
+          "y": 0.0
+        },
+        {
+          "x": 512.0,
+          "y": 512.0
+        },
+        {
+          "x": 0.0,
+          "y": 512.0
+        }
+      ]
+    }
+  ],
+  "tags": [],
+  "textures": [
+    {
+      "filename": "spright0.png",
+      "height": 512,
+      "spriteIndices": [
+        0
+      ],
+      "width": 512
+    }
+  ]
+}

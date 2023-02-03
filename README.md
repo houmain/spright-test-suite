@@ -38,10 +38,12 @@ Packing sprites by their convex outline: [spright.conf](compact/spright.conf)
 
 Packing multiple sheets with a shared set of output coordinates [spright.conf](layers/spright.conf)
 
-<kbd><img src="layers/spright0-diffuse.png"/></kbd>
+<kbd><img src="layers/decals-diffuse.png"/></kbd>
+<kbd><img src="layers/decals-normal.png"/></kbd>
+<kbd><img src="layers/decals-specular.png"/></kbd><br/>
+<kbd><img src="layers/spright0.png"/></kbd>
 <kbd><img src="layers/spright0-normals.png"/></kbd>
-<kbd><img src="layers/spright0-height.png"/></kbd>
-<kbd><img src="layers/spright0-roughness.png"/></kbd>
+<kbd><img src="layers/spright0-specular.png"/></kbd>
 
 --------
 
@@ -82,7 +84,28 @@ Splitting a sprite sheet in individual files: [spright.conf](split/spright.conf)
 
 ## Grid offset/spacing
 
-Splitting multiple arrangements at once: [spright.conf](split/spright.conf)
+Splitting multiple arrangements at once: [spright.conf](grid/spright.conf)
 
 <kbd><img src="grid/explosion3.png"/></kbd><br/>
 <kbd><img src="grid/spright0.png"/></kbd>
+
+--------
+
+## Scalings
+
+Generating multiple resolutions of output: [spright.conf](scalings/spright.conf)
+
+<kbd><img src="scalings/diffuse.png"/></kbd><br/>
+<kbd><img src="scalings/spright0-0.5.png"/></kbd>
+<kbd><img src="scalings/spright0-0.25.png"/></kbd>
+<kbd><img src="scalings/spright0-0.125.png"/></kbd>
+<kbd><img src="scalings/spright0-0.0625.png"/></kbd>
+<kbd><img src="scalings/spright0-0.03125.png"/></kbd>
+
+--------
+
+## Extrude
+
+Adding a padding around sprites and fill it with the  border pixel color: [spright.conf](extrude/spright.conf)
+
+<kbd><img src="extrude/spright0.png"/></kbd><br/>
