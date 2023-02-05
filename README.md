@@ -25,6 +25,16 @@ With additional information provided, like the _span_ of window sprites: [sprigh
 
 --------
 
+## Constraints
+
+Packing to multiple outputs with some constraints (max-width, max-height, power-of-two): [spright.conf](constraints/spright.conf)
+
+<kbd><img src="constraints/spright0.png"/></kbd>
+<kbd><img src="constraints/spright1.png"/></kbd>
+<kbd><img src="constraints/spright2.png"/></kbd>
+
+--------
+
 ## Compact
 
 Packing sprites by their convex outline: [spright.conf](compact/spright.conf)
