@@ -1014,6 +1014,7 @@
     {
       "filename": "out/sprite001.png",
       "height": 8,
+      "inputFilename": "spright.conf",
       "spriteIndices": [
         0,
         1,
@@ -1039,102 +1040,119 @@
     {
       "filename": "out/sprite002.png",
       "height": 14,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 14
     },
     {
       "filename": "out/sprite003.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite004.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite005.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite006.png",
       "height": 14,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite007.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite008.png",
       "height": 14,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 14
     },
     {
       "filename": "out/sprite009.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite010.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite011.png",
       "height": 11,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 15
     },
     {
       "filename": "out/sprite012.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite013.png",
       "height": 12,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 14
     },
     {
       "filename": "out/sprite014.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite015.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 16
     },
     {
       "filename": "out/sprite016.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 10
     },
     {
       "filename": "out/sprite017.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 4
     },
     {
       "filename": "out/sprite018.png",
       "height": 16,
+      "inputFilename": "spright.conf",
       "spriteIndices": [],
       "width": 10
     }

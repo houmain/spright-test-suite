@@ -15,7 +15,7 @@ for dir in *; do
     cd "${dir}"
     name=$(basename "${dir}")
     echo "----- ${name} -----" 2>&1 | tee -a "${logfile}"
-    spright -d                 2>&1 | tee -a "${logfile}"
+    spright -r -d              2>&1 | tee -a "${logfile}"
     cd ..
   fi
 done

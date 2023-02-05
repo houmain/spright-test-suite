@@ -62,6 +62,7 @@
     {
       "filename": "spright0.png",
       "height": 512,
+      "inputFilename": "spright.conf",
       "spriteIndices": [
         0
       ],

@@ -106,6 +106,8 @@ Generating multiple resolutions of output: [spright.conf](scalings/spright.conf)
 
 ## Extrude
 
-Adding a padding around sprites and fill it with the  border pixel color: [spright.conf](extrude/spright.conf)
+Adding a padding around sprites and fill it depending on wrap mode (clamp, mirror, repeat): [spright.conf](extrude/spright.conf)
 
-<kbd><img src="extrude/spright0.png"/></kbd><br/>
+<kbd><img src="extrude/spright-clamp.png"/></kbd>
+<kbd><img src="extrude/spright-mirror.png"/></kbd>
+<kbd><img src="extrude/spright-repeat.png"/></kbd>
