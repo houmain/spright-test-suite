@@ -39,7 +39,7 @@ Packing to multiple outputs with some constraints (max-width, max-height, power-
 
 Packing sprites by their convex outline: [spright.conf](compact/spright.conf)
 
-<kbd><img src="compact/Preview_Alternative_3.png"/></kbd>
+<kbd><img src="compact/Preview_Alternative_3.png"/></kbd><br/>
 <kbd><img src="compact/compact.png"/></kbd>
 
 --------
@@ -61,8 +61,9 @@ Packing multiple sheets with a shared set of output coordinates [spright.conf](l
 
 Finding unique tiles in an image: [spright.conf](deduplicate/spright.conf)
 
-<kbd><img src="deduplicate/colony-sim-extended-prev.png"/></kbd>
-<kbd><img src="deduplicate/spright0.png"/></kbd>
+<kbd><img src="deduplicate/colony-sim-extended-prev.png"/></kbd><br/>
+<kbd><img src="deduplicate/spright-keep.png"/></kbd>
+<kbd><img src="deduplicate/spright-rows.png"/></kbd>
 
 --------
 
