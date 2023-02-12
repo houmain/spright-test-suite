@@ -1,927 +1,665 @@
 {
-  "sprites": [
-    {
-      "id": "",
-      "index": 0,
-      "pivot": {
-        "x": 19.0,
-        "y": 31.0
-      },
-      "rect": {
-        "h": 62,
-        "w": 38,
-        "x": 195,
-        "y": 2
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 62,
-        "w": 38,
-        "x": 13,
-        "y": 1
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 0,
-      "trimmedRect": {
-        "h": 62,
-        "w": 38,
-        "x": 195,
-        "y": 2
-      },
-      "trimmedSourceRect": {
-        "h": 62,
-        "w": 38,
-        "x": 13,
-        "y": 1
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 38.0,
-          "y": 0.0
-        },
-        {
-          "x": 38.0,
-          "y": 62.0
-        },
-        {
-          "x": 0.0,
-          "y": 62.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 1,
-      "pivot": {
-        "x": 31.0,
-        "y": 31.0
-      },
-      "rect": {
-        "h": 62,
-        "w": 62,
-        "x": 124,
-        "y": 133
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 62,
-        "w": 62,
-        "x": 65,
-        "y": 1
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 1,
-      "trimmedRect": {
-        "h": 62,
-        "w": 62,
-        "x": 124,
-        "y": 133
-      },
-      "trimmedSourceRect": {
-        "h": 62,
-        "w": 62,
-        "x": 65,
-        "y": 1
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 62.0,
-          "y": 0.0
-        },
-        {
-          "x": 62.0,
-          "y": 62.0
-        },
-        {
-          "x": 0.0,
-          "y": 62.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 2,
-      "pivot": {
-        "x": 13.0,
-        "y": 31.5
-      },
-      "rect": {
-        "h": 63,
-        "w": 26,
-        "x": 96,
-        "y": 94
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 63,
-        "w": 26,
-        "x": 131,
-        "y": 1
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 2,
-      "trimmedRect": {
-        "h": 63,
-        "w": 26,
-        "x": 96,
-        "y": 94
-      },
-      "trimmedSourceRect": {
-        "h": 63,
-        "w": 26,
-        "x": 131,
-        "y": 1
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 26.0,
-          "y": 0.0
-        },
-        {
-          "x": 26.0,
-          "y": 63.0
-        },
-        {
-          "x": 0.0,
-          "y": 63.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 3,
-      "pivot": {
-        "x": 46.0,
-        "y": 30.0
-      },
-      "rect": {
-        "h": 60,
-        "w": 92,
-        "x": 2,
-        "y": 97
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 60,
-        "w": 92,
-        "x": 162,
-        "y": 2
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 3,
-      "trimmedRect": {
-        "h": 60,
-        "w": 92,
-        "x": 2,
-        "y": 97
-      },
-      "trimmedSourceRect": {
-        "h": 60,
-        "w": 92,
-        "x": 162,
-        "y": 2
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 92.0,
-          "y": 0.0
-        },
-        {
-          "x": 92.0,
-          "y": 60.0
-        },
-        {
-          "x": 0.0,
-          "y": 60.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 4,
-      "pivot": {
-        "x": 29.0,
-        "y": 28.5
-      },
-      "rect": {
-        "h": 57,
-        "w": 58,
-        "x": 188,
-        "y": 188
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 57,
-        "w": 58,
-        "x": 3,
-        "y": 68
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 4,
-      "trimmedRect": {
-        "h": 57,
-        "w": 58,
-        "x": 188,
-        "y": 188
-      },
-      "trimmedSourceRect": {
-        "h": 57,
-        "w": 58,
-        "x": 3,
-        "y": 68
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 58.0,
-          "y": 0.0
-        },
-        {
-          "x": 58.0,
-          "y": 57.0
-        },
-        {
-          "x": 0.0,
-          "y": 57.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 5,
-      "pivot": {
-        "x": 30.0,
-        "y": 20.0
-      },
-      "rect": {
-        "h": 40,
-        "w": 60,
-        "x": 2,
-        "y": 216
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 40,
-        "w": 60,
-        "x": 66,
-        "y": 76
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 5,
-      "trimmedRect": {
-        "h": 40,
-        "w": 60,
-        "x": 2,
-        "y": 216
-      },
-      "trimmedSourceRect": {
-        "h": 40,
-        "w": 60,
-        "x": 66,
-        "y": 76
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 40.0
-        },
-        {
-          "x": 0.0,
-          "y": 40.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 6,
-      "pivot": {
-        "x": 28.0,
-        "y": 31.0
-      },
-      "rect": {
-        "h": 62,
-        "w": 56,
-        "x": 191,
-        "y": 66
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 62,
-        "w": 56,
-        "x": 132,
-        "y": 65
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 6,
-      "trimmedRect": {
-        "h": 62,
-        "w": 56,
-        "x": 191,
-        "y": 66
-      },
-      "trimmedSourceRect": {
-        "h": 62,
-        "w": 56,
-        "x": 132,
-        "y": 65
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 56.0,
-          "y": 0.0
-        },
-        {
-          "x": 56.0,
-          "y": 62.0
-        },
-        {
-          "x": 0.0,
-          "y": 62.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 7,
-      "pivot": {
-        "x": 30.5,
-        "y": 46.5
-      },
-      "rect": {
-        "h": 93,
-        "w": 61,
-        "x": 2,
-        "y": 2
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 93,
-        "w": 61,
-        "x": 193,
-        "y": 65
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 7,
-      "trimmedRect": {
-        "h": 93,
-        "w": 61,
-        "x": 2,
-        "y": 2
-      },
-      "trimmedSourceRect": {
-        "h": 93,
-        "w": 61,
-        "x": 193,
-        "y": 65
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 61.0,
-          "y": 0.0
-        },
-        {
-          "x": 61.0,
-          "y": 93.0
-        },
-        {
-          "x": 0.0,
-          "y": 93.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 8,
-      "pivot": {
-        "x": 30.0,
-        "y": 27.5
-      },
-      "rect": {
-        "h": 55,
-        "w": 60,
-        "x": 2,
-        "y": 159
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 55,
-        "w": 60,
-        "x": 2,
-        "y": 133
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 8,
-      "trimmedRect": {
-        "h": 55,
-        "w": 60,
-        "x": 2,
-        "y": 159
-      },
-      "trimmedSourceRect": {
-        "h": 55,
-        "w": 60,
-        "x": 2,
-        "y": 133
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 55.0
-        },
-        {
-          "x": 0.0,
-          "y": 55.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 9,
-      "pivot": {
-        "x": 31.0,
-        "y": 31.0
-      },
-      "rect": {
-        "h": 62,
-        "w": 62,
-        "x": 131,
-        "y": 2
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 62,
-        "w": 62,
-        "x": 65,
-        "y": 129
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 9,
-      "trimmedRect": {
-        "h": 62,
-        "w": 62,
-        "x": 131,
-        "y": 2
-      },
-      "trimmedSourceRect": {
-        "h": 62,
-        "w": 62,
-        "x": 65,
-        "y": 129
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 62.0,
-          "y": 0.0
-        },
-        {
-          "x": 62.0,
-          "y": 62.0
-        },
-        {
-          "x": 0.0,
-          "y": 62.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 10,
-      "pivot": {
-        "x": 32.0,
-        "y": 32.0
-      },
-      "rect": {
-        "h": 64,
-        "w": 64,
-        "x": 65,
-        "y": 2
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 64,
-        "w": 64,
-        "x": 128,
-        "y": 128
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 10,
-      "trimmedRect": {
-        "h": 64,
-        "w": 64,
-        "x": 65,
-        "y": 2
-      },
-      "trimmedSourceRect": {
-        "h": 64,
-        "w": 64,
-        "x": 128,
-        "y": 128
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 64.0,
-          "y": 0.0
-        },
-        {
-          "x": 64.0,
-          "y": 64.0
-        },
-        {
-          "x": 0.0,
-          "y": 64.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 11,
-      "pivot": {
-        "x": 30.0,
-        "y": 12.0
-      },
-      "rect": {
-        "h": 24,
-        "w": 60,
-        "x": 65,
-        "y": 68
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 24,
-        "w": 60,
-        "x": 194,
-        "y": 164
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 11,
-      "trimmedRect": {
-        "h": 24,
-        "w": 60,
-        "x": 65,
-        "y": 68
-      },
-      "trimmedSourceRect": {
-        "h": 24,
-        "w": 60,
-        "x": 194,
-        "y": 164
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 24.0
-        },
-        {
-          "x": 0.0,
-          "y": 24.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 12,
-      "pivot": {
-        "x": 31.0,
-        "y": 31.5
-      },
-      "rect": {
-        "h": 63,
-        "w": 62,
-        "x": 127,
-        "y": 68
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 63,
-        "w": 62,
-        "x": 2,
-        "y": 192
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 12,
-      "trimmedRect": {
-        "h": 63,
-        "w": 62,
-        "x": 127,
-        "y": 68
-      },
-      "trimmedSourceRect": {
-        "h": 63,
-        "w": 62,
-        "x": 2,
-        "y": 192
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 62.0,
-          "y": 0.0
-        },
-        {
-          "x": 62.0,
-          "y": 63.0
-        },
-        {
-          "x": 0.0,
-          "y": 63.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 13,
-      "pivot": {
-        "x": 27.0,
-        "y": 27.0
-      },
-      "rect": {
-        "h": 54,
-        "w": 54,
-        "x": 64,
-        "y": 159
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 54,
-        "w": 54,
-        "x": 69,
-        "y": 197
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 13,
-      "trimmedRect": {
-        "h": 54,
-        "w": 54,
-        "x": 64,
-        "y": 159
-      },
-      "trimmedSourceRect": {
-        "h": 54,
-        "w": 54,
-        "x": 69,
-        "y": 197
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 54.0,
-          "y": 0.0
-        },
-        {
-          "x": 54.0,
-          "y": 54.0
-        },
-        {
-          "x": 0.0,
-          "y": 54.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 14,
-      "pivot": {
-        "x": 30.0,
-        "y": 25.0
-      },
-      "rect": {
-        "h": 50,
-        "w": 60,
-        "x": 120,
-        "y": 197
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 50,
-        "w": 60,
-        "x": 130,
-        "y": 199
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 14,
-      "trimmedRect": {
-        "h": 50,
-        "w": 60,
-        "x": 120,
-        "y": 197
-      },
-      "trimmedSourceRect": {
-        "h": 50,
-        "w": 60,
-        "x": 130,
-        "y": 199
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 0.0
-        },
-        {
-          "x": 60.0,
-          "y": 50.0
-        },
-        {
-          "x": 0.0,
-          "y": 50.0
-        }
-      ]
-    },
-    {
-      "id": "",
-      "index": 15,
-      "pivot": {
-        "x": 28.0,
-        "y": 28.0
-      },
-      "rect": {
-        "h": 56,
-        "w": 56,
-        "x": 191,
-        "y": 130
-      },
-      "rotated": false,
-      "sourceFilename": "decals-diffuse.png",
-      "sourcePath": "",
-      "sourceRect": {
-        "h": 56,
-        "w": 56,
-        "x": 196,
-        "y": 196
-      },
-      "tags": {},
-      "textureFilename": "spright0.png",
-      "textureSpriteIndex": 15,
-      "trimmedRect": {
-        "h": 56,
-        "w": 56,
-        "x": 191,
-        "y": 130
-      },
-      "trimmedSourceRect": {
-        "h": 56,
-        "w": 56,
-        "x": 196,
-        "y": 196
-      },
-      "vertices": [
-        {
-          "x": 0.0,
-          "y": 0.0
-        },
-        {
-          "x": 56.0,
-          "y": 0.0
-        },
-        {
-          "x": 56.0,
-          "y": 56.0
-        },
-        {
-          "x": 0.0,
-          "y": 56.0
-        }
-      ]
-    }
-  ],
-  "tags": [],
-  "textures": [
-    {
-      "filename": "spright0.png",
-      "height": 258,
-      "inputFilename": "spright.conf",
-      "spriteIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ],
-      "width": 249
-    }
-  ]
+	"sources": [
+		{
+			"filename": "decals-diffuse.png",
+			"height": 256,
+			"index": 0,
+			"path": "",
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
+			"width": 256
+		}
+	],
+	"sprites": [
+		{
+			"data": {},
+			"id": "sprite_0",
+			"index": 0,
+			"inputSpriteIndex": 0,
+			"pivot": {
+				"x": 19.0,
+				"y": 31.0
+			},
+			"rect": {
+				"h": 62,
+				"w": 38,
+				"x": 195,
+				"y": 2
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 62,
+				"w": 38,
+				"x": 13,
+				"y": 1
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 0,
+			"trimmedRect": {
+				"h": 62,
+				"w": 38,
+				"x": 195,
+				"y": 2
+			},
+			"trimmedSourceRect": {
+				"h": 62,
+				"w": 38,
+				"x": 13,
+				"y": 1
+			},
+			"vertices": [0.0,0.0,38.0,0.0,38.0,62.0,0.0,62.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_1",
+			"index": 1,
+			"inputSpriteIndex": 1,
+			"pivot": {
+				"x": 31.0,
+				"y": 31.0
+			},
+			"rect": {
+				"h": 62,
+				"w": 62,
+				"x": 124,
+				"y": 133
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 62,
+				"w": 62,
+				"x": 65,
+				"y": 1
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 1,
+			"trimmedRect": {
+				"h": 62,
+				"w": 62,
+				"x": 124,
+				"y": 133
+			},
+			"trimmedSourceRect": {
+				"h": 62,
+				"w": 62,
+				"x": 65,
+				"y": 1
+			},
+			"vertices": [0.0,0.0,62.0,0.0,62.0,62.0,0.0,62.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_2",
+			"index": 2,
+			"inputSpriteIndex": 2,
+			"pivot": {
+				"x": 13.0,
+				"y": 31.5
+			},
+			"rect": {
+				"h": 63,
+				"w": 26,
+				"x": 96,
+				"y": 94
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 63,
+				"w": 26,
+				"x": 131,
+				"y": 1
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 2,
+			"trimmedRect": {
+				"h": 63,
+				"w": 26,
+				"x": 96,
+				"y": 94
+			},
+			"trimmedSourceRect": {
+				"h": 63,
+				"w": 26,
+				"x": 131,
+				"y": 1
+			},
+			"vertices": [0.0,0.0,26.0,0.0,26.0,63.0,0.0,63.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_3",
+			"index": 3,
+			"inputSpriteIndex": 3,
+			"pivot": {
+				"x": 46.0,
+				"y": 30.0
+			},
+			"rect": {
+				"h": 60,
+				"w": 92,
+				"x": 2,
+				"y": 97
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 60,
+				"w": 92,
+				"x": 162,
+				"y": 2
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 3,
+			"trimmedRect": {
+				"h": 60,
+				"w": 92,
+				"x": 2,
+				"y": 97
+			},
+			"trimmedSourceRect": {
+				"h": 60,
+				"w": 92,
+				"x": 162,
+				"y": 2
+			},
+			"vertices": [0.0,0.0,92.0,0.0,92.0,60.0,0.0,60.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_4",
+			"index": 4,
+			"inputSpriteIndex": 4,
+			"pivot": {
+				"x": 29.0,
+				"y": 28.5
+			},
+			"rect": {
+				"h": 57,
+				"w": 58,
+				"x": 188,
+				"y": 188
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 57,
+				"w": 58,
+				"x": 3,
+				"y": 68
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 4,
+			"trimmedRect": {
+				"h": 57,
+				"w": 58,
+				"x": 188,
+				"y": 188
+			},
+			"trimmedSourceRect": {
+				"h": 57,
+				"w": 58,
+				"x": 3,
+				"y": 68
+			},
+			"vertices": [0.0,0.0,58.0,0.0,58.0,57.0,0.0,57.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_5",
+			"index": 5,
+			"inputSpriteIndex": 5,
+			"pivot": {
+				"x": 30.0,
+				"y": 20.0
+			},
+			"rect": {
+				"h": 40,
+				"w": 60,
+				"x": 2,
+				"y": 216
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 40,
+				"w": 60,
+				"x": 66,
+				"y": 76
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 5,
+			"trimmedRect": {
+				"h": 40,
+				"w": 60,
+				"x": 2,
+				"y": 216
+			},
+			"trimmedSourceRect": {
+				"h": 40,
+				"w": 60,
+				"x": 66,
+				"y": 76
+			},
+			"vertices": [0.0,0.0,60.0,0.0,60.0,40.0,0.0,40.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_6",
+			"index": 6,
+			"inputSpriteIndex": 6,
+			"pivot": {
+				"x": 28.0,
+				"y": 31.0
+			},
+			"rect": {
+				"h": 62,
+				"w": 56,
+				"x": 191,
+				"y": 66
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 62,
+				"w": 56,
+				"x": 132,
+				"y": 65
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 6,
+			"trimmedRect": {
+				"h": 62,
+				"w": 56,
+				"x": 191,
+				"y": 66
+			},
+			"trimmedSourceRect": {
+				"h": 62,
+				"w": 56,
+				"x": 132,
+				"y": 65
+			},
+			"vertices": [0.0,0.0,56.0,0.0,56.0,62.0,0.0,62.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_7",
+			"index": 7,
+			"inputSpriteIndex": 7,
+			"pivot": {
+				"x": 30.5,
+				"y": 46.5
+			},
+			"rect": {
+				"h": 93,
+				"w": 61,
+				"x": 2,
+				"y": 2
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 93,
+				"w": 61,
+				"x": 193,
+				"y": 65
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 7,
+			"trimmedRect": {
+				"h": 93,
+				"w": 61,
+				"x": 2,
+				"y": 2
+			},
+			"trimmedSourceRect": {
+				"h": 93,
+				"w": 61,
+				"x": 193,
+				"y": 65
+			},
+			"vertices": [0.0,0.0,61.0,0.0,61.0,93.0,0.0,93.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_8",
+			"index": 8,
+			"inputSpriteIndex": 8,
+			"pivot": {
+				"x": 30.0,
+				"y": 27.5
+			},
+			"rect": {
+				"h": 55,
+				"w": 60,
+				"x": 2,
+				"y": 159
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 55,
+				"w": 60,
+				"x": 2,
+				"y": 133
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 8,
+			"trimmedRect": {
+				"h": 55,
+				"w": 60,
+				"x": 2,
+				"y": 159
+			},
+			"trimmedSourceRect": {
+				"h": 55,
+				"w": 60,
+				"x": 2,
+				"y": 133
+			},
+			"vertices": [0.0,0.0,60.0,0.0,60.0,55.0,0.0,55.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_9",
+			"index": 9,
+			"inputSpriteIndex": 9,
+			"pivot": {
+				"x": 31.0,
+				"y": 31.0
+			},
+			"rect": {
+				"h": 62,
+				"w": 62,
+				"x": 131,
+				"y": 2
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 62,
+				"w": 62,
+				"x": 65,
+				"y": 129
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 9,
+			"trimmedRect": {
+				"h": 62,
+				"w": 62,
+				"x": 131,
+				"y": 2
+			},
+			"trimmedSourceRect": {
+				"h": 62,
+				"w": 62,
+				"x": 65,
+				"y": 129
+			},
+			"vertices": [0.0,0.0,62.0,0.0,62.0,62.0,0.0,62.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_10",
+			"index": 10,
+			"inputSpriteIndex": 10,
+			"pivot": {
+				"x": 32.0,
+				"y": 32.0
+			},
+			"rect": {
+				"h": 64,
+				"w": 64,
+				"x": 65,
+				"y": 2
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 64,
+				"w": 64,
+				"x": 128,
+				"y": 128
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 10,
+			"trimmedRect": {
+				"h": 64,
+				"w": 64,
+				"x": 65,
+				"y": 2
+			},
+			"trimmedSourceRect": {
+				"h": 64,
+				"w": 64,
+				"x": 128,
+				"y": 128
+			},
+			"vertices": [0.0,0.0,64.0,0.0,64.0,64.0,0.0,64.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_11",
+			"index": 11,
+			"inputSpriteIndex": 11,
+			"pivot": {
+				"x": 30.0,
+				"y": 12.0
+			},
+			"rect": {
+				"h": 24,
+				"w": 60,
+				"x": 65,
+				"y": 68
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 24,
+				"w": 60,
+				"x": 194,
+				"y": 164
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 11,
+			"trimmedRect": {
+				"h": 24,
+				"w": 60,
+				"x": 65,
+				"y": 68
+			},
+			"trimmedSourceRect": {
+				"h": 24,
+				"w": 60,
+				"x": 194,
+				"y": 164
+			},
+			"vertices": [0.0,0.0,60.0,0.0,60.0,24.0,0.0,24.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_12",
+			"index": 12,
+			"inputSpriteIndex": 12,
+			"pivot": {
+				"x": 31.0,
+				"y": 31.5
+			},
+			"rect": {
+				"h": 63,
+				"w": 62,
+				"x": 127,
+				"y": 68
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 63,
+				"w": 62,
+				"x": 2,
+				"y": 192
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 12,
+			"trimmedRect": {
+				"h": 63,
+				"w": 62,
+				"x": 127,
+				"y": 68
+			},
+			"trimmedSourceRect": {
+				"h": 63,
+				"w": 62,
+				"x": 2,
+				"y": 192
+			},
+			"vertices": [0.0,0.0,62.0,0.0,62.0,63.0,0.0,63.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_13",
+			"index": 13,
+			"inputSpriteIndex": 13,
+			"pivot": {
+				"x": 27.0,
+				"y": 27.0
+			},
+			"rect": {
+				"h": 54,
+				"w": 54,
+				"x": 64,
+				"y": 159
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 54,
+				"w": 54,
+				"x": 69,
+				"y": 197
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 13,
+			"trimmedRect": {
+				"h": 54,
+				"w": 54,
+				"x": 64,
+				"y": 159
+			},
+			"trimmedSourceRect": {
+				"h": 54,
+				"w": 54,
+				"x": 69,
+				"y": 197
+			},
+			"vertices": [0.0,0.0,54.0,0.0,54.0,54.0,0.0,54.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_14",
+			"index": 14,
+			"inputSpriteIndex": 14,
+			"pivot": {
+				"x": 30.0,
+				"y": 25.0
+			},
+			"rect": {
+				"h": 50,
+				"w": 60,
+				"x": 120,
+				"y": 197
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 50,
+				"w": 60,
+				"x": 130,
+				"y": 199
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 14,
+			"trimmedRect": {
+				"h": 50,
+				"w": 60,
+				"x": 120,
+				"y": 197
+			},
+			"trimmedSourceRect": {
+				"h": 50,
+				"w": 60,
+				"x": 130,
+				"y": 199
+			},
+			"vertices": [0.0,0.0,60.0,0.0,60.0,50.0,0.0,50.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_15",
+			"index": 15,
+			"inputSpriteIndex": 15,
+			"pivot": {
+				"x": 28.0,
+				"y": 28.0
+			},
+			"rect": {
+				"h": 56,
+				"w": 56,
+				"x": 191,
+				"y": 130
+			},
+			"rotated": false,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 56,
+				"w": 56,
+				"x": 196,
+				"y": 196
+			},
+			"tags": {},
+			"textureIndex": 0,
+			"textureSpriteIndex": 15,
+			"trimmedRect": {
+				"h": 56,
+				"w": 56,
+				"x": 191,
+				"y": 130
+			},
+			"trimmedSourceRect": {
+				"h": 56,
+				"w": 56,
+				"x": 196,
+				"y": 196
+			},
+			"vertices": [0.0,0.0,56.0,0.0,56.0,56.0,0.0,56.0]
+		}
+	],
+	"tags": {},
+	"textures": [
+		{
+			"filename": "spright0.png",
+			"height": 258,
+			"index": 0,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
+			"width": 249
+		}
+	]
 }
