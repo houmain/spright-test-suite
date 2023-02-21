@@ -1,4 +1,11 @@
 {
+	"slices": [
+		{
+			"index": 0,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+		}
+	],
 	"sources": [
 		{
 			"filename": "decals-diffuse.png",
@@ -26,6 +33,8 @@
 				"y": 2
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 62,
@@ -34,8 +43,6 @@
 				"y": 1
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 62,
 				"w": 38,
@@ -66,6 +73,8 @@
 				"y": 133
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 62,
@@ -74,8 +83,6 @@
 				"y": 1
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 1,
 			"trimmedRect": {
 				"h": 62,
 				"w": 62,
@@ -106,6 +113,8 @@
 				"y": 94
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 63,
@@ -114,8 +123,6 @@
 				"y": 1
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 2,
 			"trimmedRect": {
 				"h": 63,
 				"w": 26,
@@ -146,6 +153,8 @@
 				"y": 97
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 3,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 60,
@@ -154,8 +163,6 @@
 				"y": 2
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 3,
 			"trimmedRect": {
 				"h": 60,
 				"w": 92,
@@ -186,6 +193,8 @@
 				"y": 188
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 4,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 57,
@@ -194,8 +203,6 @@
 				"y": 68
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 4,
 			"trimmedRect": {
 				"h": 57,
 				"w": 58,
@@ -226,6 +233,8 @@
 				"y": 216
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 5,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 40,
@@ -234,8 +243,6 @@
 				"y": 76
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 5,
 			"trimmedRect": {
 				"h": 40,
 				"w": 60,
@@ -266,6 +273,8 @@
 				"y": 66
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 6,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 62,
@@ -274,8 +283,6 @@
 				"y": 65
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 6,
 			"trimmedRect": {
 				"h": 62,
 				"w": 56,
@@ -306,6 +313,8 @@
 				"y": 2
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 7,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 93,
@@ -314,8 +323,6 @@
 				"y": 65
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 7,
 			"trimmedRect": {
 				"h": 93,
 				"w": 61,
@@ -346,6 +353,8 @@
 				"y": 159
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 8,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 55,
@@ -354,8 +363,6 @@
 				"y": 133
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 8,
 			"trimmedRect": {
 				"h": 55,
 				"w": 60,
@@ -386,6 +393,8 @@
 				"y": 2
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 9,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 62,
@@ -394,8 +403,6 @@
 				"y": 129
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 9,
 			"trimmedRect": {
 				"h": 62,
 				"w": 62,
@@ -426,6 +433,8 @@
 				"y": 2
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 10,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 64,
@@ -434,8 +443,6 @@
 				"y": 128
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 10,
 			"trimmedRect": {
 				"h": 64,
 				"w": 64,
@@ -466,6 +473,8 @@
 				"y": 68
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 11,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 24,
@@ -474,8 +483,6 @@
 				"y": 164
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 11,
 			"trimmedRect": {
 				"h": 24,
 				"w": 60,
@@ -506,6 +513,8 @@
 				"y": 68
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 12,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 63,
@@ -514,8 +523,6 @@
 				"y": 192
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 12,
 			"trimmedRect": {
 				"h": 63,
 				"w": 62,
@@ -546,6 +553,8 @@
 				"y": 159
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 13,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 54,
@@ -554,8 +563,6 @@
 				"y": 197
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 13,
 			"trimmedRect": {
 				"h": 54,
 				"w": 54,
@@ -586,6 +593,8 @@
 				"y": 197
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 14,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 50,
@@ -594,8 +603,6 @@
 				"y": 199
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 14,
 			"trimmedRect": {
 				"h": 50,
 				"w": 60,
@@ -626,6 +633,8 @@
 				"y": 130
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 15,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 56,
@@ -634,8 +643,6 @@
 				"y": 196
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 15,
 			"trimmedRect": {
 				"h": 56,
 				"w": 56,
@@ -654,10 +661,32 @@
 	"tags": {},
 	"textures": [
 		{
-			"filename": "spright0.png",
+			"filename": "spright-0.png",
 			"height": 258,
 			"index": 0,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 0,
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
+			"width": 249
+		},
+		{
+			"filename": "spright-0-specular.png",
+			"height": 258,
+			"index": 1,
+			"map": "-specular",
+			"scale": 1.0,
+			"sliceIndex": 0,
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
+			"width": 249
+		},
+		{
+			"filename": "spright-0-normals.png",
+			"height": 258,
+			"index": 2,
+			"map": "-normals",
+			"scale": 1.0,
+			"sliceIndex": 0,
 			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
 			"width": 249
 		}

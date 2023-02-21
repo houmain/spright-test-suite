@@ -1,4 +1,11 @@
 {
+	"slices": [
+		{
+			"index": 0,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [0]
+		}
+	],
 	"sources": [
 		{
 			"filename": "diffuse.png",
@@ -26,6 +33,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 512,
@@ -34,8 +43,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 512,
 				"w": 512,
@@ -54,12 +61,54 @@
 	"tags": {},
 	"textures": [
 		{
-			"filename": "spright0.png",
-			"height": 512,
+			"filename": "spright-0.5.png",
+			"height": 256,
 			"index": 0,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 0.5,
+			"sliceIndex": 0,
 			"spriteIndices": [0],
-			"width": 512
+			"width": 256
+		},
+		{
+			"filename": "spright-0.25.png",
+			"height": 128,
+			"index": 1,
+			"map": "",
+			"scale": 0.25,
+			"sliceIndex": 0,
+			"spriteIndices": [0],
+			"width": 128
+		},
+		{
+			"filename": "spright-0.125.png",
+			"height": 64,
+			"index": 2,
+			"map": "",
+			"scale": 0.125,
+			"sliceIndex": 0,
+			"spriteIndices": [0],
+			"width": 64
+		},
+		{
+			"filename": "spright-0.0625.png",
+			"height": 32,
+			"index": 3,
+			"map": "",
+			"scale": 0.0625,
+			"sliceIndex": 0,
+			"spriteIndices": [0],
+			"width": 32
+		},
+		{
+			"filename": "spright-0.03125.png",
+			"height": 16,
+			"index": 4,
+			"map": "",
+			"scale": 0.03125,
+			"sliceIndex": 0,
+			"spriteIndices": [0],
+			"width": 16
 		}
 	]
 }

@@ -1,4 +1,96 @@
 {
+	"slices": [
+		{
+			"index": 0,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [0]
+		},
+		{
+			"index": 1,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [1]
+		},
+		{
+			"index": 2,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [2]
+		},
+		{
+			"index": 3,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [3]
+		},
+		{
+			"index": 4,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [4]
+		},
+		{
+			"index": 5,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [5]
+		},
+		{
+			"index": 6,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [6]
+		},
+		{
+			"index": 7,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [7]
+		},
+		{
+			"index": 8,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [8]
+		},
+		{
+			"index": 9,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [9]
+		},
+		{
+			"index": 10,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [10]
+		},
+		{
+			"index": 11,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [11]
+		},
+		{
+			"index": 12,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [12]
+		},
+		{
+			"index": 13,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [13]
+		},
+		{
+			"index": 14,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [14]
+		},
+		{
+			"index": 15,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [15]
+		},
+		{
+			"index": 16,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [16]
+		},
+		{
+			"index": 17,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [17]
+		}
+	],
 	"sources": [
 		{
 			"filename": "Items.png",
@@ -26,6 +118,8 @@
 				"y": -4
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -34,8 +128,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 8,
 				"w": 8,
@@ -66,6 +158,8 @@
 				"y": -1
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -74,8 +168,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 14,
 				"w": 14,
@@ -106,6 +198,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -114,8 +208,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -146,6 +238,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 3,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -154,8 +248,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 3,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -186,6 +278,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 4,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -194,8 +288,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 4,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -226,6 +318,8 @@
 				"y": -2
 			},
 			"rotated": false,
+			"sliceIndex": 5,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -234,8 +328,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 5,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 14,
 				"w": 16,
@@ -266,6 +358,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 6,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -274,8 +368,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 6,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -306,6 +398,8 @@
 				"y": -1
 			},
 			"rotated": false,
+			"sliceIndex": 7,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -314,8 +408,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 7,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 14,
 				"w": 14,
@@ -346,6 +438,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 8,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -354,8 +448,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 8,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -386,6 +478,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 9,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -394,8 +488,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 9,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -426,6 +518,8 @@
 				"y": -5
 			},
 			"rotated": false,
+			"sliceIndex": 10,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -434,8 +528,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 10,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 11,
 				"w": 15,
@@ -466,6 +558,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 11,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -474,8 +568,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 11,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -506,6 +598,8 @@
 				"y": -1
 			},
 			"rotated": false,
+			"sliceIndex": 12,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -514,8 +608,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 12,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 12,
 				"w": 14,
@@ -546,6 +638,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 13,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -554,8 +648,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 13,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -586,6 +678,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 14,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -594,8 +688,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 14,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 16,
@@ -626,6 +718,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 15,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -634,8 +728,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 15,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 10,
@@ -666,6 +758,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 16,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -674,8 +768,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 16,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 4,
@@ -706,6 +798,8 @@
 				"y": 0
 			},
 			"rotated": false,
+			"sliceIndex": 17,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 16,
@@ -714,8 +808,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 17,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 16,
 				"w": 10,
@@ -737,7 +829,9 @@
 			"filename": "out/sprite001.png",
 			"height": 8,
 			"index": 0,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 8
 		},
@@ -745,7 +839,9 @@
 			"filename": "out/sprite002.png",
 			"height": 14,
 			"index": 1,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 1,
 			"spriteIndices": [1],
 			"width": 14
 		},
@@ -753,7 +849,9 @@
 			"filename": "out/sprite003.png",
 			"height": 16,
 			"index": 2,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 2,
 			"spriteIndices": [2],
 			"width": 16
 		},
@@ -761,7 +859,9 @@
 			"filename": "out/sprite004.png",
 			"height": 16,
 			"index": 3,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 3,
 			"spriteIndices": [3],
 			"width": 16
 		},
@@ -769,7 +869,9 @@
 			"filename": "out/sprite005.png",
 			"height": 16,
 			"index": 4,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 4,
 			"spriteIndices": [4],
 			"width": 16
 		},
@@ -777,7 +879,9 @@
 			"filename": "out/sprite006.png",
 			"height": 14,
 			"index": 5,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 5,
 			"spriteIndices": [5],
 			"width": 16
 		},
@@ -785,7 +889,9 @@
 			"filename": "out/sprite007.png",
 			"height": 16,
 			"index": 6,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 6,
 			"spriteIndices": [6],
 			"width": 16
 		},
@@ -793,7 +899,9 @@
 			"filename": "out/sprite008.png",
 			"height": 14,
 			"index": 7,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 7,
 			"spriteIndices": [7],
 			"width": 14
 		},
@@ -801,7 +909,9 @@
 			"filename": "out/sprite009.png",
 			"height": 16,
 			"index": 8,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 8,
 			"spriteIndices": [8],
 			"width": 16
 		},
@@ -809,7 +919,9 @@
 			"filename": "out/sprite010.png",
 			"height": 16,
 			"index": 9,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 9,
 			"spriteIndices": [9],
 			"width": 16
 		},
@@ -817,7 +929,9 @@
 			"filename": "out/sprite011.png",
 			"height": 11,
 			"index": 10,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 10,
 			"spriteIndices": [10],
 			"width": 15
 		},
@@ -825,7 +939,9 @@
 			"filename": "out/sprite012.png",
 			"height": 16,
 			"index": 11,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 11,
 			"spriteIndices": [11],
 			"width": 16
 		},
@@ -833,7 +949,9 @@
 			"filename": "out/sprite013.png",
 			"height": 12,
 			"index": 12,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 12,
 			"spriteIndices": [12],
 			"width": 14
 		},
@@ -841,7 +959,9 @@
 			"filename": "out/sprite014.png",
 			"height": 16,
 			"index": 13,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 13,
 			"spriteIndices": [13],
 			"width": 16
 		},
@@ -849,7 +969,9 @@
 			"filename": "out/sprite015.png",
 			"height": 16,
 			"index": 14,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 14,
 			"spriteIndices": [14],
 			"width": 16
 		},
@@ -857,7 +979,9 @@
 			"filename": "out/sprite016.png",
 			"height": 16,
 			"index": 15,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 15,
 			"spriteIndices": [15],
 			"width": 10
 		},
@@ -865,7 +989,9 @@
 			"filename": "out/sprite017.png",
 			"height": 16,
 			"index": 16,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 16,
 			"spriteIndices": [16],
 			"width": 4
 		},
@@ -873,7 +999,9 @@
 			"filename": "out/sprite018.png",
 			"height": 16,
 			"index": 17,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 17,
 			"spriteIndices": [17],
 			"width": 10
 		}

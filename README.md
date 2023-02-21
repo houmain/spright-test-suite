@@ -17,11 +17,11 @@ Packing sprites from different sources:
 
 With minimal configuration: [spright.conf](docs-auto/spright.conf)
 
-<kbd><img src="docs-auto/spright0.png"/></kbd>
+<kbd><img src="docs-auto/spright-0.png"/></kbd>
 
 With additional information provided, like the _span_ of window sprites: [spright.conf](docs/spright.conf)
 
-<kbd><img src="docs/spright0.png"/></kbd>
+<kbd><img src="docs/spright-0.png"/></kbd>
 
 --------
 
@@ -29,9 +29,9 @@ With additional information provided, like the _span_ of window sprites: [sprigh
 
 Packing to multiple outputs with some constraints (max-width, max-height, power-of-two): [spright.conf](constraints/spright.conf)
 
-<kbd><img src="constraints/spright0.png"/></kbd>
-<kbd><img src="constraints/spright1.png"/></kbd>
-<kbd><img src="constraints/spright2.png"/></kbd>
+<kbd><img src="constraints/spright-0.png"/></kbd>
+<kbd><img src="constraints/spright-1.png"/></kbd>
+<kbd><img src="constraints/spright-2.png"/></kbd>
 
 --------
 
@@ -44,16 +44,16 @@ Packing sprites by their convex outline: [spright.conf](compact/spright.conf)
 
 --------
 
-## Layers
+## Maps
 
-Packing multiple sheets with a shared set of output coordinates [spright.conf](layers/spright.conf)
+Packing multiple sheets with a shared set of output coordinates [spright.conf](maps/spright.conf)
 
-<kbd><img src="layers/decals-diffuse.png"/></kbd>
-<kbd><img src="layers/decals-normal.png"/></kbd>
-<kbd><img src="layers/decals-specular.png"/></kbd><br/>
-<kbd><img src="layers/spright0.png"/></kbd>
-<kbd><img src="layers/spright0-normals.png"/></kbd>
-<kbd><img src="layers/spright0-specular.png"/></kbd>
+<kbd><img src="maps/decals-diffuse.png"/></kbd>
+<kbd><img src="maps/decals-normal.png"/></kbd>
+<kbd><img src="maps/decals-specular.png"/></kbd><br/>
+<kbd><img src="maps/spright-0.png"/></kbd>
+<kbd><img src="maps/spright-0-normals.png"/></kbd>
+<kbd><img src="maps/spright-0-specular.png"/></kbd>
 
 --------
 
@@ -62,8 +62,8 @@ Packing multiple sheets with a shared set of output coordinates [spright.conf](l
 Finding unique tiles in an image: [spright.conf](deduplicate/spright.conf)
 
 <kbd><img src="deduplicate/colony-sim-extended-prev.png"/></kbd><br/>
-<kbd><img src="deduplicate/spright-keep.png"/></kbd>
-<kbd><img src="deduplicate/spright-rows.png"/></kbd>
+<kbd><img src="deduplicate/spright-keep-0.png"/></kbd>
+<kbd><img src="deduplicate/spright-rows-0.png"/></kbd>
 
 --------
 
@@ -98,7 +98,7 @@ Splitting a sprite sheet in individual files: [spright.conf](split/spright.conf)
 Splitting multiple arrangements at once: [spright.conf](grid/spright.conf)
 
 <kbd><img src="grid/explosion3.png"/></kbd><br/>
-<kbd><img src="grid/spright0.png"/></kbd>
+<kbd><img src="grid/spright-0.png"/></kbd>
 
 --------
 
@@ -107,11 +107,11 @@ Splitting multiple arrangements at once: [spright.conf](grid/spright.conf)
 Generating multiple resolutions of output: [spright.conf](scalings/spright.conf)
 
 <kbd><img src="scalings/diffuse.png"/></kbd><br/>
-<kbd><img src="scalings/spright0-0.5.png"/></kbd>
-<kbd><img src="scalings/spright0-0.25.png"/></kbd>
-<kbd><img src="scalings/spright0-0.125.png"/></kbd>
-<kbd><img src="scalings/spright0-0.0625.png"/></kbd>
-<kbd><img src="scalings/spright0-0.03125.png"/></kbd>
+<kbd><img src="scalings/spright-0.5.png"/></kbd>
+<kbd><img src="scalings/spright-0.25.png"/></kbd>
+<kbd><img src="scalings/spright-0.125.png"/></kbd>
+<kbd><img src="scalings/spright-0.0625.png"/></kbd>
+<kbd><img src="scalings/spright-0.03125.png"/></kbd>
 
 --------
 
@@ -119,6 +119,6 @@ Generating multiple resolutions of output: [spright.conf](scalings/spright.conf)
 
 Adding a padding around sprites and fill it depending on wrap mode (clamp, mirror, repeat): [spright.conf](extrude/spright.conf)
 
-<kbd><img src="extrude/spright-clamp.png"/></kbd>
-<kbd><img src="extrude/spright-mirror.png"/></kbd>
-<kbd><img src="extrude/spright-repeat.png"/></kbd>
+<kbd><img src="extrude/spright-clamp-0.png"/></kbd>
+<kbd><img src="extrude/spright-mirror-0.png"/></kbd>
+<kbd><img src="extrude/spright-repeat-0.png"/></kbd>

@@ -1,4 +1,21 @@
 {
+	"slices": [
+		{
+			"index": 0,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [6,13,16,18,56,57,58,59,60,61,69,71,72,73,74,76,77,78,79,80,82,84,86,88,91,92,93,94]
+		},
+		{
+			"index": 1,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [0,1,2,3,4,5,7,8,9,10,11,12,14,15,17,19,20,23,25,30,33,34,40,41,42,43,44,45,47,48,49,54,55,63,75,83,85,89]
+		},
+		{
+			"index": 2,
+			"inputFilename": "spright.conf",
+			"spriteIndices": [21,22,24,26,27,28,29,31,32,35,36,37,38,39,46,50,51,52,53,62,64,65,66,67,68,70,81,87,90]
+		}
+	],
 	"sources": [
 		{
 			"filename": "Decorations (32x32).png",
@@ -74,6 +91,8 @@
 				"y": 8
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -82,8 +101,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 32,
 				"w": 26,
@@ -114,6 +131,8 @@
 				"y": 223
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 1,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -122,8 +141,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 1,
 			"trimmedRect": {
 				"h": 7,
 				"w": 32,
@@ -154,6 +171,8 @@
 				"y": 223
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 2,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -162,8 +181,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 2,
 			"trimmedRect": {
 				"h": 6,
 				"w": 32,
@@ -194,6 +211,8 @@
 				"y": 223
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 3,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -202,8 +221,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 3,
 			"trimmedRect": {
 				"h": 7,
 				"w": 32,
@@ -234,6 +251,8 @@
 				"y": 223
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 4,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -242,8 +261,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 4,
 			"trimmedRect": {
 				"h": 7,
 				"w": 32,
@@ -274,6 +291,8 @@
 				"y": 41
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 5,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -282,8 +301,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 5,
 			"trimmedRect": {
 				"h": 32,
 				"w": 26,
@@ -314,6 +331,8 @@
 				"y": 236
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -322,8 +341,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 15,
 				"w": 32,
@@ -354,6 +371,8 @@
 				"y": 151
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 6,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -362,8 +381,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 6,
 			"trimmedRect": {
 				"h": 14,
 				"w": 32,
@@ -394,6 +411,8 @@
 				"y": 135
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 7,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -402,8 +421,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 7,
 			"trimmedRect": {
 				"h": 15,
 				"w": 32,
@@ -434,6 +451,8 @@
 				"y": 119
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 8,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -442,8 +461,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 8,
 			"trimmedRect": {
 				"h": 15,
 				"w": 32,
@@ -474,6 +491,8 @@
 				"y": 100
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 9,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -482,8 +501,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 9,
 			"trimmedRect": {
 				"h": 25,
 				"w": 26,
@@ -514,6 +531,8 @@
 				"y": 126
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 10,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -522,8 +541,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 10,
 			"trimmedRect": {
 				"h": 25,
 				"w": 23,
@@ -554,6 +571,8 @@
 				"y": 93
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 11,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -562,8 +581,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 11,
 			"trimmedRect": {
 				"h": 25,
 				"w": 32,
@@ -594,6 +611,8 @@
 				"y": 205
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -602,8 +621,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 1,
 			"trimmedRect": {
 				"h": 25,
 				"w": 23,
@@ -634,6 +651,8 @@
 				"y": 67
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 12,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -642,8 +661,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 12,
 			"trimmedRect": {
 				"h": 25,
 				"w": 32,
@@ -674,6 +691,8 @@
 				"y": 74
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 13,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -682,8 +701,6 @@
 				"y": 96
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 13,
 			"trimmedRect": {
 				"h": 25,
 				"w": 26,
@@ -714,6 +731,8 @@
 				"y": 172
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -722,8 +741,6 @@
 				"y": 96
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 2,
 			"trimmedRect": {
 				"h": 32,
 				"w": 23,
@@ -754,6 +771,8 @@
 				"y": 1
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 14,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -762,8 +781,6 @@
 				"y": 96
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 14,
 			"trimmedRect": {
 				"h": 32,
 				"w": 32,
@@ -794,6 +811,8 @@
 				"y": 139
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 3,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -802,8 +821,6 @@
 				"y": 96
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 3,
 			"trimmedRect": {
 				"h": 32,
 				"w": 23,
@@ -834,6 +851,8 @@
 				"y": 34
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 15,
 			"sourceIndex": 0,
 			"sourceRect": {
 				"h": 32,
@@ -842,8 +861,6 @@
 				"y": 96
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 15,
 			"trimmedRect": {
 				"h": 32,
 				"w": 32,
@@ -874,6 +891,8 @@
 				"y": 186
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 16,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -882,8 +901,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 16,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -914,6 +931,8 @@
 				"y": 27
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 0,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -922,8 +941,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 0,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -954,6 +971,8 @@
 				"y": 51
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 1,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -962,8 +981,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 1,
 			"trimmedRect": {
 				"h": 5,
 				"w": 12,
@@ -994,6 +1011,8 @@
 				"y": 211
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 17,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1002,8 +1021,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 17,
 			"trimmedRect": {
 				"h": 11,
 				"w": 14,
@@ -1034,6 +1051,8 @@
 				"y": 39
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 2,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1042,8 +1061,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 2,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -1074,6 +1091,8 @@
 				"y": 211
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 18,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1082,8 +1101,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 18,
 			"trimmedRect": {
 				"h": 11,
 				"w": 13,
@@ -1114,6 +1131,8 @@
 				"y": 51
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 3,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1122,8 +1141,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 3,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -1154,6 +1171,8 @@
 				"y": 41
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 4,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1162,8 +1181,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 4,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -1194,6 +1211,8 @@
 				"y": 29
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 5,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1202,8 +1221,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 5,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -1234,6 +1251,8 @@
 				"y": 27
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 6,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1242,8 +1261,6 @@
 				"y": 16
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 6,
 			"trimmedRect": {
 				"h": 11,
 				"w": 12,
@@ -1274,6 +1291,8 @@
 				"y": 198
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 19,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1282,8 +1301,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 19,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1314,6 +1331,8 @@
 				"y": 14
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 7,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1322,8 +1341,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 7,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1354,6 +1371,8 @@
 				"y": 28
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 8,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1362,8 +1381,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 8,
 			"trimmedRect": {
 				"h": 13,
 				"w": 12,
@@ -1394,6 +1411,8 @@
 				"y": 225
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 20,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1402,8 +1421,6 @@
 				"y": 32
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 20,
 			"trimmedRect": {
 				"h": 14,
 				"w": 14,
@@ -1434,6 +1451,8 @@
 				"y": 198
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 21,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1442,8 +1461,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 21,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1474,6 +1491,8 @@
 				"y": 1
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 9,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1482,8 +1501,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 9,
 			"trimmedRect": {
 				"h": 14,
 				"w": 13,
@@ -1514,6 +1531,8 @@
 				"y": 14
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 10,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1522,8 +1541,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 10,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1554,6 +1571,8 @@
 				"y": 1
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 11,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1562,8 +1581,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 11,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1594,6 +1611,8 @@
 				"y": 1
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 12,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1602,8 +1621,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 12,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1634,6 +1651,8 @@
 				"y": 15
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 13,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1642,8 +1661,6 @@
 				"y": 48
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 13,
 			"trimmedRect": {
 				"h": 14,
 				"w": 12,
@@ -1674,6 +1691,8 @@
 				"y": 197
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 22,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1682,8 +1701,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 22,
 			"trimmedRect": {
 				"h": 13,
 				"w": 16,
@@ -1714,6 +1731,8 @@
 				"y": 166
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 23,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1722,8 +1741,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 23,
 			"trimmedRect": {
 				"h": 13,
 				"w": 16,
@@ -1754,6 +1771,8 @@
 				"y": 180
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 24,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1762,8 +1781,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 24,
 			"trimmedRect": {
 				"h": 5,
 				"w": 16,
@@ -1794,6 +1811,8 @@
 				"y": 223
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 25,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1802,8 +1821,6 @@
 				"y": 64
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 25,
 			"trimmedRect": {
 				"h": 12,
 				"w": 16,
@@ -1834,6 +1851,8 @@
 				"y": 166
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 26,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1842,8 +1861,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 26,
 			"trimmedRect": {
 				"h": 13,
 				"w": 16,
@@ -1874,6 +1891,8 @@
 				"y": 183
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 27,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1882,8 +1901,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 27,
 			"trimmedRect": {
 				"h": 13,
 				"w": 14,
@@ -1914,6 +1931,8 @@
 				"y": 1
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 14,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1922,8 +1941,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 14,
 			"trimmedRect": {
 				"h": 13,
 				"w": 14,
@@ -1954,6 +1971,8 @@
 				"y": 240
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 28,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -1962,8 +1981,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 28,
 			"trimmedRect": {
 				"h": 13,
 				"w": 16,
@@ -1994,6 +2011,8 @@
 				"y": 169
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 29,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -2002,8 +2021,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 29,
 			"trimmedRect": {
 				"h": 13,
 				"w": 16,
@@ -2034,6 +2051,8 @@
 				"y": 183
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 30,
 			"sourceIndex": 1,
 			"sourceRect": {
 				"h": 16,
@@ -2042,8 +2061,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 30,
 			"trimmedRect": {
 				"h": 13,
 				"w": 16,
@@ -2074,6 +2091,8 @@
 				"y": 57
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 15,
 			"sourceIndex": 2,
 			"sourceRect": {
 				"h": 15,
@@ -2082,8 +2101,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 15,
 			"trimmedRect": {
 				"h": 7,
 				"w": 8,
@@ -2114,6 +2131,8 @@
 				"y": 27
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 16,
 			"sourceIndex": 3,
 			"sourceRect": {
 				"h": 15,
@@ -2122,8 +2141,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 16,
 			"trimmedRect": {
 				"h": 7,
 				"w": 12,
@@ -2154,6 +2171,8 @@
 				"y": 40
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 17,
 			"sourceIndex": 4,
 			"sourceRect": {
 				"h": 15,
@@ -2162,8 +2181,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 17,
 			"trimmedRect": {
 				"h": 8,
 				"w": 12,
@@ -2194,6 +2211,8 @@
 				"y": 53
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 18,
 			"sourceIndex": 5,
 			"sourceRect": {
 				"h": 15,
@@ -2202,8 +2221,6 @@
 				"y": 0
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 18,
 			"trimmedRect": {
 				"h": 8,
 				"w": 8,
@@ -2234,6 +2251,8 @@
 				"y": 1
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 31,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 27,
@@ -2242,8 +2261,6 @@
 				"y": 12
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 31,
 			"trimmedRect": {
 				"h": 27,
 				"w": 6,
@@ -2274,6 +2291,8 @@
 				"y": 150
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 32,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 24,
@@ -2282,8 +2301,6 @@
 				"y": 12
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 32,
 			"trimmedRect": {
 				"h": 24,
 				"w": 4,
@@ -2314,6 +2331,8 @@
 				"y": 151
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 4,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 34,
@@ -2322,8 +2341,6 @@
 				"y": 9
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 4,
 			"trimmedRect": {
 				"h": 34,
 				"w": 6,
@@ -2354,6 +2371,8 @@
 				"y": 37
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 5,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 40,
@@ -2362,8 +2381,6 @@
 				"y": 8
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 5,
 			"trimmedRect": {
 				"h": 40,
 				"w": 7,
@@ -2394,6 +2411,8 @@
 				"y": 1
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 6,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 52,
@@ -2402,8 +2421,6 @@
 				"y": 17
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 6,
 			"trimmedRect": {
 				"h": 52,
 				"w": 17,
@@ -2434,6 +2451,8 @@
 				"y": 19
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 7,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 51,
@@ -2442,8 +2461,6 @@
 				"y": 18
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 7,
 			"trimmedRect": {
 				"h": 51,
 				"w": 17,
@@ -2474,6 +2491,8 @@
 				"y": 158
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 8,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 77,
@@ -2482,8 +2501,6 @@
 				"y": 8
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 8,
 			"trimmedRect": {
 				"h": 77,
 				"w": 32,
@@ -2514,6 +2531,8 @@
 				"y": 158
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 9,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 67,
@@ -2522,8 +2541,6 @@
 				"y": 5
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 9,
 			"trimmedRect": {
 				"h": 67,
 				"w": 5,
@@ -2554,6 +2571,8 @@
 				"y": 60
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 19,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 67,
@@ -2562,8 +2581,6 @@
 				"y": 5
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 19,
 			"trimmedRect": {
 				"h": 67,
 				"w": 5,
@@ -2594,6 +2611,8 @@
 				"y": 155
 			},
 			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 33,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 67,
@@ -2602,8 +2621,6 @@
 				"y": 5
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 33,
 			"trimmedRect": {
 				"h": 67,
 				"w": 11,
@@ -2634,6 +2651,8 @@
 				"y": 62
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 20,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 7,
@@ -2642,8 +2661,6 @@
 				"y": 50
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 20,
 			"trimmedRect": {
 				"h": 7,
 				"w": 6,
@@ -2674,6 +2691,8 @@
 				"y": 53
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 21,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 7,
@@ -2682,8 +2701,6 @@
 				"y": 50
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 21,
 			"trimmedRect": {
 				"h": 7,
 				"w": 6,
@@ -2714,6 +2731,8 @@
 				"y": 53
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 22,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 7,
@@ -2722,8 +2741,6 @@
 				"y": 50
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 22,
 			"trimmedRect": {
 				"h": 7,
 				"w": 6,
@@ -2754,6 +2771,8 @@
 				"y": 60
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 23,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 7,
@@ -2762,8 +2781,6 @@
 				"y": 62
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 23,
 			"trimmedRect": {
 				"h": 7,
 				"w": 6,
@@ -2794,6 +2811,8 @@
 				"y": 62
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 24,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 7,
@@ -2802,8 +2821,6 @@
 				"y": 62
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 24,
 			"trimmedRect": {
 				"h": 7,
 				"w": 6,
@@ -2834,6 +2851,8 @@
 				"y": 129
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 10,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 8,
@@ -2842,8 +2861,6 @@
 				"y": 71
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 10,
 			"trimmedRect": {
 				"h": 8,
 				"w": 6,
@@ -2874,6 +2891,8 @@
 				"y": 53
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 25,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 7,
@@ -2882,8 +2901,6 @@
 				"y": 71
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 25,
 			"trimmedRect": {
 				"h": 7,
 				"w": 6,
@@ -2914,6 +2931,8 @@
 				"y": 40
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 11,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 24,
@@ -2922,8 +2941,6 @@
 				"y": 62
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 11,
 			"trimmedRect": {
 				"h": 24,
 				"w": 21,
@@ -2954,6 +2971,8 @@
 				"y": 37
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 12,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 1,
@@ -2962,8 +2981,6 @@
 				"y": 79
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 12,
 			"trimmedRect": {
 				"h": 1,
 				"w": 1,
@@ -2994,6 +3011,8 @@
 				"y": 107
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 13,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 3,
@@ -3002,8 +3021,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 13,
 			"trimmedRect": {
 				"h": 3,
 				"w": 15,
@@ -3034,6 +3051,8 @@
 				"y": 123
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 14,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 3,
@@ -3042,8 +3061,6 @@
 				"y": 80
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 14,
 			"trimmedRect": {
 				"h": 3,
 				"w": 15,
@@ -3074,6 +3091,8 @@
 				"y": 211
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 34,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 6,
@@ -3082,8 +3101,6 @@
 				"y": 89
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 34,
 			"trimmedRect": {
 				"h": 6,
 				"w": 13,
@@ -3114,6 +3131,8 @@
 				"y": 107
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 15,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 18,
@@ -3122,8 +3141,6 @@
 				"y": 90
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 15,
 			"trimmedRect": {
 				"h": 18,
 				"w": 10,
@@ -3154,6 +3171,8 @@
 				"y": 19
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 16,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 20,
@@ -3162,8 +3181,6 @@
 				"y": 88
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 16,
 			"trimmedRect": {
 				"h": 20,
 				"w": 10,
@@ -3194,6 +3211,8 @@
 				"y": 118
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 17,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 18,
@@ -3202,8 +3221,6 @@
 				"y": 90
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 17,
 			"trimmedRect": {
 				"h": 18,
 				"w": 10,
@@ -3234,6 +3251,8 @@
 				"y": 88
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 18,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 20,
@@ -3242,8 +3261,6 @@
 				"y": 88
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 18,
 			"trimmedRect": {
 				"h": 20,
 				"w": 10,
@@ -3274,6 +3291,8 @@
 				"y": 45
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 19,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 38,
@@ -3282,8 +3301,6 @@
 				"y": 75
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 19,
 			"trimmedRect": {
 				"h": 38,
 				"w": 39,
@@ -3314,6 +3331,8 @@
 				"y": 15
 			},
 			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 26,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 13,
@@ -3322,8 +3341,6 @@
 				"y": 99
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 26,
 			"trimmedRect": {
 				"h": 13,
 				"w": 13,
@@ -3354,6 +3371,8 @@
 				"y": 123
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 20,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 38,
@@ -3362,8 +3381,6 @@
 				"y": 88
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 20,
 			"trimmedRect": {
 				"h": 38,
 				"w": 27,
@@ -3394,6 +3411,8 @@
 				"y": 240
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 35,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 13,
@@ -3402,8 +3421,6 @@
 				"y": 118
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 35,
 			"trimmedRect": {
 				"h": 13,
 				"w": 15,
@@ -3434,6 +3451,8 @@
 				"y": 73
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 21,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 20,
@@ -3442,8 +3461,6 @@
 				"y": 111
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 21,
 			"trimmedRect": {
 				"h": 20,
 				"w": 14,
@@ -3474,6 +3491,8 @@
 				"y": 155
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 36,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 17,
@@ -3482,8 +3501,6 @@
 				"y": 114
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 36,
 			"trimmedRect": {
 				"h": 17,
 				"w": 13,
@@ -3514,6 +3531,8 @@
 				"y": 129
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 22,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 12,
@@ -3522,8 +3541,6 @@
 				"y": 117
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 22,
 			"trimmedRect": {
 				"h": 12,
 				"w": 9,
@@ -3554,6 +3571,8 @@
 				"y": 39
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 27,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 12,
@@ -3562,8 +3581,6 @@
 				"y": 117
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 27,
 			"trimmedRect": {
 				"h": 12,
 				"w": 11,
@@ -3594,6 +3611,8 @@
 				"y": 84
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 23,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 38,
@@ -3602,8 +3621,6 @@
 				"y": 115
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 23,
 			"trimmedRect": {
 				"h": 38,
 				"w": 39,
@@ -3634,6 +3651,8 @@
 				"y": 211
 			},
 			"rotated": true,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 37,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 14,
@@ -3642,8 +3661,6 @@
 				"y": 137
 			},
 			"tags": {},
-			"textureIndex": 0,
-			"textureSpriteIndex": 37,
 			"trimmedRect": {
 				"h": 14,
 				"w": 11,
@@ -3674,6 +3691,8 @@
 				"y": 41
 			},
 			"rotated": true,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 28,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 12,
@@ -3682,8 +3701,6 @@
 				"y": 139
 			},
 			"tags": {},
-			"textureIndex": 2,
-			"textureSpriteIndex": 28,
 			"trimmedRect": {
 				"h": 12,
 				"w": 11,
@@ -3714,6 +3731,8 @@
 				"y": 99
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 24,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 20,
@@ -3722,8 +3741,6 @@
 				"y": 133
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 24,
 			"trimmedRect": {
 				"h": 20,
 				"w": 7,
@@ -3754,6 +3771,8 @@
 				"y": 65
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 25,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 21,
@@ -3762,8 +3781,6 @@
 				"y": 132
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 25,
 			"trimmedRect": {
 				"h": 21,
 				"w": 7,
@@ -3794,6 +3811,8 @@
 				"y": 231
 			},
 			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 26,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 24,
@@ -3802,8 +3821,6 @@
 				"y": 130
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 26,
 			"trimmedRect": {
 				"h": 24,
 				"w": 27,
@@ -3834,6 +3851,8 @@
 				"y": 1
 			},
 			"rotated": true,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 27,
 			"sourceIndex": 6,
 			"sourceRect": {
 				"h": 9,
@@ -3842,8 +3861,6 @@
 				"y": 143
 			},
 			"tags": {},
-			"textureIndex": 1,
-			"textureSpriteIndex": 27,
 			"trimmedRect": {
 				"h": 9,
 				"w": 17,
@@ -3862,26 +3879,32 @@
 	"tags": {},
 	"textures": [
 		{
-			"filename": "spright1.png",
+			"filename": "spright-0.png",
 			"height": 256,
 			"index": 0,
-			"inputFilename": "spright.conf",
-			"spriteIndices": [0,1,2,3,4,5,7,8,9,10,11,12,14,15,17,19,20,23,25,30,33,34,40,41,42,43,44,45,47,48,49,54,55,63,75,83,85,89],
-			"width": 64
-		},
-		{
-			"filename": "spright0.png",
-			"height": 256,
-			"index": 1,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 0,
 			"spriteIndices": [6,13,16,18,56,57,58,59,60,61,69,71,72,73,74,76,77,78,79,80,82,84,86,88,91,92,93,94],
 			"width": 64
 		},
 		{
-			"filename": "spright2.png",
+			"filename": "spright-1.png",
+			"height": 256,
+			"index": 1,
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 1,
+			"spriteIndices": [0,1,2,3,4,5,7,8,9,10,11,12,14,15,17,19,20,23,25,30,33,34,40,41,42,43,44,45,47,48,49,54,55,63,75,83,85,89],
+			"width": 64
+		},
+		{
+			"filename": "spright-2.png",
 			"height": 128,
 			"index": 2,
-			"inputFilename": "spright.conf",
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 2,
 			"spriteIndices": [21,22,24,26,27,28,29,31,32,35,36,37,38,39,46,50,51,52,53,62,64,65,66,67,68,70,81,87,90],
 			"width": 64
 		}
