@@ -93,6 +93,16 @@ Splitting a sprite sheet in individual files: [spright.conf](split/spright.conf)
 
 --------
 
+## Align pivot
+
+Aligning sprites by their pivot points.
+
+<kbd><img src="align-pivot/bat.32x32.gif"/></kbd><br/>
+<kbd><img src="align-pivot/spright.png"/></kbd><br/>
+<kbd><img src="align-pivot/spright.gif"/></kbd><br/>
+
+--------
+
 ## Grid offset/spacing
 
 Splitting multiple arrangements at once: [spright.conf](grid/spright.conf)
