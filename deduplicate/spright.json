@@ -1,4 +1,14 @@
 {
+	"inputs": [
+		{
+			"filename": "colony-sim-extended-prev.png",
+			"sourceIndices": [0]
+		},
+		{
+			"filename": "colony-sim-extended-prev.png",
+			"sourceIndices": [0]
+		}
+	],
 	"slices": [
 		{
 			"index": 0,

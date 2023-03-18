@@ -1,4 +1,18 @@
 {
+	"inputs": [
+		{
+			"filename": "explosion3.png",
+			"sourceIndices": [0]
+		},
+		{
+			"filename": "explosion3.png",
+			"sourceIndices": [0]
+		},
+		{
+			"filename": "explosion3.png",
+			"sourceIndices": [0]
+		}
+	],
 	"slices": [
 		{
 			"index": 0,

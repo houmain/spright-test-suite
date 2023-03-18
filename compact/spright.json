@@ -1,4 +1,10 @@
 {
+	"inputs": [
+		{
+			"filename": "Preview_Alternative_3.png",
+			"sourceIndices": [0]
+		}
+	],
 	"slices": [
 		{
 			"index": 0,
