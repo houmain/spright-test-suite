@@ -2,13 +2,16 @@
 	"inputs": [
 		{
 			"filename": "diffuse.png",
-			"sourceIndices": [0]
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [0]
+				}
+			]
 		}
 	],
 	"slices": [
 		{
-			"index": 0,
-			"inputFilename": "spright.conf",
 			"spriteIndices": [0]
 		}
 	],
@@ -16,9 +19,7 @@
 		{
 			"filename": "diffuse.png",
 			"height": 512,
-			"index": 0,
 			"path": "",
-			"spriteIndices": [0],
 			"width": 512
 		}
 	],
@@ -27,6 +28,7 @@
 			"data": {},
 			"id": "sprite_0",
 			"index": 0,
+			"inputIndex": 0,
 			"inputSpriteIndex": 0,
 			"pivot": {
 				"x": 256.0,
@@ -69,7 +71,6 @@
 		{
 			"filename": "spright-0.5.png",
 			"height": 256,
-			"index": 0,
 			"map": "",
 			"scale": 0.5,
 			"sliceIndex": 0,
@@ -79,7 +80,6 @@
 		{
 			"filename": "spright-0.25.png",
 			"height": 128,
-			"index": 1,
 			"map": "",
 			"scale": 0.25,
 			"sliceIndex": 0,
@@ -89,7 +89,6 @@
 		{
 			"filename": "spright-0.125.png",
 			"height": 64,
-			"index": 2,
 			"map": "",
 			"scale": 0.125,
 			"sliceIndex": 0,
@@ -99,7 +98,6 @@
 		{
 			"filename": "spright-0.0625.png",
 			"height": 32,
-			"index": 3,
 			"map": "",
 			"scale": 0.0625,
 			"sliceIndex": 0,
@@ -109,7 +107,6 @@
 		{
 			"filename": "spright-0.03125.png",
 			"height": 16,
-			"index": 4,
 			"map": "",
 			"scale": 0.03125,
 			"sliceIndex": 0,

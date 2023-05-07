@@ -2,22 +2,28 @@
 	"inputs": [
 		{
 			"filename": "bat.32x32.gif",
-			"sourceIndices": [0]
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [0,1,2,3,4]
+				}
+			]
 		},
 		{
 			"filename": "bat.32x32.gif",
-			"sourceIndices": [0]
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [5,6,7,8,9]
+				}
+			]
 		}
 	],
 	"slices": [
 		{
-			"index": 0,
-			"inputFilename": "spright.conf",
 			"spriteIndices": [0,1,2,3,4]
 		},
 		{
-			"index": 1,
-			"inputFilename": "spright.conf",
 			"spriteIndices": [5,6,7,8,9]
 		}
 	],
@@ -25,9 +31,7 @@
 		{
 			"filename": "bat.32x32.gif",
 			"height": 64,
-			"index": 0,
 			"path": "",
-			"spriteIndices": [0,1,2,3,4,5,6,7,8,9],
 			"width": 192
 		}
 	],
@@ -36,6 +40,7 @@
 			"data": {},
 			"id": "sprite_0",
 			"index": 0,
+			"inputIndex": 0,
 			"inputSpriteIndex": 0,
 			"pivot": {
 				"x": 8.0,
@@ -76,6 +81,7 @@
 			"data": {},
 			"id": "sprite_1",
 			"index": 1,
+			"inputIndex": 0,
 			"inputSpriteIndex": 1,
 			"pivot": {
 				"x": 8.0,
@@ -116,6 +122,7 @@
 			"data": {},
 			"id": "sprite_2",
 			"index": 2,
+			"inputIndex": 0,
 			"inputSpriteIndex": 2,
 			"pivot": {
 				"x": 8.0,
@@ -156,6 +163,7 @@
 			"data": {},
 			"id": "sprite_3",
 			"index": 3,
+			"inputIndex": 0,
 			"inputSpriteIndex": 3,
 			"pivot": {
 				"x": 8.0,
@@ -196,6 +204,7 @@
 			"data": {},
 			"id": "sprite_4",
 			"index": 4,
+			"inputIndex": 0,
 			"inputSpriteIndex": 4,
 			"pivot": {
 				"x": 8.0,
@@ -236,6 +245,7 @@
 			"data": {},
 			"id": "sprite_5",
 			"index": 5,
+			"inputIndex": 1,
 			"inputSpriteIndex": 0,
 			"pivot": {
 				"x": 8.0,
@@ -276,6 +286,7 @@
 			"data": {},
 			"id": "sprite_6",
 			"index": 6,
+			"inputIndex": 1,
 			"inputSpriteIndex": 1,
 			"pivot": {
 				"x": 8.0,
@@ -316,6 +327,7 @@
 			"data": {},
 			"id": "sprite_7",
 			"index": 7,
+			"inputIndex": 1,
 			"inputSpriteIndex": 2,
 			"pivot": {
 				"x": 8.0,
@@ -356,6 +368,7 @@
 			"data": {},
 			"id": "sprite_8",
 			"index": 8,
+			"inputIndex": 1,
 			"inputSpriteIndex": 3,
 			"pivot": {
 				"x": 8.0,
@@ -396,6 +409,7 @@
 			"data": {},
 			"id": "sprite_9",
 			"index": 9,
+			"inputIndex": 1,
 			"inputSpriteIndex": 4,
 			"pivot": {
 				"x": 8.0,
@@ -438,7 +452,6 @@
 		{
 			"filename": "spright.gif",
 			"height": 42,
-			"index": 0,
 			"map": "",
 			"scale": 1.0,
 			"sliceIndex": 0,
@@ -448,7 +461,6 @@
 		{
 			"filename": "spright.png",
 			"height": 42,
-			"index": 1,
 			"map": "",
 			"scale": 1.0,
 			"sliceIndex": 1,

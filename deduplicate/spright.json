@@ -2,22 +2,28 @@
 	"inputs": [
 		{
 			"filename": "colony-sim-extended-prev.png",
-			"sourceIndices": [0]
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,28,30,31,34,35,36,38,40,41,42,43,44,45,46,47,49,50,54,55,57,58,60,64,66,67,68,70,71,72,74,75,76,77,78,79,80,82,84,87,88,89,90,91,92,94,95,96,97,99,100,101,102,103,104,105,107,109,110,111,112,113,114,115,116,118,119,120,121,127,128,130,135,136,137,144,145,152,154,159,160,161,174,192,194,195,196,197,214,215,217,220,231,232,233,234,236,238,241,242,243,244,255,256,257,259,260,262,266,267,268,279,280,281,283,284,288,289,290,291,292,306,307,308,311,313,315,316,317,323,329,330,331,332,333,334,335,337,341,351,352,353,354,355,356,357,361,363,374,375,376,377,378,379,380,381,384,385,387,388,398,399,400,402,405,410,411,412,422,423,424,426,429,431,433,434,435,436,441,443,444,449,450,452,453,455,458,459,460,466,467,469,470,471,473,474,477,479,482,483,484,485,491,493,494,495,499,500,501,502,505,506,507,508,513,514,515,523,524,525,526,527,528,530,531,532,539,540,541,542,544,547,548,549,550,552,553,554,555,556,561,563,564,565,566,575]
+				}
+			]
 		},
 		{
 			"filename": "colony-sim-extended-prev.png",
-			"sourceIndices": [0]
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [576,577,578,579,580,581,582,583,584,585,586,587,588,591,592,593,594,595,596,597,598,599,600,601,602,604,606,607,610,611,612,614,616,617,618,619,620,621,622,623,625,626,630,631,633,634,636,640,642,643,644,646,647,648,650,651,652,653,654,655,656,658,660,663,664,665,666,667,668,670,671,672,673,675,676,677,678,679,680,681,683,685,686,687,688,689,690,691,692,694,695,696,697,703,704,706,711,712,713,720,721,728,730,735,736,737,750,768,770,771,772,773,790,791,793,796,807,808,809,810,812,814,817,818,819,820,831,832,833,835,836,838,842,843,844,855,856,857,859,860,864,865,866,867,868,882,883,884,887,889,891,892,893,899,905,906,907,908,909,910,911,913,917,927,928,929,930,931,932,933,937,939,950,951,952,953,954,955,956,957,960,961,963,964,974,975,976,978,981,986,987,988,998,999,1000,1002,1005,1007,1009,1010,1011,1012,1017,1019,1020,1025,1026,1028,1029,1031,1034,1035,1036,1042,1043,1045,1046,1047,1049,1050,1053,1055,1058,1059,1060,1061,1067,1069,1070,1071,1075,1076,1077,1078,1081,1082,1083,1084,1089,1090,1091,1099,1100,1101,1102,1103,1104,1106,1107,1108,1115,1116,1117,1118,1120,1123,1124,1125,1126,1128,1129,1130,1131,1132,1137,1139,1140,1141,1142,1151]
+				}
+			]
 		}
 	],
 	"slices": [
 		{
-			"index": 0,
-			"inputFilename": "spright.conf",
 			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,28,30,31,34,35,36,38,40,41,42,43,44,45,46,47,49,50,54,55,57,58,60,64,66,67,68,70,71,72,74,75,76,77,78,79,80,82,84,87,88,89,90,91,92,94,95,96,97,99,100,101,102,103,104,105,107,109,110,111,112,113,114,115,116,118,119,120,121,127,128,130,135,136,137,144,145,152,154,159,160,161,174,192,194,195,196,197,214,215,217,220,231,232,233,234,236,238,241,242,243,244,255,256,257,259,260,262,266,267,268,279,280,281,283,284,288,289,290,291,292,306,307,308,311,313,315,316,317,323,329,330,331,332,333,334,335,337,341,351,352,353,354,355,356,357,361,363,374,375,376,377,378,379,380,381,384,385,387,388,398,399,400,402,405,410,411,412,422,423,424,426,429,431,433,434,435,436,441,443,444,449,450,452,453,455,458,459,460,466,467,469,470,471,473,474,477,479,482,483,484,485,491,493,494,495,499,500,501,502,505,506,507,508,513,514,515,523,524,525,526,527,528,530,531,532,539,540,541,542,544,547,548,549,550,552,553,554,555,556,561,563,564,565,566,575]
 		},
 		{
-			"index": 1,
-			"inputFilename": "spright.conf",
 			"spriteIndices": [576,577,578,579,580,581,582,583,584,585,586,587,588,591,592,593,594,595,596,597,598,599,600,601,602,604,606,607,610,611,612,614,616,617,618,619,620,621,622,623,625,626,630,631,633,634,636,640,642,643,644,646,647,648,650,651,652,653,654,655,656,658,660,663,664,665,666,667,668,670,671,672,673,675,676,677,678,679,680,681,683,685,686,687,688,689,690,691,692,694,695,696,697,703,704,706,711,712,713,720,721,728,730,735,736,737,750,768,770,771,772,773,790,791,793,796,807,808,809,810,812,814,817,818,819,820,831,832,833,835,836,838,842,843,844,855,856,857,859,860,864,865,866,867,868,882,883,884,887,889,891,892,893,899,905,906,907,908,909,910,911,913,917,927,928,929,930,931,932,933,937,939,950,951,952,953,954,955,956,957,960,961,963,964,974,975,976,978,981,986,987,988,998,999,1000,1002,1005,1007,1009,1010,1011,1012,1017,1019,1020,1025,1026,1028,1029,1031,1034,1035,1036,1042,1043,1045,1046,1047,1049,1050,1053,1055,1058,1059,1060,1061,1067,1069,1070,1071,1075,1076,1077,1078,1081,1082,1083,1084,1089,1090,1091,1099,1100,1101,1102,1103,1104,1106,1107,1108,1115,1116,1117,1118,1120,1123,1124,1125,1126,1128,1129,1130,1131,1132,1137,1139,1140,1141,1142,1151]
 		}
 	],
@@ -25,9 +31,7 @@
 		{
 			"filename": "colony-sim-extended-prev.png",
 			"height": 384,
-			"index": 0,
 			"path": "",
-			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,28,30,31,34,35,36,38,40,41,42,43,44,45,46,47,49,50,54,55,57,58,60,64,66,67,68,70,71,72,74,75,76,77,78,79,80,82,84,87,88,89,90,91,92,94,95,96,97,99,100,101,102,103,104,105,107,109,110,111,112,113,114,115,116,118,119,120,121,127,128,130,135,136,137,144,145,152,154,159,160,161,174,192,194,195,196,197,214,215,217,220,231,232,233,234,236,238,241,242,243,244,255,256,257,259,260,262,266,267,268,279,280,281,283,284,288,289,290,291,292,306,307,308,311,313,315,316,317,323,329,330,331,332,333,334,335,337,341,351,352,353,354,355,356,357,361,363,374,375,376,377,378,379,380,381,384,385,387,388,398,399,400,402,405,410,411,412,422,423,424,426,429,431,433,434,435,436,441,443,444,449,450,452,453,455,458,459,460,466,467,469,470,471,473,474,477,479,482,483,484,485,491,493,494,495,499,500,501,502,505,506,507,508,513,514,515,523,524,525,526,527,528,530,531,532,539,540,541,542,544,547,548,549,550,552,553,554,555,556,561,563,564,565,566,575,576,577,578,579,580,581,582,583,584,585,586,587,588,591,592,593,594,595,596,597,598,599,600,601,602,604,606,607,610,611,612,614,616,617,618,619,620,621,622,623,625,626,630,631,633,634,636,640,642,643,644,646,647,648,650,651,652,653,654,655,656,658,660,663,664,665,666,667,668,670,671,672,673,675,676,677,678,679,680,681,683,685,686,687,688,689,690,691,692,694,695,696,697,703,704,706,711,712,713,720,721,728,730,735,736,737,750,768,770,771,772,773,790,791,793,796,807,808,809,810,812,814,817,818,819,820,831,832,833,835,836,838,842,843,844,855,856,857,859,860,864,865,866,867,868,882,883,884,887,889,891,892,893,899,905,906,907,908,909,910,911,913,917,927,928,929,930,931,932,933,937,939,950,951,952,953,954,955,956,957,960,961,963,964,974,975,976,978,981,986,987,988,998,999,1000,1002,1005,1007,1009,1010,1011,1012,1017,1019,1020,1025,1026,1028,1029,1031,1034,1035,1036,1042,1043,1045,1046,1047,1049,1050,1053,1055,1058,1059,1060,1061,1067,1069,1070,1071,1075,1076,1077,1078,1081,1082,1083,1084,1089,1090,1091,1099,1100,1101,1102,1103,1104,1106,1107,1108,1115,1116,1117,1118,1120,1123,1124,1125,1126,1128,1129,1130,1131,1132,1137,1139,1140,1141,1142,1151],
 			"width": 384
 		}
 	],
@@ -36,6 +40,7 @@
 			"data": {},
 			"id": "sprite_0",
 			"index": 0,
+			"inputIndex": 0,
 			"inputSpriteIndex": 0,
 			"pivot": {
 				"x": 8.0,
@@ -76,6 +81,7 @@
 			"data": {},
 			"id": "sprite_1",
 			"index": 1,
+			"inputIndex": 0,
 			"inputSpriteIndex": 1,
 			"pivot": {
 				"x": 8.0,
@@ -116,6 +122,7 @@
 			"data": {},
 			"id": "sprite_2",
 			"index": 2,
+			"inputIndex": 0,
 			"inputSpriteIndex": 2,
 			"pivot": {
 				"x": 8.0,
@@ -156,6 +163,7 @@
 			"data": {},
 			"id": "sprite_3",
 			"index": 3,
+			"inputIndex": 0,
 			"inputSpriteIndex": 3,
 			"pivot": {
 				"x": 8.0,
@@ -196,6 +204,7 @@
 			"data": {},
 			"id": "sprite_4",
 			"index": 4,
+			"inputIndex": 0,
 			"inputSpriteIndex": 4,
 			"pivot": {
 				"x": 8.0,
@@ -236,6 +245,7 @@
 			"data": {},
 			"id": "sprite_5",
 			"index": 5,
+			"inputIndex": 0,
 			"inputSpriteIndex": 5,
 			"pivot": {
 				"x": 8.0,
@@ -276,6 +286,7 @@
 			"data": {},
 			"id": "sprite_6",
 			"index": 6,
+			"inputIndex": 0,
 			"inputSpriteIndex": 6,
 			"pivot": {
 				"x": 8.0,
@@ -316,6 +327,7 @@
 			"data": {},
 			"id": "sprite_7",
 			"index": 7,
+			"inputIndex": 0,
 			"inputSpriteIndex": 7,
 			"pivot": {
 				"x": 8.0,
@@ -356,6 +368,7 @@
 			"data": {},
 			"id": "sprite_8",
 			"index": 8,
+			"inputIndex": 0,
 			"inputSpriteIndex": 8,
 			"pivot": {
 				"x": 8.0,
@@ -396,6 +409,7 @@
 			"data": {},
 			"id": "sprite_9",
 			"index": 9,
+			"inputIndex": 0,
 			"inputSpriteIndex": 9,
 			"pivot": {
 				"x": 8.0,
@@ -436,6 +450,7 @@
 			"data": {},
 			"id": "sprite_10",
 			"index": 10,
+			"inputIndex": 0,
 			"inputSpriteIndex": 10,
 			"pivot": {
 				"x": 8.0,
@@ -476,6 +491,7 @@
 			"data": {},
 			"id": "sprite_11",
 			"index": 11,
+			"inputIndex": 0,
 			"inputSpriteIndex": 11,
 			"pivot": {
 				"x": 8.0,
@@ -516,6 +532,7 @@
 			"data": {},
 			"id": "sprite_12",
 			"index": 12,
+			"inputIndex": 0,
 			"inputSpriteIndex": 12,
 			"pivot": {
 				"x": 8.0,
@@ -562,6 +579,7 @@
 			"data": {},
 			"id": "sprite_15",
 			"index": 15,
+			"inputIndex": 0,
 			"inputSpriteIndex": 15,
 			"pivot": {
 				"x": 8.0,
@@ -602,6 +620,7 @@
 			"data": {},
 			"id": "sprite_16",
 			"index": 16,
+			"inputIndex": 0,
 			"inputSpriteIndex": 16,
 			"pivot": {
 				"x": 8.0,
@@ -642,6 +661,7 @@
 			"data": {},
 			"id": "sprite_17",
 			"index": 17,
+			"inputIndex": 0,
 			"inputSpriteIndex": 17,
 			"pivot": {
 				"x": 8.0,
@@ -682,6 +702,7 @@
 			"data": {},
 			"id": "sprite_18",
 			"index": 18,
+			"inputIndex": 0,
 			"inputSpriteIndex": 18,
 			"pivot": {
 				"x": 8.0,
@@ -722,6 +743,7 @@
 			"data": {},
 			"id": "sprite_19",
 			"index": 19,
+			"inputIndex": 0,
 			"inputSpriteIndex": 19,
 			"pivot": {
 				"x": 8.0,
@@ -762,6 +784,7 @@
 			"data": {},
 			"id": "sprite_20",
 			"index": 20,
+			"inputIndex": 0,
 			"inputSpriteIndex": 20,
 			"pivot": {
 				"x": 8.0,
@@ -802,6 +825,7 @@
 			"data": {},
 			"id": "sprite_21",
 			"index": 21,
+			"inputIndex": 0,
 			"inputSpriteIndex": 21,
 			"pivot": {
 				"x": 8.0,
@@ -842,6 +866,7 @@
 			"data": {},
 			"id": "sprite_22",
 			"index": 22,
+			"inputIndex": 0,
 			"inputSpriteIndex": 22,
 			"pivot": {
 				"x": 8.0,
@@ -882,6 +907,7 @@
 			"data": {},
 			"id": "sprite_23",
 			"index": 23,
+			"inputIndex": 0,
 			"inputSpriteIndex": 23,
 			"pivot": {
 				"x": 8.0,
@@ -922,6 +948,7 @@
 			"data": {},
 			"id": "sprite_24",
 			"index": 24,
+			"inputIndex": 0,
 			"inputSpriteIndex": 24,
 			"pivot": {
 				"x": 8.0,
@@ -962,6 +989,7 @@
 			"data": {},
 			"id": "sprite_25",
 			"index": 25,
+			"inputIndex": 0,
 			"inputSpriteIndex": 25,
 			"pivot": {
 				"x": 8.0,
@@ -1002,6 +1030,7 @@
 			"data": {},
 			"id": "sprite_26",
 			"index": 26,
+			"inputIndex": 0,
 			"inputSpriteIndex": 26,
 			"pivot": {
 				"x": 8.0,
@@ -1045,6 +1074,7 @@
 			"data": {},
 			"id": "sprite_28",
 			"index": 28,
+			"inputIndex": 0,
 			"inputSpriteIndex": 28,
 			"pivot": {
 				"x": 8.0,
@@ -1088,6 +1118,7 @@
 			"data": {},
 			"id": "sprite_30",
 			"index": 30,
+			"inputIndex": 0,
 			"inputSpriteIndex": 30,
 			"pivot": {
 				"x": 8.0,
@@ -1128,6 +1159,7 @@
 			"data": {},
 			"id": "sprite_31",
 			"index": 31,
+			"inputIndex": 0,
 			"inputSpriteIndex": 31,
 			"pivot": {
 				"x": 8.0,
@@ -1174,6 +1206,7 @@
 			"data": {},
 			"id": "sprite_34",
 			"index": 34,
+			"inputIndex": 0,
 			"inputSpriteIndex": 34,
 			"pivot": {
 				"x": 8.0,
@@ -1214,6 +1247,7 @@
 			"data": {},
 			"id": "sprite_35",
 			"index": 35,
+			"inputIndex": 0,
 			"inputSpriteIndex": 35,
 			"pivot": {
 				"x": 8.0,
@@ -1254,6 +1288,7 @@
 			"data": {},
 			"id": "sprite_36",
 			"index": 36,
+			"inputIndex": 0,
 			"inputSpriteIndex": 36,
 			"pivot": {
 				"x": 8.0,
@@ -1297,6 +1332,7 @@
 			"data": {},
 			"id": "sprite_38",
 			"index": 38,
+			"inputIndex": 0,
 			"inputSpriteIndex": 38,
 			"pivot": {
 				"x": 8.0,
@@ -1340,6 +1376,7 @@
 			"data": {},
 			"id": "sprite_40",
 			"index": 40,
+			"inputIndex": 0,
 			"inputSpriteIndex": 40,
 			"pivot": {
 				"x": 8.0,
@@ -1380,6 +1417,7 @@
 			"data": {},
 			"id": "sprite_41",
 			"index": 41,
+			"inputIndex": 0,
 			"inputSpriteIndex": 41,
 			"pivot": {
 				"x": 8.0,
@@ -1420,6 +1458,7 @@
 			"data": {},
 			"id": "sprite_42",
 			"index": 42,
+			"inputIndex": 0,
 			"inputSpriteIndex": 42,
 			"pivot": {
 				"x": 8.0,
@@ -1460,6 +1499,7 @@
 			"data": {},
 			"id": "sprite_43",
 			"index": 43,
+			"inputIndex": 0,
 			"inputSpriteIndex": 43,
 			"pivot": {
 				"x": 8.0,
@@ -1500,6 +1540,7 @@
 			"data": {},
 			"id": "sprite_44",
 			"index": 44,
+			"inputIndex": 0,
 			"inputSpriteIndex": 44,
 			"pivot": {
 				"x": 8.0,
@@ -1540,6 +1581,7 @@
 			"data": {},
 			"id": "sprite_45",
 			"index": 45,
+			"inputIndex": 0,
 			"inputSpriteIndex": 45,
 			"pivot": {
 				"x": 8.0,
@@ -1580,6 +1622,7 @@
 			"data": {},
 			"id": "sprite_46",
 			"index": 46,
+			"inputIndex": 0,
 			"inputSpriteIndex": 46,
 			"pivot": {
 				"x": 8.0,
@@ -1620,6 +1663,7 @@
 			"data": {},
 			"id": "sprite_47",
 			"index": 47,
+			"inputIndex": 0,
 			"inputSpriteIndex": 47,
 			"pivot": {
 				"x": 8.0,
@@ -1663,6 +1707,7 @@
 			"data": {},
 			"id": "sprite_49",
 			"index": 49,
+			"inputIndex": 0,
 			"inputSpriteIndex": 49,
 			"pivot": {
 				"x": 8.0,
@@ -1703,6 +1748,7 @@
 			"data": {},
 			"id": "sprite_50",
 			"index": 50,
+			"inputIndex": 0,
 			"inputSpriteIndex": 50,
 			"pivot": {
 				"x": 8.0,
@@ -1752,6 +1798,7 @@
 			"data": {},
 			"id": "sprite_54",
 			"index": 54,
+			"inputIndex": 0,
 			"inputSpriteIndex": 54,
 			"pivot": {
 				"x": 8.0,
@@ -1792,6 +1839,7 @@
 			"data": {},
 			"id": "sprite_55",
 			"index": 55,
+			"inputIndex": 0,
 			"inputSpriteIndex": 55,
 			"pivot": {
 				"x": 8.0,
@@ -1835,6 +1883,7 @@
 			"data": {},
 			"id": "sprite_57",
 			"index": 57,
+			"inputIndex": 0,
 			"inputSpriteIndex": 57,
 			"pivot": {
 				"x": 8.0,
@@ -1875,6 +1924,7 @@
 			"data": {},
 			"id": "sprite_58",
 			"index": 58,
+			"inputIndex": 0,
 			"inputSpriteIndex": 58,
 			"pivot": {
 				"x": 8.0,
@@ -1918,6 +1968,7 @@
 			"data": {},
 			"id": "sprite_60",
 			"index": 60,
+			"inputIndex": 0,
 			"inputSpriteIndex": 60,
 			"pivot": {
 				"x": 8.0,
@@ -1967,6 +2018,7 @@
 			"data": {},
 			"id": "sprite_64",
 			"index": 64,
+			"inputIndex": 0,
 			"inputSpriteIndex": 64,
 			"pivot": {
 				"x": 8.0,
@@ -2010,6 +2062,7 @@
 			"data": {},
 			"id": "sprite_66",
 			"index": 66,
+			"inputIndex": 0,
 			"inputSpriteIndex": 66,
 			"pivot": {
 				"x": 8.0,
@@ -2050,6 +2103,7 @@
 			"data": {},
 			"id": "sprite_67",
 			"index": 67,
+			"inputIndex": 0,
 			"inputSpriteIndex": 67,
 			"pivot": {
 				"x": 8.0,
@@ -2090,6 +2144,7 @@
 			"data": {},
 			"id": "sprite_68",
 			"index": 68,
+			"inputIndex": 0,
 			"inputSpriteIndex": 68,
 			"pivot": {
 				"x": 8.0,
@@ -2133,6 +2188,7 @@
 			"data": {},
 			"id": "sprite_70",
 			"index": 70,
+			"inputIndex": 0,
 			"inputSpriteIndex": 70,
 			"pivot": {
 				"x": 8.0,
@@ -2173,6 +2229,7 @@
 			"data": {},
 			"id": "sprite_71",
 			"index": 71,
+			"inputIndex": 0,
 			"inputSpriteIndex": 71,
 			"pivot": {
 				"x": 8.0,
@@ -2213,6 +2270,7 @@
 			"data": {},
 			"id": "sprite_72",
 			"index": 72,
+			"inputIndex": 0,
 			"inputSpriteIndex": 72,
 			"pivot": {
 				"x": 8.0,
@@ -2256,6 +2314,7 @@
 			"data": {},
 			"id": "sprite_74",
 			"index": 74,
+			"inputIndex": 0,
 			"inputSpriteIndex": 74,
 			"pivot": {
 				"x": 8.0,
@@ -2296,6 +2355,7 @@
 			"data": {},
 			"id": "sprite_75",
 			"index": 75,
+			"inputIndex": 0,
 			"inputSpriteIndex": 75,
 			"pivot": {
 				"x": 8.0,
@@ -2336,6 +2396,7 @@
 			"data": {},
 			"id": "sprite_76",
 			"index": 76,
+			"inputIndex": 0,
 			"inputSpriteIndex": 76,
 			"pivot": {
 				"x": 8.0,
@@ -2376,6 +2437,7 @@
 			"data": {},
 			"id": "sprite_77",
 			"index": 77,
+			"inputIndex": 0,
 			"inputSpriteIndex": 77,
 			"pivot": {
 				"x": 8.0,
@@ -2416,6 +2478,7 @@
 			"data": {},
 			"id": "sprite_78",
 			"index": 78,
+			"inputIndex": 0,
 			"inputSpriteIndex": 78,
 			"pivot": {
 				"x": 8.0,
@@ -2456,6 +2519,7 @@
 			"data": {},
 			"id": "sprite_79",
 			"index": 79,
+			"inputIndex": 0,
 			"inputSpriteIndex": 79,
 			"pivot": {
 				"x": 8.0,
@@ -2496,6 +2560,7 @@
 			"data": {},
 			"id": "sprite_80",
 			"index": 80,
+			"inputIndex": 0,
 			"inputSpriteIndex": 80,
 			"pivot": {
 				"x": 8.0,
@@ -2539,6 +2604,7 @@
 			"data": {},
 			"id": "sprite_82",
 			"index": 82,
+			"inputIndex": 0,
 			"inputSpriteIndex": 82,
 			"pivot": {
 				"x": 8.0,
@@ -2582,6 +2648,7 @@
 			"data": {},
 			"id": "sprite_84",
 			"index": 84,
+			"inputIndex": 0,
 			"inputSpriteIndex": 84,
 			"pivot": {
 				"x": 8.0,
@@ -2628,6 +2695,7 @@
 			"data": {},
 			"id": "sprite_87",
 			"index": 87,
+			"inputIndex": 0,
 			"inputSpriteIndex": 87,
 			"pivot": {
 				"x": 8.0,
@@ -2668,6 +2736,7 @@
 			"data": {},
 			"id": "sprite_88",
 			"index": 88,
+			"inputIndex": 0,
 			"inputSpriteIndex": 88,
 			"pivot": {
 				"x": 8.0,
@@ -2708,6 +2777,7 @@
 			"data": {},
 			"id": "sprite_89",
 			"index": 89,
+			"inputIndex": 0,
 			"inputSpriteIndex": 89,
 			"pivot": {
 				"x": 8.0,
@@ -2748,6 +2818,7 @@
 			"data": {},
 			"id": "sprite_90",
 			"index": 90,
+			"inputIndex": 0,
 			"inputSpriteIndex": 90,
 			"pivot": {
 				"x": 8.0,
@@ -2788,6 +2859,7 @@
 			"data": {},
 			"id": "sprite_91",
 			"index": 91,
+			"inputIndex": 0,
 			"inputSpriteIndex": 91,
 			"pivot": {
 				"x": 8.0,
@@ -2828,6 +2900,7 @@
 			"data": {},
 			"id": "sprite_92",
 			"index": 92,
+			"inputIndex": 0,
 			"inputSpriteIndex": 92,
 			"pivot": {
 				"x": 8.0,
@@ -2871,6 +2944,7 @@
 			"data": {},
 			"id": "sprite_94",
 			"index": 94,
+			"inputIndex": 0,
 			"inputSpriteIndex": 94,
 			"pivot": {
 				"x": 8.0,
@@ -2911,6 +2985,7 @@
 			"data": {},
 			"id": "sprite_95",
 			"index": 95,
+			"inputIndex": 0,
 			"inputSpriteIndex": 95,
 			"pivot": {
 				"x": 8.0,
@@ -2951,6 +3026,7 @@
 			"data": {},
 			"id": "sprite_96",
 			"index": 96,
+			"inputIndex": 0,
 			"inputSpriteIndex": 96,
 			"pivot": {
 				"x": 8.0,
@@ -2991,6 +3067,7 @@
 			"data": {},
 			"id": "sprite_97",
 			"index": 97,
+			"inputIndex": 0,
 			"inputSpriteIndex": 97,
 			"pivot": {
 				"x": 8.0,
@@ -3034,6 +3111,7 @@
 			"data": {},
 			"id": "sprite_99",
 			"index": 99,
+			"inputIndex": 0,
 			"inputSpriteIndex": 99,
 			"pivot": {
 				"x": 8.0,
@@ -3074,6 +3152,7 @@
 			"data": {},
 			"id": "sprite_100",
 			"index": 100,
+			"inputIndex": 0,
 			"inputSpriteIndex": 100,
 			"pivot": {
 				"x": 8.0,
@@ -3114,6 +3193,7 @@
 			"data": {},
 			"id": "sprite_101",
 			"index": 101,
+			"inputIndex": 0,
 			"inputSpriteIndex": 101,
 			"pivot": {
 				"x": 8.0,
@@ -3154,6 +3234,7 @@
 			"data": {},
 			"id": "sprite_102",
 			"index": 102,
+			"inputIndex": 0,
 			"inputSpriteIndex": 102,
 			"pivot": {
 				"x": 8.0,
@@ -3194,6 +3275,7 @@
 			"data": {},
 			"id": "sprite_103",
 			"index": 103,
+			"inputIndex": 0,
 			"inputSpriteIndex": 103,
 			"pivot": {
 				"x": 8.0,
@@ -3234,6 +3316,7 @@
 			"data": {},
 			"id": "sprite_104",
 			"index": 104,
+			"inputIndex": 0,
 			"inputSpriteIndex": 104,
 			"pivot": {
 				"x": 8.0,
@@ -3274,6 +3357,7 @@
 			"data": {},
 			"id": "sprite_105",
 			"index": 105,
+			"inputIndex": 0,
 			"inputSpriteIndex": 105,
 			"pivot": {
 				"x": 8.0,
@@ -3317,6 +3401,7 @@
 			"data": {},
 			"id": "sprite_107",
 			"index": 107,
+			"inputIndex": 0,
 			"inputSpriteIndex": 107,
 			"pivot": {
 				"x": 8.0,
@@ -3360,6 +3445,7 @@
 			"data": {},
 			"id": "sprite_109",
 			"index": 109,
+			"inputIndex": 0,
 			"inputSpriteIndex": 109,
 			"pivot": {
 				"x": 8.0,
@@ -3400,6 +3486,7 @@
 			"data": {},
 			"id": "sprite_110",
 			"index": 110,
+			"inputIndex": 0,
 			"inputSpriteIndex": 110,
 			"pivot": {
 				"x": 8.0,
@@ -3440,6 +3527,7 @@
 			"data": {},
 			"id": "sprite_111",
 			"index": 111,
+			"inputIndex": 0,
 			"inputSpriteIndex": 111,
 			"pivot": {
 				"x": 8.0,
@@ -3480,6 +3568,7 @@
 			"data": {},
 			"id": "sprite_112",
 			"index": 112,
+			"inputIndex": 0,
 			"inputSpriteIndex": 112,
 			"pivot": {
 				"x": 8.0,
@@ -3520,6 +3609,7 @@
 			"data": {},
 			"id": "sprite_113",
 			"index": 113,
+			"inputIndex": 0,
 			"inputSpriteIndex": 113,
 			"pivot": {
 				"x": 8.0,
@@ -3560,6 +3650,7 @@
 			"data": {},
 			"id": "sprite_114",
 			"index": 114,
+			"inputIndex": 0,
 			"inputSpriteIndex": 114,
 			"pivot": {
 				"x": 8.0,
@@ -3600,6 +3691,7 @@
 			"data": {},
 			"id": "sprite_115",
 			"index": 115,
+			"inputIndex": 0,
 			"inputSpriteIndex": 115,
 			"pivot": {
 				"x": 8.0,
@@ -3640,6 +3732,7 @@
 			"data": {},
 			"id": "sprite_116",
 			"index": 116,
+			"inputIndex": 0,
 			"inputSpriteIndex": 116,
 			"pivot": {
 				"x": 8.0,
@@ -3683,6 +3776,7 @@
 			"data": {},
 			"id": "sprite_118",
 			"index": 118,
+			"inputIndex": 0,
 			"inputSpriteIndex": 118,
 			"pivot": {
 				"x": 8.0,
@@ -3723,6 +3817,7 @@
 			"data": {},
 			"id": "sprite_119",
 			"index": 119,
+			"inputIndex": 0,
 			"inputSpriteIndex": 119,
 			"pivot": {
 				"x": 8.0,
@@ -3763,6 +3858,7 @@
 			"data": {},
 			"id": "sprite_120",
 			"index": 120,
+			"inputIndex": 0,
 			"inputSpriteIndex": 120,
 			"pivot": {
 				"x": 8.0,
@@ -3803,6 +3899,7 @@
 			"data": {},
 			"id": "sprite_121",
 			"index": 121,
+			"inputIndex": 0,
 			"inputSpriteIndex": 121,
 			"pivot": {
 				"x": 8.0,
@@ -3858,6 +3955,7 @@
 			"data": {},
 			"id": "sprite_127",
 			"index": 127,
+			"inputIndex": 0,
 			"inputSpriteIndex": 127,
 			"pivot": {
 				"x": 8.0,
@@ -3898,6 +3996,7 @@
 			"data": {},
 			"id": "sprite_128",
 			"index": 128,
+			"inputIndex": 0,
 			"inputSpriteIndex": 128,
 			"pivot": {
 				"x": 8.0,
@@ -3941,6 +4040,7 @@
 			"data": {},
 			"id": "sprite_130",
 			"index": 130,
+			"inputIndex": 0,
 			"inputSpriteIndex": 130,
 			"pivot": {
 				"x": 8.0,
@@ -3993,6 +4093,7 @@
 			"data": {},
 			"id": "sprite_135",
 			"index": 135,
+			"inputIndex": 0,
 			"inputSpriteIndex": 135,
 			"pivot": {
 				"x": 8.0,
@@ -4033,6 +4134,7 @@
 			"data": {},
 			"id": "sprite_136",
 			"index": 136,
+			"inputIndex": 0,
 			"inputSpriteIndex": 136,
 			"pivot": {
 				"x": 8.0,
@@ -4073,6 +4175,7 @@
 			"data": {},
 			"id": "sprite_137",
 			"index": 137,
+			"inputIndex": 0,
 			"inputSpriteIndex": 137,
 			"pivot": {
 				"x": 8.0,
@@ -4131,6 +4234,7 @@
 			"data": {},
 			"id": "sprite_144",
 			"index": 144,
+			"inputIndex": 0,
 			"inputSpriteIndex": 144,
 			"pivot": {
 				"x": 8.0,
@@ -4171,6 +4275,7 @@
 			"data": {},
 			"id": "sprite_145",
 			"index": 145,
+			"inputIndex": 0,
 			"inputSpriteIndex": 145,
 			"pivot": {
 				"x": 8.0,
@@ -4229,6 +4334,7 @@
 			"data": {},
 			"id": "sprite_152",
 			"index": 152,
+			"inputIndex": 0,
 			"inputSpriteIndex": 152,
 			"pivot": {
 				"x": 8.0,
@@ -4272,6 +4378,7 @@
 			"data": {},
 			"id": "sprite_154",
 			"index": 154,
+			"inputIndex": 0,
 			"inputSpriteIndex": 154,
 			"pivot": {
 				"x": 8.0,
@@ -4324,6 +4431,7 @@
 			"data": {},
 			"id": "sprite_159",
 			"index": 159,
+			"inputIndex": 0,
 			"inputSpriteIndex": 159,
 			"pivot": {
 				"x": 8.0,
@@ -4364,6 +4472,7 @@
 			"data": {},
 			"id": "sprite_160",
 			"index": 160,
+			"inputIndex": 0,
 			"inputSpriteIndex": 160,
 			"pivot": {
 				"x": 8.0,
@@ -4404,6 +4513,7 @@
 			"data": {},
 			"id": "sprite_161",
 			"index": 161,
+			"inputIndex": 0,
 			"inputSpriteIndex": 161,
 			"pivot": {
 				"x": 8.0,
@@ -4480,6 +4590,7 @@
 			"data": {},
 			"id": "sprite_174",
 			"index": 174,
+			"inputIndex": 0,
 			"inputSpriteIndex": 174,
 			"pivot": {
 				"x": 8.0,
@@ -4571,6 +4682,7 @@
 			"data": {},
 			"id": "sprite_192",
 			"index": 192,
+			"inputIndex": 0,
 			"inputSpriteIndex": 192,
 			"pivot": {
 				"x": 8.0,
@@ -4614,6 +4726,7 @@
 			"data": {},
 			"id": "sprite_194",
 			"index": 194,
+			"inputIndex": 0,
 			"inputSpriteIndex": 194,
 			"pivot": {
 				"x": 8.0,
@@ -4654,6 +4767,7 @@
 			"data": {},
 			"id": "sprite_195",
 			"index": 195,
+			"inputIndex": 0,
 			"inputSpriteIndex": 195,
 			"pivot": {
 				"x": 8.0,
@@ -4694,6 +4808,7 @@
 			"data": {},
 			"id": "sprite_196",
 			"index": 196,
+			"inputIndex": 0,
 			"inputSpriteIndex": 196,
 			"pivot": {
 				"x": 8.0,
@@ -4734,6 +4849,7 @@
 			"data": {},
 			"id": "sprite_197",
 			"index": 197,
+			"inputIndex": 0,
 			"inputSpriteIndex": 197,
 			"pivot": {
 				"x": 8.0,
@@ -4822,6 +4938,7 @@
 			"data": {},
 			"id": "sprite_214",
 			"index": 214,
+			"inputIndex": 0,
 			"inputSpriteIndex": 214,
 			"pivot": {
 				"x": 8.0,
@@ -4862,6 +4979,7 @@
 			"data": {},
 			"id": "sprite_215",
 			"index": 215,
+			"inputIndex": 0,
 			"inputSpriteIndex": 215,
 			"pivot": {
 				"x": 8.0,
@@ -4905,6 +5023,7 @@
 			"data": {},
 			"id": "sprite_217",
 			"index": 217,
+			"inputIndex": 0,
 			"inputSpriteIndex": 217,
 			"pivot": {
 				"x": 8.0,
@@ -4951,6 +5070,7 @@
 			"data": {},
 			"id": "sprite_220",
 			"index": 220,
+			"inputIndex": 0,
 			"inputSpriteIndex": 220,
 			"pivot": {
 				"x": 8.0,
@@ -5021,6 +5141,7 @@
 			"data": {},
 			"id": "sprite_231",
 			"index": 231,
+			"inputIndex": 0,
 			"inputSpriteIndex": 231,
 			"pivot": {
 				"x": 8.0,
@@ -5061,6 +5182,7 @@
 			"data": {},
 			"id": "sprite_232",
 			"index": 232,
+			"inputIndex": 0,
 			"inputSpriteIndex": 232,
 			"pivot": {
 				"x": 8.0,
@@ -5101,6 +5223,7 @@
 			"data": {},
 			"id": "sprite_233",
 			"index": 233,
+			"inputIndex": 0,
 			"inputSpriteIndex": 233,
 			"pivot": {
 				"x": 8.0,
@@ -5141,6 +5264,7 @@
 			"data": {},
 			"id": "sprite_234",
 			"index": 234,
+			"inputIndex": 0,
 			"inputSpriteIndex": 234,
 			"pivot": {
 				"x": 8.0,
@@ -5184,6 +5308,7 @@
 			"data": {},
 			"id": "sprite_236",
 			"index": 236,
+			"inputIndex": 0,
 			"inputSpriteIndex": 236,
 			"pivot": {
 				"x": 8.0,
@@ -5227,6 +5352,7 @@
 			"data": {},
 			"id": "sprite_238",
 			"index": 238,
+			"inputIndex": 0,
 			"inputSpriteIndex": 238,
 			"pivot": {
 				"x": 8.0,
@@ -5273,6 +5399,7 @@
 			"data": {},
 			"id": "sprite_241",
 			"index": 241,
+			"inputIndex": 0,
 			"inputSpriteIndex": 241,
 			"pivot": {
 				"x": 8.0,
@@ -5313,6 +5440,7 @@
 			"data": {},
 			"id": "sprite_242",
 			"index": 242,
+			"inputIndex": 0,
 			"inputSpriteIndex": 242,
 			"pivot": {
 				"x": 8.0,
@@ -5353,6 +5481,7 @@
 			"data": {},
 			"id": "sprite_243",
 			"index": 243,
+			"inputIndex": 0,
 			"inputSpriteIndex": 243,
 			"pivot": {
 				"x": 8.0,
@@ -5393,6 +5522,7 @@
 			"data": {},
 			"id": "sprite_244",
 			"index": 244,
+			"inputIndex": 0,
 			"inputSpriteIndex": 244,
 			"pivot": {
 				"x": 8.0,
@@ -5463,6 +5593,7 @@
 			"data": {},
 			"id": "sprite_255",
 			"index": 255,
+			"inputIndex": 0,
 			"inputSpriteIndex": 255,
 			"pivot": {
 				"x": 8.0,
@@ -5503,6 +5634,7 @@
 			"data": {},
 			"id": "sprite_256",
 			"index": 256,
+			"inputIndex": 0,
 			"inputSpriteIndex": 256,
 			"pivot": {
 				"x": 8.0,
@@ -5543,6 +5675,7 @@
 			"data": {},
 			"id": "sprite_257",
 			"index": 257,
+			"inputIndex": 0,
 			"inputSpriteIndex": 257,
 			"pivot": {
 				"x": 8.0,
@@ -5586,6 +5719,7 @@
 			"data": {},
 			"id": "sprite_259",
 			"index": 259,
+			"inputIndex": 0,
 			"inputSpriteIndex": 259,
 			"pivot": {
 				"x": 8.0,
@@ -5626,6 +5760,7 @@
 			"data": {},
 			"id": "sprite_260",
 			"index": 260,
+			"inputIndex": 0,
 			"inputSpriteIndex": 260,
 			"pivot": {
 				"x": 8.0,
@@ -5669,6 +5804,7 @@
 			"data": {},
 			"id": "sprite_262",
 			"index": 262,
+			"inputIndex": 0,
 			"inputSpriteIndex": 262,
 			"pivot": {
 				"x": 8.0,
@@ -5718,6 +5854,7 @@
 			"data": {},
 			"id": "sprite_266",
 			"index": 266,
+			"inputIndex": 0,
 			"inputSpriteIndex": 266,
 			"pivot": {
 				"x": 8.0,
@@ -5758,6 +5895,7 @@
 			"data": {},
 			"id": "sprite_267",
 			"index": 267,
+			"inputIndex": 0,
 			"inputSpriteIndex": 267,
 			"pivot": {
 				"x": 8.0,
@@ -5798,6 +5936,7 @@
 			"data": {},
 			"id": "sprite_268",
 			"index": 268,
+			"inputIndex": 0,
 			"inputSpriteIndex": 268,
 			"pivot": {
 				"x": 8.0,
@@ -5868,6 +6007,7 @@
 			"data": {},
 			"id": "sprite_279",
 			"index": 279,
+			"inputIndex": 0,
 			"inputSpriteIndex": 279,
 			"pivot": {
 				"x": 8.0,
@@ -5908,6 +6048,7 @@
 			"data": {},
 			"id": "sprite_280",
 			"index": 280,
+			"inputIndex": 0,
 			"inputSpriteIndex": 280,
 			"pivot": {
 				"x": 8.0,
@@ -5948,6 +6089,7 @@
 			"data": {},
 			"id": "sprite_281",
 			"index": 281,
+			"inputIndex": 0,
 			"inputSpriteIndex": 281,
 			"pivot": {
 				"x": 8.0,
@@ -5991,6 +6133,7 @@
 			"data": {},
 			"id": "sprite_283",
 			"index": 283,
+			"inputIndex": 0,
 			"inputSpriteIndex": 283,
 			"pivot": {
 				"x": 8.0,
@@ -6031,6 +6174,7 @@
 			"data": {},
 			"id": "sprite_284",
 			"index": 284,
+			"inputIndex": 0,
 			"inputSpriteIndex": 284,
 			"pivot": {
 				"x": 8.0,
@@ -6080,6 +6224,7 @@
 			"data": {},
 			"id": "sprite_288",
 			"index": 288,
+			"inputIndex": 0,
 			"inputSpriteIndex": 288,
 			"pivot": {
 				"x": 8.0,
@@ -6120,6 +6265,7 @@
 			"data": {},
 			"id": "sprite_289",
 			"index": 289,
+			"inputIndex": 0,
 			"inputSpriteIndex": 289,
 			"pivot": {
 				"x": 8.0,
@@ -6160,6 +6306,7 @@
 			"data": {},
 			"id": "sprite_290",
 			"index": 290,
+			"inputIndex": 0,
 			"inputSpriteIndex": 290,
 			"pivot": {
 				"x": 8.0,
@@ -6200,6 +6347,7 @@
 			"data": {},
 			"id": "sprite_291",
 			"index": 291,
+			"inputIndex": 0,
 			"inputSpriteIndex": 291,
 			"pivot": {
 				"x": 8.0,
@@ -6240,6 +6388,7 @@
 			"data": {},
 			"id": "sprite_292",
 			"index": 292,
+			"inputIndex": 0,
 			"inputSpriteIndex": 292,
 			"pivot": {
 				"x": 8.0,
@@ -6319,6 +6468,7 @@
 			"data": {},
 			"id": "sprite_306",
 			"index": 306,
+			"inputIndex": 0,
 			"inputSpriteIndex": 306,
 			"pivot": {
 				"x": 8.0,
@@ -6359,6 +6509,7 @@
 			"data": {},
 			"id": "sprite_307",
 			"index": 307,
+			"inputIndex": 0,
 			"inputSpriteIndex": 307,
 			"pivot": {
 				"x": 8.0,
@@ -6399,6 +6550,7 @@
 			"data": {},
 			"id": "sprite_308",
 			"index": 308,
+			"inputIndex": 0,
 			"inputSpriteIndex": 308,
 			"pivot": {
 				"x": 8.0,
@@ -6445,6 +6597,7 @@
 			"data": {},
 			"id": "sprite_311",
 			"index": 311,
+			"inputIndex": 0,
 			"inputSpriteIndex": 311,
 			"pivot": {
 				"x": 8.0,
@@ -6488,6 +6641,7 @@
 			"data": {},
 			"id": "sprite_313",
 			"index": 313,
+			"inputIndex": 0,
 			"inputSpriteIndex": 313,
 			"pivot": {
 				"x": 8.0,
@@ -6531,6 +6685,7 @@
 			"data": {},
 			"id": "sprite_315",
 			"index": 315,
+			"inputIndex": 0,
 			"inputSpriteIndex": 315,
 			"pivot": {
 				"x": 8.0,
@@ -6571,6 +6726,7 @@
 			"data": {},
 			"id": "sprite_316",
 			"index": 316,
+			"inputIndex": 0,
 			"inputSpriteIndex": 316,
 			"pivot": {
 				"x": 8.0,
@@ -6611,6 +6767,7 @@
 			"data": {},
 			"id": "sprite_317",
 			"index": 317,
+			"inputIndex": 0,
 			"inputSpriteIndex": 317,
 			"pivot": {
 				"x": 8.0,
@@ -6666,6 +6823,7 @@
 			"data": {},
 			"id": "sprite_323",
 			"index": 323,
+			"inputIndex": 0,
 			"inputSpriteIndex": 323,
 			"pivot": {
 				"x": 8.0,
@@ -6721,6 +6879,7 @@
 			"data": {},
 			"id": "sprite_329",
 			"index": 329,
+			"inputIndex": 0,
 			"inputSpriteIndex": 329,
 			"pivot": {
 				"x": 8.0,
@@ -6761,6 +6920,7 @@
 			"data": {},
 			"id": "sprite_330",
 			"index": 330,
+			"inputIndex": 0,
 			"inputSpriteIndex": 330,
 			"pivot": {
 				"x": 8.0,
@@ -6801,6 +6961,7 @@
 			"data": {},
 			"id": "sprite_331",
 			"index": 331,
+			"inputIndex": 0,
 			"inputSpriteIndex": 331,
 			"pivot": {
 				"x": 8.0,
@@ -6841,6 +7002,7 @@
 			"data": {},
 			"id": "sprite_332",
 			"index": 332,
+			"inputIndex": 0,
 			"inputSpriteIndex": 332,
 			"pivot": {
 				"x": 8.0,
@@ -6881,6 +7043,7 @@
 			"data": {},
 			"id": "sprite_333",
 			"index": 333,
+			"inputIndex": 0,
 			"inputSpriteIndex": 333,
 			"pivot": {
 				"x": 8.0,
@@ -6921,6 +7084,7 @@
 			"data": {},
 			"id": "sprite_334",
 			"index": 334,
+			"inputIndex": 0,
 			"inputSpriteIndex": 334,
 			"pivot": {
 				"x": 8.0,
@@ -6961,6 +7125,7 @@
 			"data": {},
 			"id": "sprite_335",
 			"index": 335,
+			"inputIndex": 0,
 			"inputSpriteIndex": 335,
 			"pivot": {
 				"x": 8.0,
@@ -7004,6 +7169,7 @@
 			"data": {},
 			"id": "sprite_337",
 			"index": 337,
+			"inputIndex": 0,
 			"inputSpriteIndex": 337,
 			"pivot": {
 				"x": 8.0,
@@ -7053,6 +7219,7 @@
 			"data": {},
 			"id": "sprite_341",
 			"index": 341,
+			"inputIndex": 0,
 			"inputSpriteIndex": 341,
 			"pivot": {
 				"x": 8.0,
@@ -7120,6 +7287,7 @@
 			"data": {},
 			"id": "sprite_351",
 			"index": 351,
+			"inputIndex": 0,
 			"inputSpriteIndex": 351,
 			"pivot": {
 				"x": 8.0,
@@ -7160,6 +7328,7 @@
 			"data": {},
 			"id": "sprite_352",
 			"index": 352,
+			"inputIndex": 0,
 			"inputSpriteIndex": 352,
 			"pivot": {
 				"x": 8.0,
@@ -7200,6 +7369,7 @@
 			"data": {},
 			"id": "sprite_353",
 			"index": 353,
+			"inputIndex": 0,
 			"inputSpriteIndex": 353,
 			"pivot": {
 				"x": 8.0,
@@ -7240,6 +7410,7 @@
 			"data": {},
 			"id": "sprite_354",
 			"index": 354,
+			"inputIndex": 0,
 			"inputSpriteIndex": 354,
 			"pivot": {
 				"x": 8.0,
@@ -7280,6 +7451,7 @@
 			"data": {},
 			"id": "sprite_355",
 			"index": 355,
+			"inputIndex": 0,
 			"inputSpriteIndex": 355,
 			"pivot": {
 				"x": 8.0,
@@ -7320,6 +7492,7 @@
 			"data": {},
 			"id": "sprite_356",
 			"index": 356,
+			"inputIndex": 0,
 			"inputSpriteIndex": 356,
 			"pivot": {
 				"x": 8.0,
@@ -7360,6 +7533,7 @@
 			"data": {},
 			"id": "sprite_357",
 			"index": 357,
+			"inputIndex": 0,
 			"inputSpriteIndex": 357,
 			"pivot": {
 				"x": 8.0,
@@ -7409,6 +7583,7 @@
 			"data": {},
 			"id": "sprite_361",
 			"index": 361,
+			"inputIndex": 0,
 			"inputSpriteIndex": 361,
 			"pivot": {
 				"x": 8.0,
@@ -7452,6 +7627,7 @@
 			"data": {},
 			"id": "sprite_363",
 			"index": 363,
+			"inputIndex": 0,
 			"inputSpriteIndex": 363,
 			"pivot": {
 				"x": 8.0,
@@ -7522,6 +7698,7 @@
 			"data": {},
 			"id": "sprite_374",
 			"index": 374,
+			"inputIndex": 0,
 			"inputSpriteIndex": 374,
 			"pivot": {
 				"x": 8.0,
@@ -7562,6 +7739,7 @@
 			"data": {},
 			"id": "sprite_375",
 			"index": 375,
+			"inputIndex": 0,
 			"inputSpriteIndex": 375,
 			"pivot": {
 				"x": 8.0,
@@ -7602,6 +7780,7 @@
 			"data": {},
 			"id": "sprite_376",
 			"index": 376,
+			"inputIndex": 0,
 			"inputSpriteIndex": 376,
 			"pivot": {
 				"x": 8.0,
@@ -7642,6 +7821,7 @@
 			"data": {},
 			"id": "sprite_377",
 			"index": 377,
+			"inputIndex": 0,
 			"inputSpriteIndex": 377,
 			"pivot": {
 				"x": 8.0,
@@ -7682,6 +7862,7 @@
 			"data": {},
 			"id": "sprite_378",
 			"index": 378,
+			"inputIndex": 0,
 			"inputSpriteIndex": 378,
 			"pivot": {
 				"x": 8.0,
@@ -7722,6 +7903,7 @@
 			"data": {},
 			"id": "sprite_379",
 			"index": 379,
+			"inputIndex": 0,
 			"inputSpriteIndex": 379,
 			"pivot": {
 				"x": 8.0,
@@ -7762,6 +7944,7 @@
 			"data": {},
 			"id": "sprite_380",
 			"index": 380,
+			"inputIndex": 0,
 			"inputSpriteIndex": 380,
 			"pivot": {
 				"x": 8.0,
@@ -7802,6 +7985,7 @@
 			"data": {},
 			"id": "sprite_381",
 			"index": 381,
+			"inputIndex": 0,
 			"inputSpriteIndex": 381,
 			"pivot": {
 				"x": 8.0,
@@ -7848,6 +8032,7 @@
 			"data": {},
 			"id": "sprite_384",
 			"index": 384,
+			"inputIndex": 0,
 			"inputSpriteIndex": 384,
 			"pivot": {
 				"x": 8.0,
@@ -7888,6 +8073,7 @@
 			"data": {},
 			"id": "sprite_385",
 			"index": 385,
+			"inputIndex": 0,
 			"inputSpriteIndex": 385,
 			"pivot": {
 				"x": 8.0,
@@ -7931,6 +8117,7 @@
 			"data": {},
 			"id": "sprite_387",
 			"index": 387,
+			"inputIndex": 0,
 			"inputSpriteIndex": 387,
 			"pivot": {
 				"x": 8.0,
@@ -7971,6 +8158,7 @@
 			"data": {},
 			"id": "sprite_388",
 			"index": 388,
+			"inputIndex": 0,
 			"inputSpriteIndex": 388,
 			"pivot": {
 				"x": 8.0,
@@ -8038,6 +8226,7 @@
 			"data": {},
 			"id": "sprite_398",
 			"index": 398,
+			"inputIndex": 0,
 			"inputSpriteIndex": 398,
 			"pivot": {
 				"x": 8.0,
@@ -8078,6 +8267,7 @@
 			"data": {},
 			"id": "sprite_399",
 			"index": 399,
+			"inputIndex": 0,
 			"inputSpriteIndex": 399,
 			"pivot": {
 				"x": 8.0,
@@ -8118,6 +8308,7 @@
 			"data": {},
 			"id": "sprite_400",
 			"index": 400,
+			"inputIndex": 0,
 			"inputSpriteIndex": 400,
 			"pivot": {
 				"x": 8.0,
@@ -8161,6 +8352,7 @@
 			"data": {},
 			"id": "sprite_402",
 			"index": 402,
+			"inputIndex": 0,
 			"inputSpriteIndex": 402,
 			"pivot": {
 				"x": 8.0,
@@ -8207,6 +8399,7 @@
 			"data": {},
 			"id": "sprite_405",
 			"index": 405,
+			"inputIndex": 0,
 			"inputSpriteIndex": 405,
 			"pivot": {
 				"x": 8.0,
@@ -8259,6 +8452,7 @@
 			"data": {},
 			"id": "sprite_410",
 			"index": 410,
+			"inputIndex": 0,
 			"inputSpriteIndex": 410,
 			"pivot": {
 				"x": 8.0,
@@ -8299,6 +8493,7 @@
 			"data": {},
 			"id": "sprite_411",
 			"index": 411,
+			"inputIndex": 0,
 			"inputSpriteIndex": 411,
 			"pivot": {
 				"x": 8.0,
@@ -8339,6 +8534,7 @@
 			"data": {},
 			"id": "sprite_412",
 			"index": 412,
+			"inputIndex": 0,
 			"inputSpriteIndex": 412,
 			"pivot": {
 				"x": 8.0,
@@ -8406,6 +8602,7 @@
 			"data": {},
 			"id": "sprite_422",
 			"index": 422,
+			"inputIndex": 0,
 			"inputSpriteIndex": 422,
 			"pivot": {
 				"x": 8.0,
@@ -8446,6 +8643,7 @@
 			"data": {},
 			"id": "sprite_423",
 			"index": 423,
+			"inputIndex": 0,
 			"inputSpriteIndex": 423,
 			"pivot": {
 				"x": 8.0,
@@ -8486,6 +8684,7 @@
 			"data": {},
 			"id": "sprite_424",
 			"index": 424,
+			"inputIndex": 0,
 			"inputSpriteIndex": 424,
 			"pivot": {
 				"x": 8.0,
@@ -8529,6 +8728,7 @@
 			"data": {},
 			"id": "sprite_426",
 			"index": 426,
+			"inputIndex": 0,
 			"inputSpriteIndex": 426,
 			"pivot": {
 				"x": 8.0,
@@ -8575,6 +8775,7 @@
 			"data": {},
 			"id": "sprite_429",
 			"index": 429,
+			"inputIndex": 0,
 			"inputSpriteIndex": 429,
 			"pivot": {
 				"x": 8.0,
@@ -8618,6 +8819,7 @@
 			"data": {},
 			"id": "sprite_431",
 			"index": 431,
+			"inputIndex": 0,
 			"inputSpriteIndex": 431,
 			"pivot": {
 				"x": 8.0,
@@ -8661,6 +8863,7 @@
 			"data": {},
 			"id": "sprite_433",
 			"index": 433,
+			"inputIndex": 0,
 			"inputSpriteIndex": 433,
 			"pivot": {
 				"x": 8.0,
@@ -8701,6 +8904,7 @@
 			"data": {},
 			"id": "sprite_434",
 			"index": 434,
+			"inputIndex": 0,
 			"inputSpriteIndex": 434,
 			"pivot": {
 				"x": 8.0,
@@ -8741,6 +8945,7 @@
 			"data": {},
 			"id": "sprite_435",
 			"index": 435,
+			"inputIndex": 0,
 			"inputSpriteIndex": 435,
 			"pivot": {
 				"x": 8.0,
@@ -8781,6 +8986,7 @@
 			"data": {},
 			"id": "sprite_436",
 			"index": 436,
+			"inputIndex": 0,
 			"inputSpriteIndex": 436,
 			"pivot": {
 				"x": 8.0,
@@ -8833,6 +9039,7 @@
 			"data": {},
 			"id": "sprite_441",
 			"index": 441,
+			"inputIndex": 0,
 			"inputSpriteIndex": 441,
 			"pivot": {
 				"x": 8.0,
@@ -8876,6 +9083,7 @@
 			"data": {},
 			"id": "sprite_443",
 			"index": 443,
+			"inputIndex": 0,
 			"inputSpriteIndex": 443,
 			"pivot": {
 				"x": 8.0,
@@ -8916,6 +9124,7 @@
 			"data": {},
 			"id": "sprite_444",
 			"index": 444,
+			"inputIndex": 0,
 			"inputSpriteIndex": 444,
 			"pivot": {
 				"x": 8.0,
@@ -8968,6 +9177,7 @@
 			"data": {},
 			"id": "sprite_449",
 			"index": 449,
+			"inputIndex": 0,
 			"inputSpriteIndex": 449,
 			"pivot": {
 				"x": 8.0,
@@ -9008,6 +9218,7 @@
 			"data": {},
 			"id": "sprite_450",
 			"index": 450,
+			"inputIndex": 0,
 			"inputSpriteIndex": 450,
 			"pivot": {
 				"x": 8.0,
@@ -9051,6 +9262,7 @@
 			"data": {},
 			"id": "sprite_452",
 			"index": 452,
+			"inputIndex": 0,
 			"inputSpriteIndex": 452,
 			"pivot": {
 				"x": 8.0,
@@ -9091,6 +9303,7 @@
 			"data": {},
 			"id": "sprite_453",
 			"index": 453,
+			"inputIndex": 0,
 			"inputSpriteIndex": 453,
 			"pivot": {
 				"x": 8.0,
@@ -9134,6 +9347,7 @@
 			"data": {},
 			"id": "sprite_455",
 			"index": 455,
+			"inputIndex": 0,
 			"inputSpriteIndex": 455,
 			"pivot": {
 				"x": 8.0,
@@ -9180,6 +9394,7 @@
 			"data": {},
 			"id": "sprite_458",
 			"index": 458,
+			"inputIndex": 0,
 			"inputSpriteIndex": 458,
 			"pivot": {
 				"x": 8.0,
@@ -9220,6 +9435,7 @@
 			"data": {},
 			"id": "sprite_459",
 			"index": 459,
+			"inputIndex": 0,
 			"inputSpriteIndex": 459,
 			"pivot": {
 				"x": 8.0,
@@ -9260,6 +9476,7 @@
 			"data": {},
 			"id": "sprite_460",
 			"index": 460,
+			"inputIndex": 0,
 			"inputSpriteIndex": 460,
 			"pivot": {
 				"x": 8.0,
@@ -9315,6 +9532,7 @@
 			"data": {},
 			"id": "sprite_466",
 			"index": 466,
+			"inputIndex": 0,
 			"inputSpriteIndex": 466,
 			"pivot": {
 				"x": 8.0,
@@ -9355,6 +9573,7 @@
 			"data": {},
 			"id": "sprite_467",
 			"index": 467,
+			"inputIndex": 0,
 			"inputSpriteIndex": 467,
 			"pivot": {
 				"x": 8.0,
@@ -9398,6 +9617,7 @@
 			"data": {},
 			"id": "sprite_469",
 			"index": 469,
+			"inputIndex": 0,
 			"inputSpriteIndex": 469,
 			"pivot": {
 				"x": 8.0,
@@ -9438,6 +9658,7 @@
 			"data": {},
 			"id": "sprite_470",
 			"index": 470,
+			"inputIndex": 0,
 			"inputSpriteIndex": 470,
 			"pivot": {
 				"x": 8.0,
@@ -9478,6 +9699,7 @@
 			"data": {},
 			"id": "sprite_471",
 			"index": 471,
+			"inputIndex": 0,
 			"inputSpriteIndex": 471,
 			"pivot": {
 				"x": 8.0,
@@ -9521,6 +9743,7 @@
 			"data": {},
 			"id": "sprite_473",
 			"index": 473,
+			"inputIndex": 0,
 			"inputSpriteIndex": 473,
 			"pivot": {
 				"x": 8.0,
@@ -9561,6 +9784,7 @@
 			"data": {},
 			"id": "sprite_474",
 			"index": 474,
+			"inputIndex": 0,
 			"inputSpriteIndex": 474,
 			"pivot": {
 				"x": 8.0,
@@ -9607,6 +9831,7 @@
 			"data": {},
 			"id": "sprite_477",
 			"index": 477,
+			"inputIndex": 0,
 			"inputSpriteIndex": 477,
 			"pivot": {
 				"x": 8.0,
@@ -9650,6 +9875,7 @@
 			"data": {},
 			"id": "sprite_479",
 			"index": 479,
+			"inputIndex": 0,
 			"inputSpriteIndex": 479,
 			"pivot": {
 				"x": 8.0,
@@ -9696,6 +9922,7 @@
 			"data": {},
 			"id": "sprite_482",
 			"index": 482,
+			"inputIndex": 0,
 			"inputSpriteIndex": 482,
 			"pivot": {
 				"x": 8.0,
@@ -9736,6 +9963,7 @@
 			"data": {},
 			"id": "sprite_483",
 			"index": 483,
+			"inputIndex": 0,
 			"inputSpriteIndex": 483,
 			"pivot": {
 				"x": 8.0,
@@ -9776,6 +10004,7 @@
 			"data": {},
 			"id": "sprite_484",
 			"index": 484,
+			"inputIndex": 0,
 			"inputSpriteIndex": 484,
 			"pivot": {
 				"x": 8.0,
@@ -9816,6 +10045,7 @@
 			"data": {},
 			"id": "sprite_485",
 			"index": 485,
+			"inputIndex": 0,
 			"inputSpriteIndex": 485,
 			"pivot": {
 				"x": 8.0,
@@ -9871,6 +10101,7 @@
 			"data": {},
 			"id": "sprite_491",
 			"index": 491,
+			"inputIndex": 0,
 			"inputSpriteIndex": 491,
 			"pivot": {
 				"x": 8.0,
@@ -9914,6 +10145,7 @@
 			"data": {},
 			"id": "sprite_493",
 			"index": 493,
+			"inputIndex": 0,
 			"inputSpriteIndex": 493,
 			"pivot": {
 				"x": 8.0,
@@ -9954,6 +10186,7 @@
 			"data": {},
 			"id": "sprite_494",
 			"index": 494,
+			"inputIndex": 0,
 			"inputSpriteIndex": 494,
 			"pivot": {
 				"x": 8.0,
@@ -9994,6 +10227,7 @@
 			"data": {},
 			"id": "sprite_495",
 			"index": 495,
+			"inputIndex": 0,
 			"inputSpriteIndex": 495,
 			"pivot": {
 				"x": 8.0,
@@ -10043,6 +10277,7 @@
 			"data": {},
 			"id": "sprite_499",
 			"index": 499,
+			"inputIndex": 0,
 			"inputSpriteIndex": 499,
 			"pivot": {
 				"x": 8.0,
@@ -10083,6 +10318,7 @@
 			"data": {},
 			"id": "sprite_500",
 			"index": 500,
+			"inputIndex": 0,
 			"inputSpriteIndex": 500,
 			"pivot": {
 				"x": 8.0,
@@ -10123,6 +10359,7 @@
 			"data": {},
 			"id": "sprite_501",
 			"index": 501,
+			"inputIndex": 0,
 			"inputSpriteIndex": 501,
 			"pivot": {
 				"x": 8.0,
@@ -10163,6 +10400,7 @@
 			"data": {},
 			"id": "sprite_502",
 			"index": 502,
+			"inputIndex": 0,
 			"inputSpriteIndex": 502,
 			"pivot": {
 				"x": 8.0,
@@ -10209,6 +10447,7 @@
 			"data": {},
 			"id": "sprite_505",
 			"index": 505,
+			"inputIndex": 0,
 			"inputSpriteIndex": 505,
 			"pivot": {
 				"x": 8.0,
@@ -10249,6 +10488,7 @@
 			"data": {},
 			"id": "sprite_506",
 			"index": 506,
+			"inputIndex": 0,
 			"inputSpriteIndex": 506,
 			"pivot": {
 				"x": 8.0,
@@ -10289,6 +10529,7 @@
 			"data": {},
 			"id": "sprite_507",
 			"index": 507,
+			"inputIndex": 0,
 			"inputSpriteIndex": 507,
 			"pivot": {
 				"x": 8.0,
@@ -10329,6 +10570,7 @@
 			"data": {},
 			"id": "sprite_508",
 			"index": 508,
+			"inputIndex": 0,
 			"inputSpriteIndex": 508,
 			"pivot": {
 				"x": 8.0,
@@ -10381,6 +10623,7 @@
 			"data": {},
 			"id": "sprite_513",
 			"index": 513,
+			"inputIndex": 0,
 			"inputSpriteIndex": 513,
 			"pivot": {
 				"x": 8.0,
@@ -10421,6 +10664,7 @@
 			"data": {},
 			"id": "sprite_514",
 			"index": 514,
+			"inputIndex": 0,
 			"inputSpriteIndex": 514,
 			"pivot": {
 				"x": 8.0,
@@ -10461,6 +10705,7 @@
 			"data": {},
 			"id": "sprite_515",
 			"index": 515,
+			"inputIndex": 0,
 			"inputSpriteIndex": 515,
 			"pivot": {
 				"x": 8.0,
@@ -10522,6 +10767,7 @@
 			"data": {},
 			"id": "sprite_523",
 			"index": 523,
+			"inputIndex": 0,
 			"inputSpriteIndex": 523,
 			"pivot": {
 				"x": 8.0,
@@ -10562,6 +10808,7 @@
 			"data": {},
 			"id": "sprite_524",
 			"index": 524,
+			"inputIndex": 0,
 			"inputSpriteIndex": 524,
 			"pivot": {
 				"x": 8.0,
@@ -10602,6 +10849,7 @@
 			"data": {},
 			"id": "sprite_525",
 			"index": 525,
+			"inputIndex": 0,
 			"inputSpriteIndex": 525,
 			"pivot": {
 				"x": 8.0,
@@ -10642,6 +10890,7 @@
 			"data": {},
 			"id": "sprite_526",
 			"index": 526,
+			"inputIndex": 0,
 			"inputSpriteIndex": 526,
 			"pivot": {
 				"x": 8.0,
@@ -10682,6 +10931,7 @@
 			"data": {},
 			"id": "sprite_527",
 			"index": 527,
+			"inputIndex": 0,
 			"inputSpriteIndex": 527,
 			"pivot": {
 				"x": 8.0,
@@ -10722,6 +10972,7 @@
 			"data": {},
 			"id": "sprite_528",
 			"index": 528,
+			"inputIndex": 0,
 			"inputSpriteIndex": 528,
 			"pivot": {
 				"x": 8.0,
@@ -10765,6 +11016,7 @@
 			"data": {},
 			"id": "sprite_530",
 			"index": 530,
+			"inputIndex": 0,
 			"inputSpriteIndex": 530,
 			"pivot": {
 				"x": 8.0,
@@ -10805,6 +11057,7 @@
 			"data": {},
 			"id": "sprite_531",
 			"index": 531,
+			"inputIndex": 0,
 			"inputSpriteIndex": 531,
 			"pivot": {
 				"x": 8.0,
@@ -10845,6 +11098,7 @@
 			"data": {},
 			"id": "sprite_532",
 			"index": 532,
+			"inputIndex": 0,
 			"inputSpriteIndex": 532,
 			"pivot": {
 				"x": 8.0,
@@ -10903,6 +11157,7 @@
 			"data": {},
 			"id": "sprite_539",
 			"index": 539,
+			"inputIndex": 0,
 			"inputSpriteIndex": 539,
 			"pivot": {
 				"x": 8.0,
@@ -10943,6 +11198,7 @@
 			"data": {},
 			"id": "sprite_540",
 			"index": 540,
+			"inputIndex": 0,
 			"inputSpriteIndex": 540,
 			"pivot": {
 				"x": 8.0,
@@ -10983,6 +11239,7 @@
 			"data": {},
 			"id": "sprite_541",
 			"index": 541,
+			"inputIndex": 0,
 			"inputSpriteIndex": 541,
 			"pivot": {
 				"x": 8.0,
@@ -11023,6 +11280,7 @@
 			"data": {},
 			"id": "sprite_542",
 			"index": 542,
+			"inputIndex": 0,
 			"inputSpriteIndex": 542,
 			"pivot": {
 				"x": 8.0,
@@ -11066,6 +11324,7 @@
 			"data": {},
 			"id": "sprite_544",
 			"index": 544,
+			"inputIndex": 0,
 			"inputSpriteIndex": 544,
 			"pivot": {
 				"x": 8.0,
@@ -11112,6 +11371,7 @@
 			"data": {},
 			"id": "sprite_547",
 			"index": 547,
+			"inputIndex": 0,
 			"inputSpriteIndex": 547,
 			"pivot": {
 				"x": 8.0,
@@ -11152,6 +11412,7 @@
 			"data": {},
 			"id": "sprite_548",
 			"index": 548,
+			"inputIndex": 0,
 			"inputSpriteIndex": 548,
 			"pivot": {
 				"x": 8.0,
@@ -11192,6 +11453,7 @@
 			"data": {},
 			"id": "sprite_549",
 			"index": 549,
+			"inputIndex": 0,
 			"inputSpriteIndex": 549,
 			"pivot": {
 				"x": 8.0,
@@ -11232,6 +11494,7 @@
 			"data": {},
 			"id": "sprite_550",
 			"index": 550,
+			"inputIndex": 0,
 			"inputSpriteIndex": 550,
 			"pivot": {
 				"x": 8.0,
@@ -11275,6 +11538,7 @@
 			"data": {},
 			"id": "sprite_552",
 			"index": 552,
+			"inputIndex": 0,
 			"inputSpriteIndex": 552,
 			"pivot": {
 				"x": 8.0,
@@ -11315,6 +11579,7 @@
 			"data": {},
 			"id": "sprite_553",
 			"index": 553,
+			"inputIndex": 0,
 			"inputSpriteIndex": 553,
 			"pivot": {
 				"x": 8.0,
@@ -11355,6 +11620,7 @@
 			"data": {},
 			"id": "sprite_554",
 			"index": 554,
+			"inputIndex": 0,
 			"inputSpriteIndex": 554,
 			"pivot": {
 				"x": 8.0,
@@ -11395,6 +11661,7 @@
 			"data": {},
 			"id": "sprite_555",
 			"index": 555,
+			"inputIndex": 0,
 			"inputSpriteIndex": 555,
 			"pivot": {
 				"x": 8.0,
@@ -11435,6 +11702,7 @@
 			"data": {},
 			"id": "sprite_556",
 			"index": 556,
+			"inputIndex": 0,
 			"inputSpriteIndex": 556,
 			"pivot": {
 				"x": 8.0,
@@ -11487,6 +11755,7 @@
 			"data": {},
 			"id": "sprite_561",
 			"index": 561,
+			"inputIndex": 0,
 			"inputSpriteIndex": 561,
 			"pivot": {
 				"x": 8.0,
@@ -11530,6 +11799,7 @@
 			"data": {},
 			"id": "sprite_563",
 			"index": 563,
+			"inputIndex": 0,
 			"inputSpriteIndex": 563,
 			"pivot": {
 				"x": 8.0,
@@ -11570,6 +11840,7 @@
 			"data": {},
 			"id": "sprite_564",
 			"index": 564,
+			"inputIndex": 0,
 			"inputSpriteIndex": 564,
 			"pivot": {
 				"x": 8.0,
@@ -11610,6 +11881,7 @@
 			"data": {},
 			"id": "sprite_565",
 			"index": 565,
+			"inputIndex": 0,
 			"inputSpriteIndex": 565,
 			"pivot": {
 				"x": 8.0,
@@ -11650,6 +11922,7 @@
 			"data": {},
 			"id": "sprite_566",
 			"index": 566,
+			"inputIndex": 0,
 			"inputSpriteIndex": 566,
 			"pivot": {
 				"x": 8.0,
@@ -11714,6 +11987,7 @@
 			"data": {},
 			"id": "sprite_575",
 			"index": 575,
+			"inputIndex": 0,
 			"inputSpriteIndex": 575,
 			"pivot": {
 				"x": 8.0,
@@ -11754,6 +12028,7 @@
 			"data": {},
 			"id": "sprite_576",
 			"index": 576,
+			"inputIndex": 1,
 			"inputSpriteIndex": 0,
 			"pivot": {
 				"x": 8.0,
@@ -11794,6 +12069,7 @@
 			"data": {},
 			"id": "sprite_577",
 			"index": 577,
+			"inputIndex": 1,
 			"inputSpriteIndex": 1,
 			"pivot": {
 				"x": 8.0,
@@ -11834,6 +12110,7 @@
 			"data": {},
 			"id": "sprite_578",
 			"index": 578,
+			"inputIndex": 1,
 			"inputSpriteIndex": 2,
 			"pivot": {
 				"x": 8.0,
@@ -11874,6 +12151,7 @@
 			"data": {},
 			"id": "sprite_579",
 			"index": 579,
+			"inputIndex": 1,
 			"inputSpriteIndex": 3,
 			"pivot": {
 				"x": 8.0,
@@ -11914,6 +12192,7 @@
 			"data": {},
 			"id": "sprite_580",
 			"index": 580,
+			"inputIndex": 1,
 			"inputSpriteIndex": 4,
 			"pivot": {
 				"x": 8.0,
@@ -11954,6 +12233,7 @@
 			"data": {},
 			"id": "sprite_581",
 			"index": 581,
+			"inputIndex": 1,
 			"inputSpriteIndex": 5,
 			"pivot": {
 				"x": 8.0,
@@ -11994,6 +12274,7 @@
 			"data": {},
 			"id": "sprite_582",
 			"index": 582,
+			"inputIndex": 1,
 			"inputSpriteIndex": 6,
 			"pivot": {
 				"x": 8.0,
@@ -12034,6 +12315,7 @@
 			"data": {},
 			"id": "sprite_583",
 			"index": 583,
+			"inputIndex": 1,
 			"inputSpriteIndex": 7,
 			"pivot": {
 				"x": 8.0,
@@ -12074,6 +12356,7 @@
 			"data": {},
 			"id": "sprite_584",
 			"index": 584,
+			"inputIndex": 1,
 			"inputSpriteIndex": 8,
 			"pivot": {
 				"x": 8.0,
@@ -12114,6 +12397,7 @@
 			"data": {},
 			"id": "sprite_585",
 			"index": 585,
+			"inputIndex": 1,
 			"inputSpriteIndex": 9,
 			"pivot": {
 				"x": 8.0,
@@ -12154,6 +12438,7 @@
 			"data": {},
 			"id": "sprite_586",
 			"index": 586,
+			"inputIndex": 1,
 			"inputSpriteIndex": 10,
 			"pivot": {
 				"x": 8.0,
@@ -12194,6 +12479,7 @@
 			"data": {},
 			"id": "sprite_587",
 			"index": 587,
+			"inputIndex": 1,
 			"inputSpriteIndex": 11,
 			"pivot": {
 				"x": 8.0,
@@ -12234,6 +12520,7 @@
 			"data": {},
 			"id": "sprite_588",
 			"index": 588,
+			"inputIndex": 1,
 			"inputSpriteIndex": 12,
 			"pivot": {
 				"x": 8.0,
@@ -12280,6 +12567,7 @@
 			"data": {},
 			"id": "sprite_591",
 			"index": 591,
+			"inputIndex": 1,
 			"inputSpriteIndex": 15,
 			"pivot": {
 				"x": 8.0,
@@ -12320,6 +12608,7 @@
 			"data": {},
 			"id": "sprite_592",
 			"index": 592,
+			"inputIndex": 1,
 			"inputSpriteIndex": 16,
 			"pivot": {
 				"x": 8.0,
@@ -12360,6 +12649,7 @@
 			"data": {},
 			"id": "sprite_593",
 			"index": 593,
+			"inputIndex": 1,
 			"inputSpriteIndex": 17,
 			"pivot": {
 				"x": 8.0,
@@ -12400,6 +12690,7 @@
 			"data": {},
 			"id": "sprite_594",
 			"index": 594,
+			"inputIndex": 1,
 			"inputSpriteIndex": 18,
 			"pivot": {
 				"x": 8.0,
@@ -12440,6 +12731,7 @@
 			"data": {},
 			"id": "sprite_595",
 			"index": 595,
+			"inputIndex": 1,
 			"inputSpriteIndex": 19,
 			"pivot": {
 				"x": 8.0,
@@ -12480,6 +12772,7 @@
 			"data": {},
 			"id": "sprite_596",
 			"index": 596,
+			"inputIndex": 1,
 			"inputSpriteIndex": 20,
 			"pivot": {
 				"x": 8.0,
@@ -12520,6 +12813,7 @@
 			"data": {},
 			"id": "sprite_597",
 			"index": 597,
+			"inputIndex": 1,
 			"inputSpriteIndex": 21,
 			"pivot": {
 				"x": 8.0,
@@ -12560,6 +12854,7 @@
 			"data": {},
 			"id": "sprite_598",
 			"index": 598,
+			"inputIndex": 1,
 			"inputSpriteIndex": 22,
 			"pivot": {
 				"x": 8.0,
@@ -12600,6 +12895,7 @@
 			"data": {},
 			"id": "sprite_599",
 			"index": 599,
+			"inputIndex": 1,
 			"inputSpriteIndex": 23,
 			"pivot": {
 				"x": 8.0,
@@ -12640,6 +12936,7 @@
 			"data": {},
 			"id": "sprite_600",
 			"index": 600,
+			"inputIndex": 1,
 			"inputSpriteIndex": 24,
 			"pivot": {
 				"x": 8.0,
@@ -12680,6 +12977,7 @@
 			"data": {},
 			"id": "sprite_601",
 			"index": 601,
+			"inputIndex": 1,
 			"inputSpriteIndex": 25,
 			"pivot": {
 				"x": 8.0,
@@ -12720,6 +13018,7 @@
 			"data": {},
 			"id": "sprite_602",
 			"index": 602,
+			"inputIndex": 1,
 			"inputSpriteIndex": 26,
 			"pivot": {
 				"x": 8.0,
@@ -12763,6 +13062,7 @@
 			"data": {},
 			"id": "sprite_604",
 			"index": 604,
+			"inputIndex": 1,
 			"inputSpriteIndex": 28,
 			"pivot": {
 				"x": 8.0,
@@ -12806,6 +13106,7 @@
 			"data": {},
 			"id": "sprite_606",
 			"index": 606,
+			"inputIndex": 1,
 			"inputSpriteIndex": 30,
 			"pivot": {
 				"x": 8.0,
@@ -12846,6 +13147,7 @@
 			"data": {},
 			"id": "sprite_607",
 			"index": 607,
+			"inputIndex": 1,
 			"inputSpriteIndex": 31,
 			"pivot": {
 				"x": 8.0,
@@ -12892,6 +13194,7 @@
 			"data": {},
 			"id": "sprite_610",
 			"index": 610,
+			"inputIndex": 1,
 			"inputSpriteIndex": 34,
 			"pivot": {
 				"x": 8.0,
@@ -12932,6 +13235,7 @@
 			"data": {},
 			"id": "sprite_611",
 			"index": 611,
+			"inputIndex": 1,
 			"inputSpriteIndex": 35,
 			"pivot": {
 				"x": 8.0,
@@ -12972,6 +13276,7 @@
 			"data": {},
 			"id": "sprite_612",
 			"index": 612,
+			"inputIndex": 1,
 			"inputSpriteIndex": 36,
 			"pivot": {
 				"x": 8.0,
@@ -13015,6 +13320,7 @@
 			"data": {},
 			"id": "sprite_614",
 			"index": 614,
+			"inputIndex": 1,
 			"inputSpriteIndex": 38,
 			"pivot": {
 				"x": 8.0,
@@ -13058,6 +13364,7 @@
 			"data": {},
 			"id": "sprite_616",
 			"index": 616,
+			"inputIndex": 1,
 			"inputSpriteIndex": 40,
 			"pivot": {
 				"x": 8.0,
@@ -13098,6 +13405,7 @@
 			"data": {},
 			"id": "sprite_617",
 			"index": 617,
+			"inputIndex": 1,
 			"inputSpriteIndex": 41,
 			"pivot": {
 				"x": 8.0,
@@ -13138,6 +13446,7 @@
 			"data": {},
 			"id": "sprite_618",
 			"index": 618,
+			"inputIndex": 1,
 			"inputSpriteIndex": 42,
 			"pivot": {
 				"x": 8.0,
@@ -13178,6 +13487,7 @@
 			"data": {},
 			"id": "sprite_619",
 			"index": 619,
+			"inputIndex": 1,
 			"inputSpriteIndex": 43,
 			"pivot": {
 				"x": 8.0,
@@ -13218,6 +13528,7 @@
 			"data": {},
 			"id": "sprite_620",
 			"index": 620,
+			"inputIndex": 1,
 			"inputSpriteIndex": 44,
 			"pivot": {
 				"x": 8.0,
@@ -13258,6 +13569,7 @@
 			"data": {},
 			"id": "sprite_621",
 			"index": 621,
+			"inputIndex": 1,
 			"inputSpriteIndex": 45,
 			"pivot": {
 				"x": 8.0,
@@ -13298,6 +13610,7 @@
 			"data": {},
 			"id": "sprite_622",
 			"index": 622,
+			"inputIndex": 1,
 			"inputSpriteIndex": 46,
 			"pivot": {
 				"x": 8.0,
@@ -13338,6 +13651,7 @@
 			"data": {},
 			"id": "sprite_623",
 			"index": 623,
+			"inputIndex": 1,
 			"inputSpriteIndex": 47,
 			"pivot": {
 				"x": 8.0,
@@ -13381,6 +13695,7 @@
 			"data": {},
 			"id": "sprite_625",
 			"index": 625,
+			"inputIndex": 1,
 			"inputSpriteIndex": 49,
 			"pivot": {
 				"x": 8.0,
@@ -13421,6 +13736,7 @@
 			"data": {},
 			"id": "sprite_626",
 			"index": 626,
+			"inputIndex": 1,
 			"inputSpriteIndex": 50,
 			"pivot": {
 				"x": 8.0,
@@ -13470,6 +13786,7 @@
 			"data": {},
 			"id": "sprite_630",
 			"index": 630,
+			"inputIndex": 1,
 			"inputSpriteIndex": 54,
 			"pivot": {
 				"x": 8.0,
@@ -13510,6 +13827,7 @@
 			"data": {},
 			"id": "sprite_631",
 			"index": 631,
+			"inputIndex": 1,
 			"inputSpriteIndex": 55,
 			"pivot": {
 				"x": 8.0,
@@ -13553,6 +13871,7 @@
 			"data": {},
 			"id": "sprite_633",
 			"index": 633,
+			"inputIndex": 1,
 			"inputSpriteIndex": 57,
 			"pivot": {
 				"x": 8.0,
@@ -13593,6 +13912,7 @@
 			"data": {},
 			"id": "sprite_634",
 			"index": 634,
+			"inputIndex": 1,
 			"inputSpriteIndex": 58,
 			"pivot": {
 				"x": 8.0,
@@ -13636,6 +13956,7 @@
 			"data": {},
 			"id": "sprite_636",
 			"index": 636,
+			"inputIndex": 1,
 			"inputSpriteIndex": 60,
 			"pivot": {
 				"x": 8.0,
@@ -13685,6 +14006,7 @@
 			"data": {},
 			"id": "sprite_640",
 			"index": 640,
+			"inputIndex": 1,
 			"inputSpriteIndex": 64,
 			"pivot": {
 				"x": 8.0,
@@ -13728,6 +14050,7 @@
 			"data": {},
 			"id": "sprite_642",
 			"index": 642,
+			"inputIndex": 1,
 			"inputSpriteIndex": 66,
 			"pivot": {
 				"x": 8.0,
@@ -13768,6 +14091,7 @@
 			"data": {},
 			"id": "sprite_643",
 			"index": 643,
+			"inputIndex": 1,
 			"inputSpriteIndex": 67,
 			"pivot": {
 				"x": 8.0,
@@ -13808,6 +14132,7 @@
 			"data": {},
 			"id": "sprite_644",
 			"index": 644,
+			"inputIndex": 1,
 			"inputSpriteIndex": 68,
 			"pivot": {
 				"x": 8.0,
@@ -13851,6 +14176,7 @@
 			"data": {},
 			"id": "sprite_646",
 			"index": 646,
+			"inputIndex": 1,
 			"inputSpriteIndex": 70,
 			"pivot": {
 				"x": 8.0,
@@ -13891,6 +14217,7 @@
 			"data": {},
 			"id": "sprite_647",
 			"index": 647,
+			"inputIndex": 1,
 			"inputSpriteIndex": 71,
 			"pivot": {
 				"x": 8.0,
@@ -13931,6 +14258,7 @@
 			"data": {},
 			"id": "sprite_648",
 			"index": 648,
+			"inputIndex": 1,
 			"inputSpriteIndex": 72,
 			"pivot": {
 				"x": 8.0,
@@ -13974,6 +14302,7 @@
 			"data": {},
 			"id": "sprite_650",
 			"index": 650,
+			"inputIndex": 1,
 			"inputSpriteIndex": 74,
 			"pivot": {
 				"x": 8.0,
@@ -14014,6 +14343,7 @@
 			"data": {},
 			"id": "sprite_651",
 			"index": 651,
+			"inputIndex": 1,
 			"inputSpriteIndex": 75,
 			"pivot": {
 				"x": 8.0,
@@ -14054,6 +14384,7 @@
 			"data": {},
 			"id": "sprite_652",
 			"index": 652,
+			"inputIndex": 1,
 			"inputSpriteIndex": 76,
 			"pivot": {
 				"x": 8.0,
@@ -14094,6 +14425,7 @@
 			"data": {},
 			"id": "sprite_653",
 			"index": 653,
+			"inputIndex": 1,
 			"inputSpriteIndex": 77,
 			"pivot": {
 				"x": 8.0,
@@ -14134,6 +14466,7 @@
 			"data": {},
 			"id": "sprite_654",
 			"index": 654,
+			"inputIndex": 1,
 			"inputSpriteIndex": 78,
 			"pivot": {
 				"x": 8.0,
@@ -14174,6 +14507,7 @@
 			"data": {},
 			"id": "sprite_655",
 			"index": 655,
+			"inputIndex": 1,
 			"inputSpriteIndex": 79,
 			"pivot": {
 				"x": 8.0,
@@ -14214,6 +14548,7 @@
 			"data": {},
 			"id": "sprite_656",
 			"index": 656,
+			"inputIndex": 1,
 			"inputSpriteIndex": 80,
 			"pivot": {
 				"x": 8.0,
@@ -14257,6 +14592,7 @@
 			"data": {},
 			"id": "sprite_658",
 			"index": 658,
+			"inputIndex": 1,
 			"inputSpriteIndex": 82,
 			"pivot": {
 				"x": 8.0,
@@ -14300,6 +14636,7 @@
 			"data": {},
 			"id": "sprite_660",
 			"index": 660,
+			"inputIndex": 1,
 			"inputSpriteIndex": 84,
 			"pivot": {
 				"x": 8.0,
@@ -14346,6 +14683,7 @@
 			"data": {},
 			"id": "sprite_663",
 			"index": 663,
+			"inputIndex": 1,
 			"inputSpriteIndex": 87,
 			"pivot": {
 				"x": 8.0,
@@ -14386,6 +14724,7 @@
 			"data": {},
 			"id": "sprite_664",
 			"index": 664,
+			"inputIndex": 1,
 			"inputSpriteIndex": 88,
 			"pivot": {
 				"x": 8.0,
@@ -14426,6 +14765,7 @@
 			"data": {},
 			"id": "sprite_665",
 			"index": 665,
+			"inputIndex": 1,
 			"inputSpriteIndex": 89,
 			"pivot": {
 				"x": 8.0,
@@ -14466,6 +14806,7 @@
 			"data": {},
 			"id": "sprite_666",
 			"index": 666,
+			"inputIndex": 1,
 			"inputSpriteIndex": 90,
 			"pivot": {
 				"x": 8.0,
@@ -14506,6 +14847,7 @@
 			"data": {},
 			"id": "sprite_667",
 			"index": 667,
+			"inputIndex": 1,
 			"inputSpriteIndex": 91,
 			"pivot": {
 				"x": 8.0,
@@ -14546,6 +14888,7 @@
 			"data": {},
 			"id": "sprite_668",
 			"index": 668,
+			"inputIndex": 1,
 			"inputSpriteIndex": 92,
 			"pivot": {
 				"x": 8.0,
@@ -14589,6 +14932,7 @@
 			"data": {},
 			"id": "sprite_670",
 			"index": 670,
+			"inputIndex": 1,
 			"inputSpriteIndex": 94,
 			"pivot": {
 				"x": 8.0,
@@ -14629,6 +14973,7 @@
 			"data": {},
 			"id": "sprite_671",
 			"index": 671,
+			"inputIndex": 1,
 			"inputSpriteIndex": 95,
 			"pivot": {
 				"x": 8.0,
@@ -14669,6 +15014,7 @@
 			"data": {},
 			"id": "sprite_672",
 			"index": 672,
+			"inputIndex": 1,
 			"inputSpriteIndex": 96,
 			"pivot": {
 				"x": 8.0,
@@ -14709,6 +15055,7 @@
 			"data": {},
 			"id": "sprite_673",
 			"index": 673,
+			"inputIndex": 1,
 			"inputSpriteIndex": 97,
 			"pivot": {
 				"x": 8.0,
@@ -14752,6 +15099,7 @@
 			"data": {},
 			"id": "sprite_675",
 			"index": 675,
+			"inputIndex": 1,
 			"inputSpriteIndex": 99,
 			"pivot": {
 				"x": 8.0,
@@ -14792,6 +15140,7 @@
 			"data": {},
 			"id": "sprite_676",
 			"index": 676,
+			"inputIndex": 1,
 			"inputSpriteIndex": 100,
 			"pivot": {
 				"x": 8.0,
@@ -14832,6 +15181,7 @@
 			"data": {},
 			"id": "sprite_677",
 			"index": 677,
+			"inputIndex": 1,
 			"inputSpriteIndex": 101,
 			"pivot": {
 				"x": 8.0,
@@ -14872,6 +15222,7 @@
 			"data": {},
 			"id": "sprite_678",
 			"index": 678,
+			"inputIndex": 1,
 			"inputSpriteIndex": 102,
 			"pivot": {
 				"x": 8.0,
@@ -14912,6 +15263,7 @@
 			"data": {},
 			"id": "sprite_679",
 			"index": 679,
+			"inputIndex": 1,
 			"inputSpriteIndex": 103,
 			"pivot": {
 				"x": 8.0,
@@ -14952,6 +15304,7 @@
 			"data": {},
 			"id": "sprite_680",
 			"index": 680,
+			"inputIndex": 1,
 			"inputSpriteIndex": 104,
 			"pivot": {
 				"x": 8.0,
@@ -14992,6 +15345,7 @@
 			"data": {},
 			"id": "sprite_681",
 			"index": 681,
+			"inputIndex": 1,
 			"inputSpriteIndex": 105,
 			"pivot": {
 				"x": 8.0,
@@ -15035,6 +15389,7 @@
 			"data": {},
 			"id": "sprite_683",
 			"index": 683,
+			"inputIndex": 1,
 			"inputSpriteIndex": 107,
 			"pivot": {
 				"x": 8.0,
@@ -15078,6 +15433,7 @@
 			"data": {},
 			"id": "sprite_685",
 			"index": 685,
+			"inputIndex": 1,
 			"inputSpriteIndex": 109,
 			"pivot": {
 				"x": 8.0,
@@ -15118,6 +15474,7 @@
 			"data": {},
 			"id": "sprite_686",
 			"index": 686,
+			"inputIndex": 1,
 			"inputSpriteIndex": 110,
 			"pivot": {
 				"x": 8.0,
@@ -15158,6 +15515,7 @@
 			"data": {},
 			"id": "sprite_687",
 			"index": 687,
+			"inputIndex": 1,
 			"inputSpriteIndex": 111,
 			"pivot": {
 				"x": 8.0,
@@ -15198,6 +15556,7 @@
 			"data": {},
 			"id": "sprite_688",
 			"index": 688,
+			"inputIndex": 1,
 			"inputSpriteIndex": 112,
 			"pivot": {
 				"x": 8.0,
@@ -15238,6 +15597,7 @@
 			"data": {},
 			"id": "sprite_689",
 			"index": 689,
+			"inputIndex": 1,
 			"inputSpriteIndex": 113,
 			"pivot": {
 				"x": 8.0,
@@ -15278,6 +15638,7 @@
 			"data": {},
 			"id": "sprite_690",
 			"index": 690,
+			"inputIndex": 1,
 			"inputSpriteIndex": 114,
 			"pivot": {
 				"x": 8.0,
@@ -15318,6 +15679,7 @@
 			"data": {},
 			"id": "sprite_691",
 			"index": 691,
+			"inputIndex": 1,
 			"inputSpriteIndex": 115,
 			"pivot": {
 				"x": 8.0,
@@ -15358,6 +15720,7 @@
 			"data": {},
 			"id": "sprite_692",
 			"index": 692,
+			"inputIndex": 1,
 			"inputSpriteIndex": 116,
 			"pivot": {
 				"x": 8.0,
@@ -15401,6 +15764,7 @@
 			"data": {},
 			"id": "sprite_694",
 			"index": 694,
+			"inputIndex": 1,
 			"inputSpriteIndex": 118,
 			"pivot": {
 				"x": 8.0,
@@ -15441,6 +15805,7 @@
 			"data": {},
 			"id": "sprite_695",
 			"index": 695,
+			"inputIndex": 1,
 			"inputSpriteIndex": 119,
 			"pivot": {
 				"x": 8.0,
@@ -15481,6 +15846,7 @@
 			"data": {},
 			"id": "sprite_696",
 			"index": 696,
+			"inputIndex": 1,
 			"inputSpriteIndex": 120,
 			"pivot": {
 				"x": 8.0,
@@ -15521,6 +15887,7 @@
 			"data": {},
 			"id": "sprite_697",
 			"index": 697,
+			"inputIndex": 1,
 			"inputSpriteIndex": 121,
 			"pivot": {
 				"x": 8.0,
@@ -15576,6 +15943,7 @@
 			"data": {},
 			"id": "sprite_703",
 			"index": 703,
+			"inputIndex": 1,
 			"inputSpriteIndex": 127,
 			"pivot": {
 				"x": 8.0,
@@ -15616,6 +15984,7 @@
 			"data": {},
 			"id": "sprite_704",
 			"index": 704,
+			"inputIndex": 1,
 			"inputSpriteIndex": 128,
 			"pivot": {
 				"x": 8.0,
@@ -15659,6 +16028,7 @@
 			"data": {},
 			"id": "sprite_706",
 			"index": 706,
+			"inputIndex": 1,
 			"inputSpriteIndex": 130,
 			"pivot": {
 				"x": 8.0,
@@ -15711,6 +16081,7 @@
 			"data": {},
 			"id": "sprite_711",
 			"index": 711,
+			"inputIndex": 1,
 			"inputSpriteIndex": 135,
 			"pivot": {
 				"x": 8.0,
@@ -15751,6 +16122,7 @@
 			"data": {},
 			"id": "sprite_712",
 			"index": 712,
+			"inputIndex": 1,
 			"inputSpriteIndex": 136,
 			"pivot": {
 				"x": 8.0,
@@ -15791,6 +16163,7 @@
 			"data": {},
 			"id": "sprite_713",
 			"index": 713,
+			"inputIndex": 1,
 			"inputSpriteIndex": 137,
 			"pivot": {
 				"x": 8.0,
@@ -15849,6 +16222,7 @@
 			"data": {},
 			"id": "sprite_720",
 			"index": 720,
+			"inputIndex": 1,
 			"inputSpriteIndex": 144,
 			"pivot": {
 				"x": 8.0,
@@ -15889,6 +16263,7 @@
 			"data": {},
 			"id": "sprite_721",
 			"index": 721,
+			"inputIndex": 1,
 			"inputSpriteIndex": 145,
 			"pivot": {
 				"x": 8.0,
@@ -15947,6 +16322,7 @@
 			"data": {},
 			"id": "sprite_728",
 			"index": 728,
+			"inputIndex": 1,
 			"inputSpriteIndex": 152,
 			"pivot": {
 				"x": 8.0,
@@ -15990,6 +16366,7 @@
 			"data": {},
 			"id": "sprite_730",
 			"index": 730,
+			"inputIndex": 1,
 			"inputSpriteIndex": 154,
 			"pivot": {
 				"x": 8.0,
@@ -16042,6 +16419,7 @@
 			"data": {},
 			"id": "sprite_735",
 			"index": 735,
+			"inputIndex": 1,
 			"inputSpriteIndex": 159,
 			"pivot": {
 				"x": 8.0,
@@ -16082,6 +16460,7 @@
 			"data": {},
 			"id": "sprite_736",
 			"index": 736,
+			"inputIndex": 1,
 			"inputSpriteIndex": 160,
 			"pivot": {
 				"x": 8.0,
@@ -16122,6 +16501,7 @@
 			"data": {},
 			"id": "sprite_737",
 			"index": 737,
+			"inputIndex": 1,
 			"inputSpriteIndex": 161,
 			"pivot": {
 				"x": 8.0,
@@ -16198,6 +16578,7 @@
 			"data": {},
 			"id": "sprite_750",
 			"index": 750,
+			"inputIndex": 1,
 			"inputSpriteIndex": 174,
 			"pivot": {
 				"x": 8.0,
@@ -16289,6 +16670,7 @@
 			"data": {},
 			"id": "sprite_768",
 			"index": 768,
+			"inputIndex": 1,
 			"inputSpriteIndex": 192,
 			"pivot": {
 				"x": 8.0,
@@ -16332,6 +16714,7 @@
 			"data": {},
 			"id": "sprite_770",
 			"index": 770,
+			"inputIndex": 1,
 			"inputSpriteIndex": 194,
 			"pivot": {
 				"x": 8.0,
@@ -16372,6 +16755,7 @@
 			"data": {},
 			"id": "sprite_771",
 			"index": 771,
+			"inputIndex": 1,
 			"inputSpriteIndex": 195,
 			"pivot": {
 				"x": 8.0,
@@ -16412,6 +16796,7 @@
 			"data": {},
 			"id": "sprite_772",
 			"index": 772,
+			"inputIndex": 1,
 			"inputSpriteIndex": 196,
 			"pivot": {
 				"x": 8.0,
@@ -16452,6 +16837,7 @@
 			"data": {},
 			"id": "sprite_773",
 			"index": 773,
+			"inputIndex": 1,
 			"inputSpriteIndex": 197,
 			"pivot": {
 				"x": 8.0,
@@ -16540,6 +16926,7 @@
 			"data": {},
 			"id": "sprite_790",
 			"index": 790,
+			"inputIndex": 1,
 			"inputSpriteIndex": 214,
 			"pivot": {
 				"x": 8.0,
@@ -16580,6 +16967,7 @@
 			"data": {},
 			"id": "sprite_791",
 			"index": 791,
+			"inputIndex": 1,
 			"inputSpriteIndex": 215,
 			"pivot": {
 				"x": 8.0,
@@ -16623,6 +17011,7 @@
 			"data": {},
 			"id": "sprite_793",
 			"index": 793,
+			"inputIndex": 1,
 			"inputSpriteIndex": 217,
 			"pivot": {
 				"x": 8.0,
@@ -16669,6 +17058,7 @@
 			"data": {},
 			"id": "sprite_796",
 			"index": 796,
+			"inputIndex": 1,
 			"inputSpriteIndex": 220,
 			"pivot": {
 				"x": 8.0,
@@ -16739,6 +17129,7 @@
 			"data": {},
 			"id": "sprite_807",
 			"index": 807,
+			"inputIndex": 1,
 			"inputSpriteIndex": 231,
 			"pivot": {
 				"x": 8.0,
@@ -16779,6 +17170,7 @@
 			"data": {},
 			"id": "sprite_808",
 			"index": 808,
+			"inputIndex": 1,
 			"inputSpriteIndex": 232,
 			"pivot": {
 				"x": 8.0,
@@ -16819,6 +17211,7 @@
 			"data": {},
 			"id": "sprite_809",
 			"index": 809,
+			"inputIndex": 1,
 			"inputSpriteIndex": 233,
 			"pivot": {
 				"x": 8.0,
@@ -16859,6 +17252,7 @@
 			"data": {},
 			"id": "sprite_810",
 			"index": 810,
+			"inputIndex": 1,
 			"inputSpriteIndex": 234,
 			"pivot": {
 				"x": 8.0,
@@ -16902,6 +17296,7 @@
 			"data": {},
 			"id": "sprite_812",
 			"index": 812,
+			"inputIndex": 1,
 			"inputSpriteIndex": 236,
 			"pivot": {
 				"x": 8.0,
@@ -16945,6 +17340,7 @@
 			"data": {},
 			"id": "sprite_814",
 			"index": 814,
+			"inputIndex": 1,
 			"inputSpriteIndex": 238,
 			"pivot": {
 				"x": 8.0,
@@ -16991,6 +17387,7 @@
 			"data": {},
 			"id": "sprite_817",
 			"index": 817,
+			"inputIndex": 1,
 			"inputSpriteIndex": 241,
 			"pivot": {
 				"x": 8.0,
@@ -17031,6 +17428,7 @@
 			"data": {},
 			"id": "sprite_818",
 			"index": 818,
+			"inputIndex": 1,
 			"inputSpriteIndex": 242,
 			"pivot": {
 				"x": 8.0,
@@ -17071,6 +17469,7 @@
 			"data": {},
 			"id": "sprite_819",
 			"index": 819,
+			"inputIndex": 1,
 			"inputSpriteIndex": 243,
 			"pivot": {
 				"x": 8.0,
@@ -17111,6 +17510,7 @@
 			"data": {},
 			"id": "sprite_820",
 			"index": 820,
+			"inputIndex": 1,
 			"inputSpriteIndex": 244,
 			"pivot": {
 				"x": 8.0,
@@ -17181,6 +17581,7 @@
 			"data": {},
 			"id": "sprite_831",
 			"index": 831,
+			"inputIndex": 1,
 			"inputSpriteIndex": 255,
 			"pivot": {
 				"x": 8.0,
@@ -17221,6 +17622,7 @@
 			"data": {},
 			"id": "sprite_832",
 			"index": 832,
+			"inputIndex": 1,
 			"inputSpriteIndex": 256,
 			"pivot": {
 				"x": 8.0,
@@ -17261,6 +17663,7 @@
 			"data": {},
 			"id": "sprite_833",
 			"index": 833,
+			"inputIndex": 1,
 			"inputSpriteIndex": 257,
 			"pivot": {
 				"x": 8.0,
@@ -17304,6 +17707,7 @@
 			"data": {},
 			"id": "sprite_835",
 			"index": 835,
+			"inputIndex": 1,
 			"inputSpriteIndex": 259,
 			"pivot": {
 				"x": 8.0,
@@ -17344,6 +17748,7 @@
 			"data": {},
 			"id": "sprite_836",
 			"index": 836,
+			"inputIndex": 1,
 			"inputSpriteIndex": 260,
 			"pivot": {
 				"x": 8.0,
@@ -17387,6 +17792,7 @@
 			"data": {},
 			"id": "sprite_838",
 			"index": 838,
+			"inputIndex": 1,
 			"inputSpriteIndex": 262,
 			"pivot": {
 				"x": 8.0,
@@ -17436,6 +17842,7 @@
 			"data": {},
 			"id": "sprite_842",
 			"index": 842,
+			"inputIndex": 1,
 			"inputSpriteIndex": 266,
 			"pivot": {
 				"x": 8.0,
@@ -17476,6 +17883,7 @@
 			"data": {},
 			"id": "sprite_843",
 			"index": 843,
+			"inputIndex": 1,
 			"inputSpriteIndex": 267,
 			"pivot": {
 				"x": 8.0,
@@ -17516,6 +17924,7 @@
 			"data": {},
 			"id": "sprite_844",
 			"index": 844,
+			"inputIndex": 1,
 			"inputSpriteIndex": 268,
 			"pivot": {
 				"x": 8.0,
@@ -17586,6 +17995,7 @@
 			"data": {},
 			"id": "sprite_855",
 			"index": 855,
+			"inputIndex": 1,
 			"inputSpriteIndex": 279,
 			"pivot": {
 				"x": 8.0,
@@ -17626,6 +18036,7 @@
 			"data": {},
 			"id": "sprite_856",
 			"index": 856,
+			"inputIndex": 1,
 			"inputSpriteIndex": 280,
 			"pivot": {
 				"x": 8.0,
@@ -17666,6 +18077,7 @@
 			"data": {},
 			"id": "sprite_857",
 			"index": 857,
+			"inputIndex": 1,
 			"inputSpriteIndex": 281,
 			"pivot": {
 				"x": 8.0,
@@ -17709,6 +18121,7 @@
 			"data": {},
 			"id": "sprite_859",
 			"index": 859,
+			"inputIndex": 1,
 			"inputSpriteIndex": 283,
 			"pivot": {
 				"x": 8.0,
@@ -17749,6 +18162,7 @@
 			"data": {},
 			"id": "sprite_860",
 			"index": 860,
+			"inputIndex": 1,
 			"inputSpriteIndex": 284,
 			"pivot": {
 				"x": 8.0,
@@ -17798,6 +18212,7 @@
 			"data": {},
 			"id": "sprite_864",
 			"index": 864,
+			"inputIndex": 1,
 			"inputSpriteIndex": 288,
 			"pivot": {
 				"x": 8.0,
@@ -17838,6 +18253,7 @@
 			"data": {},
 			"id": "sprite_865",
 			"index": 865,
+			"inputIndex": 1,
 			"inputSpriteIndex": 289,
 			"pivot": {
 				"x": 8.0,
@@ -17878,6 +18294,7 @@
 			"data": {},
 			"id": "sprite_866",
 			"index": 866,
+			"inputIndex": 1,
 			"inputSpriteIndex": 290,
 			"pivot": {
 				"x": 8.0,
@@ -17918,6 +18335,7 @@
 			"data": {},
 			"id": "sprite_867",
 			"index": 867,
+			"inputIndex": 1,
 			"inputSpriteIndex": 291,
 			"pivot": {
 				"x": 8.0,
@@ -17958,6 +18376,7 @@
 			"data": {},
 			"id": "sprite_868",
 			"index": 868,
+			"inputIndex": 1,
 			"inputSpriteIndex": 292,
 			"pivot": {
 				"x": 8.0,
@@ -18037,6 +18456,7 @@
 			"data": {},
 			"id": "sprite_882",
 			"index": 882,
+			"inputIndex": 1,
 			"inputSpriteIndex": 306,
 			"pivot": {
 				"x": 8.0,
@@ -18077,6 +18497,7 @@
 			"data": {},
 			"id": "sprite_883",
 			"index": 883,
+			"inputIndex": 1,
 			"inputSpriteIndex": 307,
 			"pivot": {
 				"x": 8.0,
@@ -18117,6 +18538,7 @@
 			"data": {},
 			"id": "sprite_884",
 			"index": 884,
+			"inputIndex": 1,
 			"inputSpriteIndex": 308,
 			"pivot": {
 				"x": 8.0,
@@ -18163,6 +18585,7 @@
 			"data": {},
 			"id": "sprite_887",
 			"index": 887,
+			"inputIndex": 1,
 			"inputSpriteIndex": 311,
 			"pivot": {
 				"x": 8.0,
@@ -18206,6 +18629,7 @@
 			"data": {},
 			"id": "sprite_889",
 			"index": 889,
+			"inputIndex": 1,
 			"inputSpriteIndex": 313,
 			"pivot": {
 				"x": 8.0,
@@ -18249,6 +18673,7 @@
 			"data": {},
 			"id": "sprite_891",
 			"index": 891,
+			"inputIndex": 1,
 			"inputSpriteIndex": 315,
 			"pivot": {
 				"x": 8.0,
@@ -18289,6 +18714,7 @@
 			"data": {},
 			"id": "sprite_892",
 			"index": 892,
+			"inputIndex": 1,
 			"inputSpriteIndex": 316,
 			"pivot": {
 				"x": 8.0,
@@ -18329,6 +18755,7 @@
 			"data": {},
 			"id": "sprite_893",
 			"index": 893,
+			"inputIndex": 1,
 			"inputSpriteIndex": 317,
 			"pivot": {
 				"x": 8.0,
@@ -18384,6 +18811,7 @@
 			"data": {},
 			"id": "sprite_899",
 			"index": 899,
+			"inputIndex": 1,
 			"inputSpriteIndex": 323,
 			"pivot": {
 				"x": 8.0,
@@ -18439,6 +18867,7 @@
 			"data": {},
 			"id": "sprite_905",
 			"index": 905,
+			"inputIndex": 1,
 			"inputSpriteIndex": 329,
 			"pivot": {
 				"x": 8.0,
@@ -18479,6 +18908,7 @@
 			"data": {},
 			"id": "sprite_906",
 			"index": 906,
+			"inputIndex": 1,
 			"inputSpriteIndex": 330,
 			"pivot": {
 				"x": 8.0,
@@ -18519,6 +18949,7 @@
 			"data": {},
 			"id": "sprite_907",
 			"index": 907,
+			"inputIndex": 1,
 			"inputSpriteIndex": 331,
 			"pivot": {
 				"x": 8.0,
@@ -18559,6 +18990,7 @@
 			"data": {},
 			"id": "sprite_908",
 			"index": 908,
+			"inputIndex": 1,
 			"inputSpriteIndex": 332,
 			"pivot": {
 				"x": 8.0,
@@ -18599,6 +19031,7 @@
 			"data": {},
 			"id": "sprite_909",
 			"index": 909,
+			"inputIndex": 1,
 			"inputSpriteIndex": 333,
 			"pivot": {
 				"x": 8.0,
@@ -18639,6 +19072,7 @@
 			"data": {},
 			"id": "sprite_910",
 			"index": 910,
+			"inputIndex": 1,
 			"inputSpriteIndex": 334,
 			"pivot": {
 				"x": 8.0,
@@ -18679,6 +19113,7 @@
 			"data": {},
 			"id": "sprite_911",
 			"index": 911,
+			"inputIndex": 1,
 			"inputSpriteIndex": 335,
 			"pivot": {
 				"x": 8.0,
@@ -18722,6 +19157,7 @@
 			"data": {},
 			"id": "sprite_913",
 			"index": 913,
+			"inputIndex": 1,
 			"inputSpriteIndex": 337,
 			"pivot": {
 				"x": 8.0,
@@ -18771,6 +19207,7 @@
 			"data": {},
 			"id": "sprite_917",
 			"index": 917,
+			"inputIndex": 1,
 			"inputSpriteIndex": 341,
 			"pivot": {
 				"x": 8.0,
@@ -18838,6 +19275,7 @@
 			"data": {},
 			"id": "sprite_927",
 			"index": 927,
+			"inputIndex": 1,
 			"inputSpriteIndex": 351,
 			"pivot": {
 				"x": 8.0,
@@ -18878,6 +19316,7 @@
 			"data": {},
 			"id": "sprite_928",
 			"index": 928,
+			"inputIndex": 1,
 			"inputSpriteIndex": 352,
 			"pivot": {
 				"x": 8.0,
@@ -18918,6 +19357,7 @@
 			"data": {},
 			"id": "sprite_929",
 			"index": 929,
+			"inputIndex": 1,
 			"inputSpriteIndex": 353,
 			"pivot": {
 				"x": 8.0,
@@ -18958,6 +19398,7 @@
 			"data": {},
 			"id": "sprite_930",
 			"index": 930,
+			"inputIndex": 1,
 			"inputSpriteIndex": 354,
 			"pivot": {
 				"x": 8.0,
@@ -18998,6 +19439,7 @@
 			"data": {},
 			"id": "sprite_931",
 			"index": 931,
+			"inputIndex": 1,
 			"inputSpriteIndex": 355,
 			"pivot": {
 				"x": 8.0,
@@ -19038,6 +19480,7 @@
 			"data": {},
 			"id": "sprite_932",
 			"index": 932,
+			"inputIndex": 1,
 			"inputSpriteIndex": 356,
 			"pivot": {
 				"x": 8.0,
@@ -19078,6 +19521,7 @@
 			"data": {},
 			"id": "sprite_933",
 			"index": 933,
+			"inputIndex": 1,
 			"inputSpriteIndex": 357,
 			"pivot": {
 				"x": 8.0,
@@ -19127,6 +19571,7 @@
 			"data": {},
 			"id": "sprite_937",
 			"index": 937,
+			"inputIndex": 1,
 			"inputSpriteIndex": 361,
 			"pivot": {
 				"x": 8.0,
@@ -19170,6 +19615,7 @@
 			"data": {},
 			"id": "sprite_939",
 			"index": 939,
+			"inputIndex": 1,
 			"inputSpriteIndex": 363,
 			"pivot": {
 				"x": 8.0,
@@ -19240,6 +19686,7 @@
 			"data": {},
 			"id": "sprite_950",
 			"index": 950,
+			"inputIndex": 1,
 			"inputSpriteIndex": 374,
 			"pivot": {
 				"x": 8.0,
@@ -19280,6 +19727,7 @@
 			"data": {},
 			"id": "sprite_951",
 			"index": 951,
+			"inputIndex": 1,
 			"inputSpriteIndex": 375,
 			"pivot": {
 				"x": 8.0,
@@ -19320,6 +19768,7 @@
 			"data": {},
 			"id": "sprite_952",
 			"index": 952,
+			"inputIndex": 1,
 			"inputSpriteIndex": 376,
 			"pivot": {
 				"x": 8.0,
@@ -19360,6 +19809,7 @@
 			"data": {},
 			"id": "sprite_953",
 			"index": 953,
+			"inputIndex": 1,
 			"inputSpriteIndex": 377,
 			"pivot": {
 				"x": 8.0,
@@ -19400,6 +19850,7 @@
 			"data": {},
 			"id": "sprite_954",
 			"index": 954,
+			"inputIndex": 1,
 			"inputSpriteIndex": 378,
 			"pivot": {
 				"x": 8.0,
@@ -19440,6 +19891,7 @@
 			"data": {},
 			"id": "sprite_955",
 			"index": 955,
+			"inputIndex": 1,
 			"inputSpriteIndex": 379,
 			"pivot": {
 				"x": 8.0,
@@ -19480,6 +19932,7 @@
 			"data": {},
 			"id": "sprite_956",
 			"index": 956,
+			"inputIndex": 1,
 			"inputSpriteIndex": 380,
 			"pivot": {
 				"x": 8.0,
@@ -19520,6 +19973,7 @@
 			"data": {},
 			"id": "sprite_957",
 			"index": 957,
+			"inputIndex": 1,
 			"inputSpriteIndex": 381,
 			"pivot": {
 				"x": 8.0,
@@ -19566,6 +20020,7 @@
 			"data": {},
 			"id": "sprite_960",
 			"index": 960,
+			"inputIndex": 1,
 			"inputSpriteIndex": 384,
 			"pivot": {
 				"x": 8.0,
@@ -19606,6 +20061,7 @@
 			"data": {},
 			"id": "sprite_961",
 			"index": 961,
+			"inputIndex": 1,
 			"inputSpriteIndex": 385,
 			"pivot": {
 				"x": 8.0,
@@ -19649,6 +20105,7 @@
 			"data": {},
 			"id": "sprite_963",
 			"index": 963,
+			"inputIndex": 1,
 			"inputSpriteIndex": 387,
 			"pivot": {
 				"x": 8.0,
@@ -19689,6 +20146,7 @@
 			"data": {},
 			"id": "sprite_964",
 			"index": 964,
+			"inputIndex": 1,
 			"inputSpriteIndex": 388,
 			"pivot": {
 				"x": 8.0,
@@ -19756,6 +20214,7 @@
 			"data": {},
 			"id": "sprite_974",
 			"index": 974,
+			"inputIndex": 1,
 			"inputSpriteIndex": 398,
 			"pivot": {
 				"x": 8.0,
@@ -19796,6 +20255,7 @@
 			"data": {},
 			"id": "sprite_975",
 			"index": 975,
+			"inputIndex": 1,
 			"inputSpriteIndex": 399,
 			"pivot": {
 				"x": 8.0,
@@ -19836,6 +20296,7 @@
 			"data": {},
 			"id": "sprite_976",
 			"index": 976,
+			"inputIndex": 1,
 			"inputSpriteIndex": 400,
 			"pivot": {
 				"x": 8.0,
@@ -19879,6 +20340,7 @@
 			"data": {},
 			"id": "sprite_978",
 			"index": 978,
+			"inputIndex": 1,
 			"inputSpriteIndex": 402,
 			"pivot": {
 				"x": 8.0,
@@ -19925,6 +20387,7 @@
 			"data": {},
 			"id": "sprite_981",
 			"index": 981,
+			"inputIndex": 1,
 			"inputSpriteIndex": 405,
 			"pivot": {
 				"x": 8.0,
@@ -19977,6 +20440,7 @@
 			"data": {},
 			"id": "sprite_986",
 			"index": 986,
+			"inputIndex": 1,
 			"inputSpriteIndex": 410,
 			"pivot": {
 				"x": 8.0,
@@ -20017,6 +20481,7 @@
 			"data": {},
 			"id": "sprite_987",
 			"index": 987,
+			"inputIndex": 1,
 			"inputSpriteIndex": 411,
 			"pivot": {
 				"x": 8.0,
@@ -20057,6 +20522,7 @@
 			"data": {},
 			"id": "sprite_988",
 			"index": 988,
+			"inputIndex": 1,
 			"inputSpriteIndex": 412,
 			"pivot": {
 				"x": 8.0,
@@ -20124,6 +20590,7 @@
 			"data": {},
 			"id": "sprite_998",
 			"index": 998,
+			"inputIndex": 1,
 			"inputSpriteIndex": 422,
 			"pivot": {
 				"x": 8.0,
@@ -20164,6 +20631,7 @@
 			"data": {},
 			"id": "sprite_999",
 			"index": 999,
+			"inputIndex": 1,
 			"inputSpriteIndex": 423,
 			"pivot": {
 				"x": 8.0,
@@ -20204,6 +20672,7 @@
 			"data": {},
 			"id": "sprite_1000",
 			"index": 1000,
+			"inputIndex": 1,
 			"inputSpriteIndex": 424,
 			"pivot": {
 				"x": 8.0,
@@ -20247,6 +20716,7 @@
 			"data": {},
 			"id": "sprite_1002",
 			"index": 1002,
+			"inputIndex": 1,
 			"inputSpriteIndex": 426,
 			"pivot": {
 				"x": 8.0,
@@ -20293,6 +20763,7 @@
 			"data": {},
 			"id": "sprite_1005",
 			"index": 1005,
+			"inputIndex": 1,
 			"inputSpriteIndex": 429,
 			"pivot": {
 				"x": 8.0,
@@ -20336,6 +20807,7 @@
 			"data": {},
 			"id": "sprite_1007",
 			"index": 1007,
+			"inputIndex": 1,
 			"inputSpriteIndex": 431,
 			"pivot": {
 				"x": 8.0,
@@ -20379,6 +20851,7 @@
 			"data": {},
 			"id": "sprite_1009",
 			"index": 1009,
+			"inputIndex": 1,
 			"inputSpriteIndex": 433,
 			"pivot": {
 				"x": 8.0,
@@ -20419,6 +20892,7 @@
 			"data": {},
 			"id": "sprite_1010",
 			"index": 1010,
+			"inputIndex": 1,
 			"inputSpriteIndex": 434,
 			"pivot": {
 				"x": 8.0,
@@ -20459,6 +20933,7 @@
 			"data": {},
 			"id": "sprite_1011",
 			"index": 1011,
+			"inputIndex": 1,
 			"inputSpriteIndex": 435,
 			"pivot": {
 				"x": 8.0,
@@ -20499,6 +20974,7 @@
 			"data": {},
 			"id": "sprite_1012",
 			"index": 1012,
+			"inputIndex": 1,
 			"inputSpriteIndex": 436,
 			"pivot": {
 				"x": 8.0,
@@ -20551,6 +21027,7 @@
 			"data": {},
 			"id": "sprite_1017",
 			"index": 1017,
+			"inputIndex": 1,
 			"inputSpriteIndex": 441,
 			"pivot": {
 				"x": 8.0,
@@ -20594,6 +21071,7 @@
 			"data": {},
 			"id": "sprite_1019",
 			"index": 1019,
+			"inputIndex": 1,
 			"inputSpriteIndex": 443,
 			"pivot": {
 				"x": 8.0,
@@ -20634,6 +21112,7 @@
 			"data": {},
 			"id": "sprite_1020",
 			"index": 1020,
+			"inputIndex": 1,
 			"inputSpriteIndex": 444,
 			"pivot": {
 				"x": 8.0,
@@ -20686,6 +21165,7 @@
 			"data": {},
 			"id": "sprite_1025",
 			"index": 1025,
+			"inputIndex": 1,
 			"inputSpriteIndex": 449,
 			"pivot": {
 				"x": 8.0,
@@ -20726,6 +21206,7 @@
 			"data": {},
 			"id": "sprite_1026",
 			"index": 1026,
+			"inputIndex": 1,
 			"inputSpriteIndex": 450,
 			"pivot": {
 				"x": 8.0,
@@ -20769,6 +21250,7 @@
 			"data": {},
 			"id": "sprite_1028",
 			"index": 1028,
+			"inputIndex": 1,
 			"inputSpriteIndex": 452,
 			"pivot": {
 				"x": 8.0,
@@ -20809,6 +21291,7 @@
 			"data": {},
 			"id": "sprite_1029",
 			"index": 1029,
+			"inputIndex": 1,
 			"inputSpriteIndex": 453,
 			"pivot": {
 				"x": 8.0,
@@ -20852,6 +21335,7 @@
 			"data": {},
 			"id": "sprite_1031",
 			"index": 1031,
+			"inputIndex": 1,
 			"inputSpriteIndex": 455,
 			"pivot": {
 				"x": 8.0,
@@ -20898,6 +21382,7 @@
 			"data": {},
 			"id": "sprite_1034",
 			"index": 1034,
+			"inputIndex": 1,
 			"inputSpriteIndex": 458,
 			"pivot": {
 				"x": 8.0,
@@ -20938,6 +21423,7 @@
 			"data": {},
 			"id": "sprite_1035",
 			"index": 1035,
+			"inputIndex": 1,
 			"inputSpriteIndex": 459,
 			"pivot": {
 				"x": 8.0,
@@ -20978,6 +21464,7 @@
 			"data": {},
 			"id": "sprite_1036",
 			"index": 1036,
+			"inputIndex": 1,
 			"inputSpriteIndex": 460,
 			"pivot": {
 				"x": 8.0,
@@ -21033,6 +21520,7 @@
 			"data": {},
 			"id": "sprite_1042",
 			"index": 1042,
+			"inputIndex": 1,
 			"inputSpriteIndex": 466,
 			"pivot": {
 				"x": 8.0,
@@ -21073,6 +21561,7 @@
 			"data": {},
 			"id": "sprite_1043",
 			"index": 1043,
+			"inputIndex": 1,
 			"inputSpriteIndex": 467,
 			"pivot": {
 				"x": 8.0,
@@ -21116,6 +21605,7 @@
 			"data": {},
 			"id": "sprite_1045",
 			"index": 1045,
+			"inputIndex": 1,
 			"inputSpriteIndex": 469,
 			"pivot": {
 				"x": 8.0,
@@ -21156,6 +21646,7 @@
 			"data": {},
 			"id": "sprite_1046",
 			"index": 1046,
+			"inputIndex": 1,
 			"inputSpriteIndex": 470,
 			"pivot": {
 				"x": 8.0,
@@ -21196,6 +21687,7 @@
 			"data": {},
 			"id": "sprite_1047",
 			"index": 1047,
+			"inputIndex": 1,
 			"inputSpriteIndex": 471,
 			"pivot": {
 				"x": 8.0,
@@ -21239,6 +21731,7 @@
 			"data": {},
 			"id": "sprite_1049",
 			"index": 1049,
+			"inputIndex": 1,
 			"inputSpriteIndex": 473,
 			"pivot": {
 				"x": 8.0,
@@ -21279,6 +21772,7 @@
 			"data": {},
 			"id": "sprite_1050",
 			"index": 1050,
+			"inputIndex": 1,
 			"inputSpriteIndex": 474,
 			"pivot": {
 				"x": 8.0,
@@ -21325,6 +21819,7 @@
 			"data": {},
 			"id": "sprite_1053",
 			"index": 1053,
+			"inputIndex": 1,
 			"inputSpriteIndex": 477,
 			"pivot": {
 				"x": 8.0,
@@ -21368,6 +21863,7 @@
 			"data": {},
 			"id": "sprite_1055",
 			"index": 1055,
+			"inputIndex": 1,
 			"inputSpriteIndex": 479,
 			"pivot": {
 				"x": 8.0,
@@ -21414,6 +21910,7 @@
 			"data": {},
 			"id": "sprite_1058",
 			"index": 1058,
+			"inputIndex": 1,
 			"inputSpriteIndex": 482,
 			"pivot": {
 				"x": 8.0,
@@ -21454,6 +21951,7 @@
 			"data": {},
 			"id": "sprite_1059",
 			"index": 1059,
+			"inputIndex": 1,
 			"inputSpriteIndex": 483,
 			"pivot": {
 				"x": 8.0,
@@ -21494,6 +21992,7 @@
 			"data": {},
 			"id": "sprite_1060",
 			"index": 1060,
+			"inputIndex": 1,
 			"inputSpriteIndex": 484,
 			"pivot": {
 				"x": 8.0,
@@ -21534,6 +22033,7 @@
 			"data": {},
 			"id": "sprite_1061",
 			"index": 1061,
+			"inputIndex": 1,
 			"inputSpriteIndex": 485,
 			"pivot": {
 				"x": 8.0,
@@ -21589,6 +22089,7 @@
 			"data": {},
 			"id": "sprite_1067",
 			"index": 1067,
+			"inputIndex": 1,
 			"inputSpriteIndex": 491,
 			"pivot": {
 				"x": 8.0,
@@ -21632,6 +22133,7 @@
 			"data": {},
 			"id": "sprite_1069",
 			"index": 1069,
+			"inputIndex": 1,
 			"inputSpriteIndex": 493,
 			"pivot": {
 				"x": 8.0,
@@ -21672,6 +22174,7 @@
 			"data": {},
 			"id": "sprite_1070",
 			"index": 1070,
+			"inputIndex": 1,
 			"inputSpriteIndex": 494,
 			"pivot": {
 				"x": 8.0,
@@ -21712,6 +22215,7 @@
 			"data": {},
 			"id": "sprite_1071",
 			"index": 1071,
+			"inputIndex": 1,
 			"inputSpriteIndex": 495,
 			"pivot": {
 				"x": 8.0,
@@ -21761,6 +22265,7 @@
 			"data": {},
 			"id": "sprite_1075",
 			"index": 1075,
+			"inputIndex": 1,
 			"inputSpriteIndex": 499,
 			"pivot": {
 				"x": 8.0,
@@ -21801,6 +22306,7 @@
 			"data": {},
 			"id": "sprite_1076",
 			"index": 1076,
+			"inputIndex": 1,
 			"inputSpriteIndex": 500,
 			"pivot": {
 				"x": 8.0,
@@ -21841,6 +22347,7 @@
 			"data": {},
 			"id": "sprite_1077",
 			"index": 1077,
+			"inputIndex": 1,
 			"inputSpriteIndex": 501,
 			"pivot": {
 				"x": 8.0,
@@ -21881,6 +22388,7 @@
 			"data": {},
 			"id": "sprite_1078",
 			"index": 1078,
+			"inputIndex": 1,
 			"inputSpriteIndex": 502,
 			"pivot": {
 				"x": 8.0,
@@ -21927,6 +22435,7 @@
 			"data": {},
 			"id": "sprite_1081",
 			"index": 1081,
+			"inputIndex": 1,
 			"inputSpriteIndex": 505,
 			"pivot": {
 				"x": 8.0,
@@ -21967,6 +22476,7 @@
 			"data": {},
 			"id": "sprite_1082",
 			"index": 1082,
+			"inputIndex": 1,
 			"inputSpriteIndex": 506,
 			"pivot": {
 				"x": 8.0,
@@ -22007,6 +22517,7 @@
 			"data": {},
 			"id": "sprite_1083",
 			"index": 1083,
+			"inputIndex": 1,
 			"inputSpriteIndex": 507,
 			"pivot": {
 				"x": 8.0,
@@ -22047,6 +22558,7 @@
 			"data": {},
 			"id": "sprite_1084",
 			"index": 1084,
+			"inputIndex": 1,
 			"inputSpriteIndex": 508,
 			"pivot": {
 				"x": 8.0,
@@ -22099,6 +22611,7 @@
 			"data": {},
 			"id": "sprite_1089",
 			"index": 1089,
+			"inputIndex": 1,
 			"inputSpriteIndex": 513,
 			"pivot": {
 				"x": 8.0,
@@ -22139,6 +22652,7 @@
 			"data": {},
 			"id": "sprite_1090",
 			"index": 1090,
+			"inputIndex": 1,
 			"inputSpriteIndex": 514,
 			"pivot": {
 				"x": 8.0,
@@ -22179,6 +22693,7 @@
 			"data": {},
 			"id": "sprite_1091",
 			"index": 1091,
+			"inputIndex": 1,
 			"inputSpriteIndex": 515,
 			"pivot": {
 				"x": 8.0,
@@ -22240,6 +22755,7 @@
 			"data": {},
 			"id": "sprite_1099",
 			"index": 1099,
+			"inputIndex": 1,
 			"inputSpriteIndex": 523,
 			"pivot": {
 				"x": 8.0,
@@ -22280,6 +22796,7 @@
 			"data": {},
 			"id": "sprite_1100",
 			"index": 1100,
+			"inputIndex": 1,
 			"inputSpriteIndex": 524,
 			"pivot": {
 				"x": 8.0,
@@ -22320,6 +22837,7 @@
 			"data": {},
 			"id": "sprite_1101",
 			"index": 1101,
+			"inputIndex": 1,
 			"inputSpriteIndex": 525,
 			"pivot": {
 				"x": 8.0,
@@ -22360,6 +22878,7 @@
 			"data": {},
 			"id": "sprite_1102",
 			"index": 1102,
+			"inputIndex": 1,
 			"inputSpriteIndex": 526,
 			"pivot": {
 				"x": 8.0,
@@ -22400,6 +22919,7 @@
 			"data": {},
 			"id": "sprite_1103",
 			"index": 1103,
+			"inputIndex": 1,
 			"inputSpriteIndex": 527,
 			"pivot": {
 				"x": 8.0,
@@ -22440,6 +22960,7 @@
 			"data": {},
 			"id": "sprite_1104",
 			"index": 1104,
+			"inputIndex": 1,
 			"inputSpriteIndex": 528,
 			"pivot": {
 				"x": 8.0,
@@ -22483,6 +23004,7 @@
 			"data": {},
 			"id": "sprite_1106",
 			"index": 1106,
+			"inputIndex": 1,
 			"inputSpriteIndex": 530,
 			"pivot": {
 				"x": 8.0,
@@ -22523,6 +23045,7 @@
 			"data": {},
 			"id": "sprite_1107",
 			"index": 1107,
+			"inputIndex": 1,
 			"inputSpriteIndex": 531,
 			"pivot": {
 				"x": 8.0,
@@ -22563,6 +23086,7 @@
 			"data": {},
 			"id": "sprite_1108",
 			"index": 1108,
+			"inputIndex": 1,
 			"inputSpriteIndex": 532,
 			"pivot": {
 				"x": 8.0,
@@ -22621,6 +23145,7 @@
 			"data": {},
 			"id": "sprite_1115",
 			"index": 1115,
+			"inputIndex": 1,
 			"inputSpriteIndex": 539,
 			"pivot": {
 				"x": 8.0,
@@ -22661,6 +23186,7 @@
 			"data": {},
 			"id": "sprite_1116",
 			"index": 1116,
+			"inputIndex": 1,
 			"inputSpriteIndex": 540,
 			"pivot": {
 				"x": 8.0,
@@ -22701,6 +23227,7 @@
 			"data": {},
 			"id": "sprite_1117",
 			"index": 1117,
+			"inputIndex": 1,
 			"inputSpriteIndex": 541,
 			"pivot": {
 				"x": 8.0,
@@ -22741,6 +23268,7 @@
 			"data": {},
 			"id": "sprite_1118",
 			"index": 1118,
+			"inputIndex": 1,
 			"inputSpriteIndex": 542,
 			"pivot": {
 				"x": 8.0,
@@ -22784,6 +23312,7 @@
 			"data": {},
 			"id": "sprite_1120",
 			"index": 1120,
+			"inputIndex": 1,
 			"inputSpriteIndex": 544,
 			"pivot": {
 				"x": 8.0,
@@ -22830,6 +23359,7 @@
 			"data": {},
 			"id": "sprite_1123",
 			"index": 1123,
+			"inputIndex": 1,
 			"inputSpriteIndex": 547,
 			"pivot": {
 				"x": 8.0,
@@ -22870,6 +23400,7 @@
 			"data": {},
 			"id": "sprite_1124",
 			"index": 1124,
+			"inputIndex": 1,
 			"inputSpriteIndex": 548,
 			"pivot": {
 				"x": 8.0,
@@ -22910,6 +23441,7 @@
 			"data": {},
 			"id": "sprite_1125",
 			"index": 1125,
+			"inputIndex": 1,
 			"inputSpriteIndex": 549,
 			"pivot": {
 				"x": 8.0,
@@ -22950,6 +23482,7 @@
 			"data": {},
 			"id": "sprite_1126",
 			"index": 1126,
+			"inputIndex": 1,
 			"inputSpriteIndex": 550,
 			"pivot": {
 				"x": 8.0,
@@ -22993,6 +23526,7 @@
 			"data": {},
 			"id": "sprite_1128",
 			"index": 1128,
+			"inputIndex": 1,
 			"inputSpriteIndex": 552,
 			"pivot": {
 				"x": 8.0,
@@ -23033,6 +23567,7 @@
 			"data": {},
 			"id": "sprite_1129",
 			"index": 1129,
+			"inputIndex": 1,
 			"inputSpriteIndex": 553,
 			"pivot": {
 				"x": 8.0,
@@ -23073,6 +23608,7 @@
 			"data": {},
 			"id": "sprite_1130",
 			"index": 1130,
+			"inputIndex": 1,
 			"inputSpriteIndex": 554,
 			"pivot": {
 				"x": 8.0,
@@ -23113,6 +23649,7 @@
 			"data": {},
 			"id": "sprite_1131",
 			"index": 1131,
+			"inputIndex": 1,
 			"inputSpriteIndex": 555,
 			"pivot": {
 				"x": 8.0,
@@ -23153,6 +23690,7 @@
 			"data": {},
 			"id": "sprite_1132",
 			"index": 1132,
+			"inputIndex": 1,
 			"inputSpriteIndex": 556,
 			"pivot": {
 				"x": 8.0,
@@ -23205,6 +23743,7 @@
 			"data": {},
 			"id": "sprite_1137",
 			"index": 1137,
+			"inputIndex": 1,
 			"inputSpriteIndex": 561,
 			"pivot": {
 				"x": 8.0,
@@ -23248,6 +23787,7 @@
 			"data": {},
 			"id": "sprite_1139",
 			"index": 1139,
+			"inputIndex": 1,
 			"inputSpriteIndex": 563,
 			"pivot": {
 				"x": 8.0,
@@ -23288,6 +23828,7 @@
 			"data": {},
 			"id": "sprite_1140",
 			"index": 1140,
+			"inputIndex": 1,
 			"inputSpriteIndex": 564,
 			"pivot": {
 				"x": 8.0,
@@ -23328,6 +23869,7 @@
 			"data": {},
 			"id": "sprite_1141",
 			"index": 1141,
+			"inputIndex": 1,
 			"inputSpriteIndex": 565,
 			"pivot": {
 				"x": 8.0,
@@ -23368,6 +23910,7 @@
 			"data": {},
 			"id": "sprite_1142",
 			"index": 1142,
+			"inputIndex": 1,
 			"inputSpriteIndex": 566,
 			"pivot": {
 				"x": 8.0,
@@ -23432,6 +23975,7 @@
 			"data": {},
 			"id": "sprite_1151",
 			"index": 1151,
+			"inputIndex": 1,
 			"inputSpriteIndex": 575,
 			"pivot": {
 				"x": 8.0,
@@ -23474,7 +24018,6 @@
 		{
 			"filename": "spright-rows-0.png",
 			"height": 272,
-			"index": 0,
 			"map": "",
 			"scale": 1.0,
 			"sliceIndex": 0,
@@ -23484,7 +24027,6 @@
 		{
 			"filename": "spright-keep-0.png",
 			"height": 384,
-			"index": 1,
 			"map": "",
 			"scale": 1.0,
 			"sliceIndex": 1,

@@ -4,7 +4,7 @@ set -e -u
 logfile=$(realpath "log.txt")
 echo > "${logfile}"
 
-spright -v | grep '(c)' | tee -a "${logfile}"
+spright -v -h | grep '(c)' | tee -a "${logfile}"
 
 cores=$(cat /proc/cpuinfo | grep process | wc -l)
 cat /proc/cpuinfo | grep "model name" | uniq  2>&1 | tee -a "${logfile}"
@@ -15,7 +15,7 @@ for dir in *; do
     cd "${dir}"
     name=$(basename "${dir}")
     echo "----- ${name} -----" 2>&1 | tee -a "${logfile}"
-    spright -r -v              2>&1 | tee -a "${logfile}"
+    spright --mode rebuild -v  2>&1 | tee -a "${logfile}"
     cd ..
   fi
 done

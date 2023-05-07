@@ -2,13 +2,16 @@
 	"inputs": [
 		{
 			"filename": "decals-diffuse.png",
-			"sourceIndices": [0]
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+				}
+			]
 		}
 	],
 	"slices": [
 		{
-			"index": 0,
-			"inputFilename": "spright.conf",
 			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
 		}
 	],
@@ -16,9 +19,7 @@
 		{
 			"filename": "decals-diffuse.png",
 			"height": 256,
-			"index": 0,
 			"path": "",
-			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
 			"width": 256
 		}
 	],
@@ -27,6 +28,7 @@
 			"data": {},
 			"id": "sprite_0",
 			"index": 0,
+			"inputIndex": 0,
 			"inputSpriteIndex": 0,
 			"pivot": {
 				"x": 19.0,
@@ -67,6 +69,7 @@
 			"data": {},
 			"id": "sprite_1",
 			"index": 1,
+			"inputIndex": 0,
 			"inputSpriteIndex": 1,
 			"pivot": {
 				"x": 31.0,
@@ -107,6 +110,7 @@
 			"data": {},
 			"id": "sprite_2",
 			"index": 2,
+			"inputIndex": 0,
 			"inputSpriteIndex": 2,
 			"pivot": {
 				"x": 13.0,
@@ -147,6 +151,7 @@
 			"data": {},
 			"id": "sprite_3",
 			"index": 3,
+			"inputIndex": 0,
 			"inputSpriteIndex": 3,
 			"pivot": {
 				"x": 46.0,
@@ -187,6 +192,7 @@
 			"data": {},
 			"id": "sprite_4",
 			"index": 4,
+			"inputIndex": 0,
 			"inputSpriteIndex": 4,
 			"pivot": {
 				"x": 29.0,
@@ -227,6 +233,7 @@
 			"data": {},
 			"id": "sprite_5",
 			"index": 5,
+			"inputIndex": 0,
 			"inputSpriteIndex": 5,
 			"pivot": {
 				"x": 30.0,
@@ -267,6 +274,7 @@
 			"data": {},
 			"id": "sprite_6",
 			"index": 6,
+			"inputIndex": 0,
 			"inputSpriteIndex": 6,
 			"pivot": {
 				"x": 28.0,
@@ -307,6 +315,7 @@
 			"data": {},
 			"id": "sprite_7",
 			"index": 7,
+			"inputIndex": 0,
 			"inputSpriteIndex": 7,
 			"pivot": {
 				"x": 30.5,
@@ -347,6 +356,7 @@
 			"data": {},
 			"id": "sprite_8",
 			"index": 8,
+			"inputIndex": 0,
 			"inputSpriteIndex": 8,
 			"pivot": {
 				"x": 30.0,
@@ -387,6 +397,7 @@
 			"data": {},
 			"id": "sprite_9",
 			"index": 9,
+			"inputIndex": 0,
 			"inputSpriteIndex": 9,
 			"pivot": {
 				"x": 31.0,
@@ -427,6 +438,7 @@
 			"data": {},
 			"id": "sprite_10",
 			"index": 10,
+			"inputIndex": 0,
 			"inputSpriteIndex": 10,
 			"pivot": {
 				"x": 32.0,
@@ -467,6 +479,7 @@
 			"data": {},
 			"id": "sprite_11",
 			"index": 11,
+			"inputIndex": 0,
 			"inputSpriteIndex": 11,
 			"pivot": {
 				"x": 30.0,
@@ -507,6 +520,7 @@
 			"data": {},
 			"id": "sprite_12",
 			"index": 12,
+			"inputIndex": 0,
 			"inputSpriteIndex": 12,
 			"pivot": {
 				"x": 31.0,
@@ -547,6 +561,7 @@
 			"data": {},
 			"id": "sprite_13",
 			"index": 13,
+			"inputIndex": 0,
 			"inputSpriteIndex": 13,
 			"pivot": {
 				"x": 27.0,
@@ -587,6 +602,7 @@
 			"data": {},
 			"id": "sprite_14",
 			"index": 14,
+			"inputIndex": 0,
 			"inputSpriteIndex": 14,
 			"pivot": {
 				"x": 30.0,
@@ -627,6 +643,7 @@
 			"data": {},
 			"id": "sprite_15",
 			"index": 15,
+			"inputIndex": 0,
 			"inputSpriteIndex": 15,
 			"pivot": {
 				"x": 28.0,
@@ -669,7 +686,6 @@
 		{
 			"filename": "spright-0.png",
 			"height": 258,
-			"index": 0,
 			"map": "",
 			"scale": 1.0,
 			"sliceIndex": 0,
@@ -679,7 +695,6 @@
 		{
 			"filename": "spright-0-specular.png",
 			"height": 258,
-			"index": 1,
 			"map": "-specular",
 			"scale": 1.0,
 			"sliceIndex": 0,
@@ -689,7 +704,6 @@
 		{
 			"filename": "spright-0-normals.png",
 			"height": 258,
-			"index": 2,
 			"map": "-normals",
 			"scale": 1.0,
 			"sliceIndex": 0,
