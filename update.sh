@@ -1,5 +1,6 @@
 #!/bin/bash
-set -e -u
+
+color()(set -o pipefail;"$@" 2> >(sed $'s,.*,\e[31m&\e[m,'>&2))
 
 logfile=$(realpath "log.txt")
 echo > "${logfile}"
@@ -15,7 +16,7 @@ for dir in *; do
     cd "${dir}"
     name=$(basename "${dir}")
     echo "----- ${name} -----" 2>&1 | tee -a "${logfile}"
-    spright --mode rebuild -v  2>&1 | tee -a "${logfile}"
+    color spright --mode rebuild -v  2>&1 | tee -a "${logfile}"
     cd ..
   fi
 done
