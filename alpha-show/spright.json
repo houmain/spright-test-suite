@@ -1,0 +1,217 @@
+{
+	"inputs": [
+		{
+			"filename": "spright-clear-black.png",
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [0]
+				}
+			]
+		},
+		{
+			"filename": "spright-clear-white.png",
+			"sources": [
+				{
+					"index": 1,
+					"spriteIndices": [1]
+				}
+			]
+		},
+		{
+			"filename": "spright-bleed.png",
+			"sources": [
+				{
+					"index": 2,
+					"spriteIndices": [2]
+				}
+			]
+		}
+	],
+	"slices": [
+		{
+			"spriteIndices": [0]
+		},
+		{
+			"spriteIndices": [1]
+		},
+		{
+			"spriteIndices": [2]
+		}
+	],
+	"sources": [
+		{
+			"filename": "spright-clear-black.png",
+			"height": 136,
+			"path": "../alpha",
+			"width": 126
+		},
+		{
+			"filename": "spright-clear-white.png",
+			"height": 136,
+			"path": "../alpha",
+			"width": 126
+		},
+		{
+			"filename": "spright-bleed.png",
+			"height": 136,
+			"path": "../alpha",
+			"width": 126
+		}
+	],
+	"sprites": [
+		{
+			"data": {},
+			"id": "sprite_0",
+			"index": 0,
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"pivot": {
+				"x": 63.0,
+				"y": 68.0
+			},
+			"rect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"tags": {},
+			"trimmedRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"trimmedSourceRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_1",
+			"index": 1,
+			"inputIndex": 1,
+			"inputSpriteIndex": 0,
+			"pivot": {
+				"x": 63.0,
+				"y": 68.0
+			},
+			"rect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": false,
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
+			"sourceIndex": 1,
+			"sourceRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"tags": {},
+			"trimmedRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"trimmedSourceRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0]
+		},
+		{
+			"data": {},
+			"id": "sprite_2",
+			"index": 2,
+			"inputIndex": 2,
+			"inputSpriteIndex": 0,
+			"pivot": {
+				"x": 63.0,
+				"y": 68.0
+			},
+			"rect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": false,
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 0,
+			"sourceIndex": 2,
+			"sourceRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"tags": {},
+			"trimmedRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"trimmedSourceRect": {
+				"h": 136,
+				"w": 126,
+				"x": 0,
+				"y": 0
+			},
+			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0]
+		}
+	],
+	"tags": {},
+	"textures": [
+		{
+			"filename": "spright-clear-black.png",
+			"height": 136,
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 0,
+			"spriteIndices": [0],
+			"width": 126
+		},
+		{
+			"filename": "spright-clear-white.png",
+			"height": 136,
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 1,
+			"spriteIndices": [1],
+			"width": 126
+		},
+		{
+			"filename": "spright-bleed.png",
+			"height": 136,
+			"map": "",
+			"scale": 1.0,
+			"sliceIndex": 2,
+			"spriteIndices": [2],
+			"width": 126
+		}
+	]
+}

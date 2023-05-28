@@ -1,13 +1,12 @@
-spright test suite
-==================
+# spright test suite
 
 This is the test suite from the [spright](https://github.com/houmain/spright) project.
 
-The output is updated by executing the  bash script [update.sh](update.sh).
+The output is updated by executing the bash script [update.sh](update.sh).
 
 All image files are derived from files released as [CC0](https://creativecommons.org/publicdomain/zero/1.0/) on [OpenGameArt](https://opengameart.org).
 
---------
+---
 
 ## Sample from documentation
 
@@ -23,7 +22,7 @@ With additional information provided, like the _span_ of window sprites: [sprigh
 
 <kbd><img src="docs/spright-0.png"/></kbd>
 
---------
+---
 
 ## Constraints
 
@@ -33,7 +32,7 @@ Packing to multiple outputs with some constraints (max-width, max-height, power-
 <kbd><img src="constraints/spright-1.png"/></kbd>
 <kbd><img src="constraints/spright-2.png"/></kbd>
 
---------
+---
 
 ## Compact
 
@@ -42,7 +41,7 @@ Packing sprites by their convex outline: [spright.conf](compact/spright.conf)
 <kbd><img src="compact/Preview_Alternative_3.png"/></kbd><br/>
 <kbd><img src="compact/compact.png"/></kbd>
 
---------
+---
 
 ## Maps
 
@@ -55,7 +54,7 @@ Packing multiple sheets with a shared set of output coordinates [spright.conf](m
 <kbd><img src="maps/spright-0-normals.png"/></kbd>
 <kbd><img src="maps/spright-0-specular.png"/></kbd>
 
---------
+---
 
 ## Deduplicate
 
@@ -65,7 +64,7 @@ Finding unique tiles in an image: [spright.conf](deduplicate/spright.conf)
 <kbd><img src="deduplicate/spright-keep-0.png"/></kbd>
 <kbd><img src="deduplicate/spright-rows-0.png"/></kbd>
 
---------
+---
 
 ## Split
 
@@ -91,17 +90,17 @@ Splitting a sprite sheet in individual files: [spright.conf](split/spright.conf)
 <kbd><img src="split/out/sprite017.png"/></kbd>
 <kbd><img src="split/out/sprite018.png"/></kbd>
 
---------
+---
 
 ## Align pivot
 
-Aligning sprites by their pivot points.
+Aligning sprites by their pivot points: [spright.conf](align-pivot/spright.conf)
 
 <kbd><img src="align-pivot/bat.32x32.gif"/></kbd><br/>
 <kbd><img src="align-pivot/spright.png"/></kbd><br/>
 <kbd><img src="align-pivot/spright.gif"/></kbd><br/>
 
---------
+---
 
 ## Grid offset/spacing
 
@@ -110,7 +109,7 @@ Splitting multiple arrangements at once: [spright.conf](grid/spright.conf)
 <kbd><img src="grid/explosion3.png"/></kbd><br/>
 <kbd><img src="grid/spright-0.png"/></kbd>
 
---------
+---
 
 ## Scalings
 
@@ -123,7 +122,7 @@ Generating multiple resolutions of output: [spright.conf](scalings/spright.conf)
 <kbd><img src="scalings/spright-0.0625.png"/></kbd>
 <kbd><img src="scalings/spright-0.03125.png"/></kbd>
 
---------
+---
 
 ## Extrude
 
@@ -132,3 +131,18 @@ Adding a padding around sprites and fill it depending on wrap mode (clamp, mirro
 <kbd><img src="extrude/spright-clamp-0.png"/></kbd>
 <kbd><img src="extrude/spright-mirror-0.png"/></kbd>
 <kbd><img src="extrude/spright-repeat-0.png"/></kbd>
+
+---
+
+## Alpha
+
+Changing pixels depending on alpha value (opaque, colorkey FF00FF, clear, clear FFFFFF, bleed): [spright.conf](alpha/spright.conf)
+
+<kbd><img src="alpha/spright-opaque.png"/></kbd>
+<kbd><img src="alpha/spright-colorkey.png"/></kbd>
+
+Made opaque to show the color channels of the fully transparent pixels :
+
+<kbd><img src="alpha-show/spright-clear-black.png"/></kbd>
+<kbd><img src="alpha-show/spright-clear-white.png"/></kbd>
+<kbd><img src="alpha-show/spright-bleed.png"/></kbd>
