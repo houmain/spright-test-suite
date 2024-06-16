@@ -146,3 +146,9 @@ Made opaque to show the color channels of the fully transparent pixels :
 <kbd><img src="alpha-show/spright-clear-black.png"/></kbd>
 <kbd><img src="alpha-show/spright-clear-white.png"/></kbd>
 <kbd><img src="alpha-show/spright-bleed.png"/></kbd>
+
+## Globbing
+
+Splitting multiple sprite sheets at once: [spright.conf](globbing/spright.conf)
+
+<kbd><img src="globbing/spright-0.png"/></kbd>
