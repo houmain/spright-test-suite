@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>out/spright-1.png</string>
+		<key>size</key>
+		<string>{ 234, 220 }</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>faint/frame-1</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 11, 4 }</string>
+			<key>spriteSize</key>
+			<string>{ 308, 433 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 308, 433 }</string>
+			<key>textureRect</key>
+			<string>{ { 607, 444 }, { 308, 433 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>jump/jump-fall</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 3, 20 }</string>
+			<key>spriteSize</key>
+			<string>{ 326, 438 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 326, 438 }</string>
+			<key>textureRect</key>
+			<string>{ { 607, 3 }, { 326, 438 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>run/frame-2</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 5, 6 }</string>
+			<key>spriteSize</key>
+			<string>{ 299, 439 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 299, 439 }</string>
+			<key>textureRect</key>
+			<string>{ { 3, 3 }, { 299, 439 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>run/frame-4</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 5, 6 }</string>
+			<key>spriteSize</key>
+			<string>{ 299, 439 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 299, 439 }</string>
+			<key>textureRect</key>
+			<string>{ { 305, 3 }, { 299, 439 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>standing/frame-1</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 6, 9 }</string>
+			<key>spriteSize</key>
+			<string>{ 290, 422 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 290, 422 }</string>
+			<key>textureRect</key>
+			<string>{ { 290, 445 }, { 290, 422 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>standing/frame-2</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 12, 5 }</string>
+			<key>spriteSize</key>
+			<string>{ 284, 426 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 284, 426 }</string>
+			<key>textureRect</key>
+			<string>{ { 3, 445 }, { 284, 426 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

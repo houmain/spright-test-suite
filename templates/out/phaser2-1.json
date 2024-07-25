@@ -1,0 +1,160 @@
+{
+  "meta": { 
+    "app": "https://github.com/houmain/spright",
+    "image": "out/spright-1.png",
+    "size": { "w": 234, "h": 220 },
+    "scale": 0.25
+  },
+  "frames": [
+    {
+      "filename": "faint/frame-1",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 133,
+        "h": 109
+      },
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 77,
+        "h": 108
+      },
+      "frame": {
+        "x": 152,
+        "y": 111,
+        "w": 77,
+        "h": 108
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "jump/jump-fall",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 82,
+        "h": 115
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 5,
+        "w": 82,
+        "h": 110
+      },
+      "frame": {
+        "x": 152,
+        "y": 1,
+        "w": 82,
+        "h": 110
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "run/frame-2",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 77,
+        "h": 111
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 2,
+        "w": 75,
+        "h": 110
+      },
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 75,
+        "h": 110
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "run/frame-4",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 77,
+        "h": 111
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 2,
+        "w": 75,
+        "h": 110
+      },
+      "frame": {
+        "x": 76,
+        "y": 1,
+        "w": 75,
+        "h": 110
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "standing/frame-1",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 76,
+        "h": 108
+      },
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 73,
+        "h": 106
+      },
+      "frame": {
+        "x": 73,
+        "y": 111,
+        "w": 73,
+        "h": 106
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "standing/frame-2",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 76,
+        "h": 108
+      },
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1,
+        "w": 71,
+        "h": 107
+      },
+      "frame": {
+        "x": 1,
+        "y": 111,
+        "w": 71,
+        "h": 107
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ]
+}

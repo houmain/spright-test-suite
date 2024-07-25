@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>out/spright-2.png</string>
+		<key>size</key>
+		<string>{ 206, 242 }</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>faint/frame-2</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 37, 20 }</string>
+			<key>spriteSize</key>
+			<string>{ 369, 417 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 369, 417 }</string>
+			<key>textureRect</key>
+			<string>{ { 3, 3 }, { 369, 417 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>faint/frame-3</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 100, 84 }</string>
+			<key>spriteSize</key>
+			<string>{ 416, 353 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 416, 353 }</string>
+			<key>textureRect</key>
+			<string>{ { 375, 3 }, { 416, 353 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>faint/frame-4</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 114, 168 }</string>
+			<key>spriteSize</key>
+			<string>{ 408, 269 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 408, 269 }</string>
+			<key>textureRect</key>
+			<string>{ { 3, 696 }, { 408, 269 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>faint/frame-5</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 114, 168 }</string>
+			<key>spriteSize</key>
+			<string>{ 408, 269 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 408, 269 }</string>
+			<key>textureRect</key>
+			<string>{ { 414, 696 }, { 408, 269 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sliding/frame</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{ 2, 3 }</string>
+			<key>spriteSize</key>
+			<string>{ 413, 334 }</string>
+			<key>spriteSourceSize</key>
+			<string>{ 413, 334 }</string>
+			<key>textureRect</key>
+			<string>{ { 375, 359 }, { 413, 334 } }</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

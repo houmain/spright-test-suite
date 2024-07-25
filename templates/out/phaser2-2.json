@@ -1,0 +1,135 @@
+{
+  "meta": { 
+    "app": "https://github.com/houmain/spright",
+    "image": "out/spright-2.png",
+    "size": { "w": 206, "h": 242 },
+    "scale": 0.25
+  },
+  "frames": [
+    {
+      "filename": "faint/frame-2",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 133,
+        "h": 109
+      },
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 5,
+        "w": 92,
+        "h": 104
+      },
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 92,
+        "h": 104
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "faint/frame-3",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 133,
+        "h": 109
+      },
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 21,
+        "w": 104,
+        "h": 88
+      },
+      "frame": {
+        "x": 94,
+        "y": 1,
+        "w": 104,
+        "h": 88
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "faint/frame-4",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 133,
+        "h": 109
+      },
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 42,
+        "w": 102,
+        "h": 67
+      },
+      "frame": {
+        "x": 1,
+        "y": 174,
+        "w": 102,
+        "h": 67
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "faint/frame-5",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 133,
+        "h": 109
+      },
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 42,
+        "w": 102,
+        "h": 67
+      },
+      "frame": {
+        "x": 104,
+        "y": 174,
+        "w": 102,
+        "h": 67
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "sliding/frame",
+      "rotated": false,
+      "trimmed": true,
+      "sourceSize": {
+        "w": 105,
+        "h": 84
+      },
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 103,
+        "h": 84
+      },
+      "frame": {
+        "x": 94,
+        "y": 90,
+        "w": 103,
+        "h": 84
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ]
+}
