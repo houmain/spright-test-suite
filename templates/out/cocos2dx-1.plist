@@ -25,6 +25,8 @@
 			<string>{ { 607, 444 }, { 308, 433 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>jump/jump-fall</key>
 		<dict>
@@ -38,6 +40,8 @@
 			<string>{ { 607, 3 }, { 326, 438 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>run/frame-2</key>
 		<dict>
@@ -51,6 +55,8 @@
 			<string>{ { 3, 3 }, { 299, 439 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>run/frame-4</key>
 		<dict>
@@ -64,6 +70,8 @@
 			<string>{ { 305, 3 }, { 299, 439 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>standing/frame-1</key>
 		<dict>
@@ -77,6 +85,8 @@
 			<string>{ { 290, 445 }, { 290, 422 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>standing/frame-2</key>
 		<dict>
@@ -90,6 +100,8 @@
 			<string>{ { 3, 445 }, { 284, 426 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 	</dict>
 </dict>

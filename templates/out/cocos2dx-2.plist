@@ -25,6 +25,8 @@
 			<string>{ { 3, 3 }, { 369, 417 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>faint/frame-3</key>
 		<dict>
@@ -38,6 +40,8 @@
 			<string>{ { 375, 3 }, { 416, 353 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>faint/frame-4</key>
 		<dict>
@@ -51,6 +55,8 @@
 			<string>{ { 3, 696 }, { 408, 269 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>faint/frame-5</key>
 		<dict>
@@ -64,6 +70,8 @@
 			<string>{ { 414, 696 }, { 408, 269 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 		<key>sliding/frame</key>
 		<dict>
@@ -77,6 +85,8 @@
 			<string>{ { 375, 359 }, { 413, 334 } }</string>
 			<key>textureRotated</key>
 			<false/>
+			<key>anchor</key>
+			<string>{ 0.5, 0.5 }</string>
 		</dict>
 	</dict>
 </dict>
