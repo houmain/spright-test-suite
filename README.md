@@ -152,3 +152,9 @@ Made opaque to show the color channels of the fully transparent pixels :
 Splitting multiple sprite sheets at once: [spright.conf](globbing/spright.conf)
 
 <kbd><img src="globbing/spright-0.png"/></kbd>
+
+## Transformation
+
+Transform sprites individually: [spright.conf](transform/spright.conf)
+
+<kbd><img src="transform/spright-0.png"/></kbd>

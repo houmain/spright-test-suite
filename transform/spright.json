@@ -1,0 +1,123 @@
+{
+	"inputs": [
+		{
+			"filename": "misc_scenery.png",
+			"sources": [
+				{
+					"index": 0,
+					"spriteIndices": [0,1]
+				}
+			]
+		}
+	],
+	"slices": [
+		{
+			"spriteIndices": [0,1]
+		}
+	],
+	"sources": [
+		{
+			"filename": "misc_scenery.png",
+			"height": 162,
+			"path": "",
+			"width": 163
+		}
+	],
+	"sprites": [
+		{
+			"data": {},
+			"id": "candles45",
+			"index": 0,
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"pivot": {
+				"x": 24.5,
+				"y": 24.5
+			},
+			"rect": {
+				"h": 49,
+				"w": 49,
+				"x": 122,
+				"y": 87
+			},
+			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 51,
+				"w": 17,
+				"x": 25,
+				"y": 18
+			},
+			"tags": {},
+			"trimmedRect": {
+				"h": 43,
+				"w": 43,
+				"x": 127,
+				"y": 89
+			},
+			"trimmedSourceRect": {
+				"h": 43,
+				"w": 43,
+				"x": 5,
+				"y": 2
+			},
+			"vertices": [0.0,0.0,43.0,0.0,43.0,43.0,0.0,43.0]
+		},
+		{
+			"data": {},
+			"id": "cage90",
+			"index": 1,
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"pivot": {
+				"x": 109.5,
+				"y": 109.5
+			},
+			"rect": {
+				"h": 219,
+				"w": 219,
+				"x": -22,
+				"y": -66
+			},
+			"rotated": false,
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {
+				"h": 77,
+				"w": 32,
+				"x": 44,
+				"y": 8
+			},
+			"tags": {},
+			"trimmedRect": {
+				"h": 69,
+				"w": 158,
+				"x": 10,
+				"y": 10
+			},
+			"trimmedSourceRect": {
+				"h": 69,
+				"w": 158,
+				"x": 32,
+				"y": 76
+			},
+			"vertices": [0.0,0.0,158.0,0.0,158.0,69.0,0.0,69.0]
+		}
+	],
+	"tags": {},
+	"textures": [
+		{
+			"filename": "spright-0.png",
+			"height": 176,
+			"map": "",
+			"path": "",
+			"scale": 1.0,
+			"sliceIndex": 0,
+			"spriteIndices": [0,1],
+			"width": 205
+		}
+	]
+}
