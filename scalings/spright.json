@@ -10,9 +10,14 @@
 			]
 		}
 	],
-	"slices": [
+	"sheets": [
 		{
-			"spriteIndices": [0]
+			"id": "sprites",
+			"slices": [
+				{
+					"spriteIndices": [0]
+				}
+			]
 		}
 	],
 	"sources": [
@@ -74,6 +79,7 @@
 			"map": "",
 			"path": "",
 			"scale": 0.5,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 256
@@ -84,6 +90,7 @@
 			"map": "",
 			"path": "",
 			"scale": 0.25,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 128
@@ -94,6 +101,7 @@
 			"map": "",
 			"path": "",
 			"scale": 0.125,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 64
@@ -104,6 +112,7 @@
 			"map": "",
 			"path": "",
 			"scale": 0.0625,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 32
@@ -114,6 +123,7 @@
 			"map": "",
 			"path": "",
 			"scale": 0.03125,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 16

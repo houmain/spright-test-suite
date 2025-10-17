@@ -10,9 +10,14 @@
 			]
 		}
 	],
-	"slices": [
+	"sheets": [
 		{
-			"spriteIndices": [0,1,2,3,4]
+			"id": "sprites",
+			"slices": [
+				{
+					"spriteIndices": [0,1,2,3,4]
+				}
+			]
 		}
 	],
 	"sources": [
@@ -37,7 +42,7 @@
 			"rect": {
 				"h": 51,
 				"w": 17,
-				"x": 178,
+				"x": 152,
 				"y": 10
 			},
 			"rotated": false,
@@ -54,7 +59,7 @@
 			"trimmedRect": {
 				"h": 51,
 				"w": 17,
-				"x": 178,
+				"x": 152,
 				"y": 10
 			},
 			"trimmedSourceRect": {
@@ -78,8 +83,8 @@
 			"rect": {
 				"h": 77,
 				"w": 32,
-				"x": 10,
-				"y": 89
+				"x": 85,
+				"y": 152
 			},
 			"rotated": false,
 			"sliceIndex": 0,
@@ -95,8 +100,8 @@
 			"trimmedRect": {
 				"h": 77,
 				"w": 32,
-				"x": 10,
-				"y": 89
+				"x": 85,
+				"y": 152
 			},
 			"trimmedSourceRect": {
 				"h": 77,
@@ -119,8 +124,8 @@
 			"rect": {
 				"h": 77,
 				"w": 78,
-				"x": 48,
-				"y": 81
+				"x": 6,
+				"y": 144
 			},
 			"rotated": false,
 			"sliceIndex": 0,
@@ -136,8 +141,8 @@
 			"trimmedRect": {
 				"h": 66,
 				"w": 65,
-				"x": 52,
-				"y": 89
+				"x": 10,
+				"y": 152
 			},
 			"trimmedSourceRect": {
 				"h": 66,
@@ -161,7 +166,7 @@
 				"h": 49,
 				"w": 49,
 				"x": 122,
-				"y": 87
+				"y": 150
 			},
 			"rotated": false,
 			"sliceIndex": 0,
@@ -178,7 +183,7 @@
 				"h": 43,
 				"w": 43,
 				"x": 127,
-				"y": 89
+				"y": 152
 			},
 			"trimmedSourceRect": {
 				"h": 43,
@@ -195,14 +200,14 @@
 			"inputIndex": 0,
 			"inputSpriteIndex": 1,
 			"pivot": {
-				"x": 109.5,
-				"y": 109.5
+				"x": 77.0,
+				"y": 77.0
 			},
 			"rect": {
-				"h": 219,
-				"w": 219,
-				"x": -22,
-				"y": -66
+				"h": 154,
+				"w": 154,
+				"x": 5,
+				"y": -7
 			},
 			"rotated": false,
 			"sliceIndex": 0,
@@ -216,31 +221,32 @@
 			},
 			"tags": {},
 			"trimmedRect": {
-				"h": 69,
-				"w": 158,
+				"h": 132,
+				"w": 132,
 				"x": 10,
 				"y": 10
 			},
 			"trimmedSourceRect": {
-				"h": 69,
-				"w": 158,
-				"x": 32,
-				"y": 76
+				"h": 132,
+				"w": 132,
+				"x": 5,
+				"y": 17
 			},
-			"vertices": [0.0,0.0,158.0,0.0,158.0,69.0,0.0,69.0]
+			"vertices": [0.0,0.0,132.0,0.0,132.0,132.0,0.0,132.0]
 		}
 	],
 	"tags": {},
 	"textures": [
 		{
 			"filename": "spright-0.png",
-			"height": 176,
+			"height": 239,
 			"map": "",
 			"path": "",
 			"scale": 1.0,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0,1,2,3,4],
-			"width": 205
+			"width": 180
 		}
 	]
 }

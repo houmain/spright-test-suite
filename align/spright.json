@@ -10,9 +10,14 @@
 			]
 		}
 	],
-	"slices": [
+	"sheets": [
 		{
-			"spriteIndices": [0,1,2]
+			"id": "png",
+			"slices": [
+				{
+					"spriteIndices": [0,1,2]
+				}
+			]
 		}
 	],
 	"sources": [
@@ -156,6 +161,7 @@
 			"map": "",
 			"path": "",
 			"scale": 4.0,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0,1,2],
 			"width": 580

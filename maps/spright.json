@@ -10,9 +10,14 @@
 			]
 		}
 	],
-	"slices": [
+	"sheets": [
 		{
-			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+			"id": "sprites",
+			"slices": [
+				{
+					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+				}
+			]
 		}
 	],
 	"sources": [
@@ -689,6 +694,7 @@
 			"map": "",
 			"path": "",
 			"scale": 1.0,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
 			"width": 249
@@ -699,6 +705,7 @@
 			"map": "-specular",
 			"path": "",
 			"scale": 1.0,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
 			"width": 249
@@ -709,6 +716,7 @@
 			"map": "-normals",
 			"path": "",
 			"scale": 1.0,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
 			"width": 249

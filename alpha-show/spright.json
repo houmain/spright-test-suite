@@ -28,15 +28,30 @@
 			]
 		}
 	],
-	"slices": [
+	"sheets": [
 		{
-			"spriteIndices": [0]
+			"id": "clear-black",
+			"slices": [
+				{
+					"spriteIndices": [0]
+				}
+			]
 		},
 		{
-			"spriteIndices": [1]
+			"id": "clear-white",
+			"slices": [
+				{
+					"spriteIndices": [1]
+				}
+			]
 		},
 		{
-			"spriteIndices": [2]
+			"id": "bleed",
+			"slices": [
+				{
+					"spriteIndices": [2]
+				}
+			]
 		}
 	],
 	"sources": [
@@ -192,6 +207,7 @@
 			"map": "",
 			"path": "",
 			"scale": 1.0,
+			"sheetIndex": 0,
 			"sliceIndex": 0,
 			"spriteIndices": [0],
 			"width": 126
@@ -202,7 +218,8 @@
 			"map": "",
 			"path": "",
 			"scale": 1.0,
-			"sliceIndex": 1,
+			"sheetIndex": 1,
+			"sliceIndex": 0,
 			"spriteIndices": [1],
 			"width": 126
 		},
@@ -212,7 +229,8 @@
 			"map": "",
 			"path": "",
 			"scale": 1.0,
-			"sliceIndex": 2,
+			"sheetIndex": 2,
+			"sliceIndex": 0,
 			"spriteIndices": [2],
 			"width": 126
 		}
