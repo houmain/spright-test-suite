@@ -1,15 +1,25 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "diffuse.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0]
-				}
-			]
+			"index": 0,
+			"id": "sprite_0",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":512,"h":512},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":0,"y":0,"w":512,"h":512},
+			"trimmedRect": {"x":0,"y":0,"w":512,"h":512},
+			"trimmedSourceRect": {"x":0,"y":0,"w":512,"h":512},
+			"pivot": {"x":256.0,"y":256.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0],
+			"tags": {},
+			"data": {}
 		}
 	],
+	"tags": {},
 	"sheets": [
 		{
 			"id": "sprites",
@@ -22,111 +32,78 @@
 	],
 	"sources": [
 		{
-			"filename": "diffuse.png",
-			"height": 512,
 			"path": "",
-			"width": 512
+			"filename": "diffuse.png",
+			"width": 512,
+			"height": 512
 		}
 	],
-	"sprites": [
+	"inputs": [
 		{
-			"data": {},
-			"id": "sprite_0",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 256.0,
-				"y": 256.0
-			},
-			"rect": {
-				"h": 512,
-				"w": 512,
-				"x": 0,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 512,
-				"w": 512,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 512,
-				"w": 512,
-				"x": 0,
-				"y": 0
-			},
-			"trimmedSourceRect": {
-				"h": 512,
-				"w": 512,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,512.0,0.0,512.0,512.0,0.0,512.0]
+			"filename": "diffuse.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0]
+				}
+			]
 		}
 	],
-	"tags": {},
 	"textures": [
 		{
+			"sheetIndex": 0,
+			"sliceIndex": 0,
+			"path": "",
 			"filename": "spright-0.5.png",
+			"width": 256,
 			"height": 256,
-			"map": "",
-			"path": "",
 			"scale": 0.5,
-			"sheetIndex": 0,
-			"sliceIndex": 0,
-			"spriteIndices": [0],
-			"width": 256
+			"map": "",
+			"spriteIndices": [0]
 		},
 		{
+			"sheetIndex": 0,
+			"sliceIndex": 0,
+			"path": "",
 			"filename": "spright-0.25.png",
+			"width": 128,
 			"height": 128,
-			"map": "",
-			"path": "",
 			"scale": 0.25,
-			"sheetIndex": 0,
-			"sliceIndex": 0,
-			"spriteIndices": [0],
-			"width": 128
+			"map": "",
+			"spriteIndices": [0]
 		},
 		{
+			"sheetIndex": 0,
+			"sliceIndex": 0,
+			"path": "",
 			"filename": "spright-0.125.png",
+			"width": 64,
 			"height": 64,
-			"map": "",
-			"path": "",
 			"scale": 0.125,
-			"sheetIndex": 0,
-			"sliceIndex": 0,
-			"spriteIndices": [0],
-			"width": 64
+			"map": "",
+			"spriteIndices": [0]
 		},
 		{
+			"sheetIndex": 0,
+			"sliceIndex": 0,
+			"path": "",
 			"filename": "spright-0.0625.png",
+			"width": 32,
 			"height": 32,
-			"map": "",
-			"path": "",
 			"scale": 0.0625,
-			"sheetIndex": 0,
-			"sliceIndex": 0,
-			"spriteIndices": [0],
-			"width": 32
+			"map": "",
+			"spriteIndices": [0]
 		},
 		{
-			"filename": "spright-0.03125.png",
-			"height": 16,
-			"map": "",
-			"path": "",
-			"scale": 0.03125,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [0],
-			"width": 16
+			"path": "",
+			"filename": "spright-0.03125.png",
+			"width": 16,
+			"height": 16,
+			"scale": 0.03125,
+			"map": "",
+			"spriteIndices": [0]
 		}
 	]
 }

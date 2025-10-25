@@ -1,15 +1,61 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "Old enemies 2.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0,1,2]
-				}
-			]
+			"index": 0,
+			"id": "sprite_0",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":-8,"y":-20,"w":64,"h":64},
+			"trimmedRect": {"x":0,"y":0,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 1,
+			"id": "sprite_1",
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":40,"y":-18,"w":64,"h":64},
+			"trimmedRect": {"x":48,"y":2,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 2,
+			"id": "sprite_2",
+			"inputIndex": 0,
+			"inputSpriteIndex": 2,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":89,"y":-41,"w":64,"h":64},
+			"trimmedRect": {"x":97,"y":3,"w":48,"h":20},
+			"trimmedSourceRect": {"x":8,"y":44,"w":48,"h":20},
+			"pivot": {"x":32.0,"y":54.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,20.0,0.0,20.0],
+			"tags": {},
+			"data": {}
 		}
 	],
+	"tags": {},
 	"sheets": [
 		{
 			"id": "png",
@@ -22,149 +68,34 @@
 	],
 	"sources": [
 		{
-			"filename": "Old enemies 2.png",
-			"height": 96,
 			"path": "",
-			"width": 96
+			"filename": "Old enemies 2.png",
+			"width": 96,
+			"height": 96
 		}
 	],
-	"sprites": [
+	"inputs": [
 		{
-			"data": {},
-			"id": "sprite_0",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": -8,
-				"y": -20
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 0,
-				"y": 0
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_1",
-			"index": 1,
-			"inputIndex": 0,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 40,
-				"y": -18
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 48,
-				"y": 2
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_2",
-			"index": 2,
-			"inputIndex": 0,
-			"inputSpriteIndex": 2,
-			"pivot": {
-				"x": 32.0,
-				"y": 54.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 89,
-				"y": -41
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 20,
-				"w": 48,
-				"x": 97,
-				"y": 3
-			},
-			"trimmedSourceRect": {
-				"h": 20,
-				"w": 48,
-				"x": 8,
-				"y": 44
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,20.0,0.0,20.0]
+			"filename": "Old enemies 2.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0,1,2]
+				}
+			]
 		}
 	],
-	"tags": {},
 	"textures": [
 		{
-			"filename": "spright.png",
-			"height": 184,
-			"map": "",
-			"path": "",
-			"scale": 4.0,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [0,1,2],
-			"width": 580
+			"path": "",
+			"filename": "spright.png",
+			"width": 580,
+			"height": 184,
+			"scale": 4.0,
+			"map": "",
+			"spriteIndices": [0,1,2]
 		}
 	]
 }

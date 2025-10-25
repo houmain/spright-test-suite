@@ -1,33 +1,61 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "spright-clear-black.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0]
-				}
-			]
+			"index": 0,
+			"id": "sprite_0",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":126,"h":136},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":0,"y":0,"w":126,"h":136},
+			"trimmedRect": {"x":0,"y":0,"w":126,"h":136},
+			"trimmedSourceRect": {"x":0,"y":0,"w":126,"h":136},
+			"pivot": {"x":63.0,"y":68.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "spright-clear-white.png",
-			"sources": [
-				{
-					"index": 1,
-					"spriteIndices": [1]
-				}
-			]
+			"index": 1,
+			"id": "sprite_1",
+			"inputIndex": 1,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 1,
+			"sourceRect": {"x":0,"y":0,"w":126,"h":136},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":0,"y":0,"w":126,"h":136},
+			"trimmedRect": {"x":0,"y":0,"w":126,"h":136},
+			"trimmedSourceRect": {"x":0,"y":0,"w":126,"h":136},
+			"pivot": {"x":63.0,"y":68.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "spright-bleed.png",
-			"sources": [
-				{
-					"index": 2,
-					"spriteIndices": [2]
-				}
-			]
+			"index": 2,
+			"id": "sprite_2",
+			"inputIndex": 2,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 2,
+			"sourceRect": {"x":0,"y":0,"w":126,"h":136},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":0,"y":0,"w":126,"h":136},
+			"trimmedRect": {"x":0,"y":0,"w":126,"h":136},
+			"trimmedSourceRect": {"x":0,"y":0,"w":126,"h":136},
+			"pivot": {"x":63.0,"y":68.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0],
+			"tags": {},
+			"data": {}
 		}
 	],
+	"tags": {},
 	"sheets": [
 		{
 			"id": "clear-black",
@@ -56,183 +84,86 @@
 	],
 	"sources": [
 		{
-			"filename": "spright-clear-black.png",
-			"height": 136,
 			"path": "../alpha",
-			"width": 126
+			"filename": "spright-clear-black.png",
+			"width": 126,
+			"height": 136
+		},
+		{
+			"path": "../alpha",
+			"filename": "spright-clear-white.png",
+			"width": 126,
+			"height": 136
+		},
+		{
+			"path": "../alpha",
+			"filename": "spright-bleed.png",
+			"width": 126,
+			"height": 136
+		}
+	],
+	"inputs": [
+		{
+			"filename": "spright-clear-black.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0]
+				}
+			]
 		},
 		{
 			"filename": "spright-clear-white.png",
-			"height": 136,
-			"path": "../alpha",
-			"width": 126
+			"sourceSprites": [
+				{
+					"sourceIndex": 1,
+					"spriteIndices": [1]
+				}
+			]
 		},
 		{
 			"filename": "spright-bleed.png",
-			"height": 136,
-			"path": "../alpha",
-			"width": 126
+			"sourceSprites": [
+				{
+					"sourceIndex": 2,
+					"spriteIndices": [2]
+				}
+			]
 		}
 	],
-	"sprites": [
-		{
-			"data": {},
-			"id": "sprite_0",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 63.0,
-				"y": 68.0
-			},
-			"rect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"trimmedSourceRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_1",
-			"index": 1,
-			"inputIndex": 1,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 63.0,
-				"y": 68.0
-			},
-			"rect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 1,
-			"sourceRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"trimmedSourceRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_2",
-			"index": 2,
-			"inputIndex": 2,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 63.0,
-				"y": 68.0
-			},
-			"rect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 2,
-			"sourceRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"trimmedSourceRect": {
-				"h": 136,
-				"w": 126,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,126.0,0.0,126.0,136.0,0.0,136.0]
-		}
-	],
-	"tags": {},
 	"textures": [
 		{
-			"filename": "spright-clear-black.png",
-			"height": 136,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [0],
-			"width": 126
+			"path": "",
+			"filename": "spright-clear-black.png",
+			"width": 126,
+			"height": 136,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [0]
 		},
 		{
-			"filename": "spright-clear-white.png",
-			"height": 136,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 1,
 			"sliceIndex": 0,
-			"spriteIndices": [1],
-			"width": 126
+			"path": "",
+			"filename": "spright-clear-white.png",
+			"width": 126,
+			"height": 136,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [1]
 		},
 		{
-			"filename": "spright-bleed.png",
-			"height": 136,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 2,
 			"sliceIndex": 0,
-			"spriteIndices": [2],
-			"width": 126
+			"path": "",
+			"filename": "spright-bleed.png",
+			"width": 126,
+			"height": 136,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [2]
 		}
 	]
 }

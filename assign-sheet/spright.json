@@ -1,15 +1,643 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "Old enemies 2.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28]
-				}
-			]
+			"index": 0,
+			"id": "sprite_0",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":1,"y":1,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":1,"w":12,"h":11},
+			"trimmedSourceRect": {"x":2,"y":5,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_idle"
+			},
+			"data": {}
+		},
+		{
+			"index": 1,
+			"id": "sprite_1",
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":0,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":1,"y":13,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":13,"w":12,"h":11},
+			"trimmedSourceRect": {"x":18,"y":5,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_idle"
+			},
+			"data": {}
+		},
+		{
+			"index": 2,
+			"id": "sprite_2",
+			"inputIndex": 0,
+			"inputSpriteIndex": 2,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":0,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":1,"y":25,"w":12,"h":5},
+			"trimmedRect": {"x":1,"y":25,"w":12,"h":5},
+			"trimmedSourceRect": {"x":34,"y":11,"w":12,"h":5},
+			"pivot": {"x":6.0,"y":2.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,5.0,0.0,5.0],
+			"tags": {
+				"anim": "blue_enemy_dead"
+			},
+			"data": {}
+		},
+		{
+			"index": 3,
+			"id": "sprite_3",
+			"inputIndex": 0,
+			"inputSpriteIndex": 3,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":0,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":1,"y":31,"w":14,"h":11},
+			"trimmedRect": {"x":1,"y":31,"w":14,"h":11},
+			"trimmedSourceRect": {"x":49,"y":4,"w":14,"h":11},
+			"pivot": {"x":7.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,14.0,0.0,14.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_jump"
+			},
+			"data": {}
+		},
+		{
+			"index": 4,
+			"id": "sprite_4",
+			"inputIndex": 0,
+			"inputSpriteIndex": 4,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":16,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":1,"y":43,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":43,"w":12,"h":11},
+			"trimmedSourceRect": {"x":2,"y":21,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 5,
+			"id": "sprite_5",
+			"inputIndex": 0,
+			"inputSpriteIndex": 5,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":16,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":1,"y":55,"w":13,"h":11},
+			"trimmedRect": {"x":1,"y":55,"w":13,"h":11},
+			"trimmedSourceRect": {"x":17,"y":20,"w":13,"h":11},
+			"pivot": {"x":6.5,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,13.0,0.0,13.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 6,
+			"id": "sprite_6",
+			"inputIndex": 0,
+			"inputSpriteIndex": 6,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":16,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":1,"y":67,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":67,"w":12,"h":11},
+			"trimmedSourceRect": {"x":34,"y":21,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 7,
+			"id": "sprite_7",
+			"inputIndex": 0,
+			"inputSpriteIndex": 7,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":16,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":1,"y":79,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":79,"w":12,"h":11},
+			"trimmedSourceRect": {"x":50,"y":21,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 8,
+			"id": "sprite_8",
+			"inputIndex": 0,
+			"inputSpriteIndex": 8,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":16,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 8,
+			"rect": {"x":1,"y":91,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":91,"w":12,"h":11},
+			"trimmedSourceRect": {"x":66,"y":20,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 9,
+			"id": "sprite_9",
+			"inputIndex": 0,
+			"inputSpriteIndex": 9,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":16,"w":16,"h":16},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 9,
+			"rect": {"x":1,"y":103,"w":12,"h":11},
+			"trimmedRect": {"x":1,"y":103,"w":12,"h":11},
+			"trimmedSourceRect": {"x":82,"y":21,"w":12,"h":11},
+			"pivot": {"x":6.0,"y":5.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0],
+			"tags": {
+				"anim": "blue_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 10,
+			"id": "sprite_10",
+			"inputIndex": 0,
+			"inputSpriteIndex": 10,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":1,"y":1,"w":12,"h":14},
+			"trimmedRect": {"x":1,"y":1,"w":12,"h":14},
+			"trimmedSourceRect": {"x":2,"y":34,"w":12,"h":14},
+			"pivot": {"x":6.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_idle"
+			},
+			"data": {}
+		},
+		{
+			"index": 11,
+			"id": "sprite_11",
+			"inputIndex": 0,
+			"inputSpriteIndex": 11,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":14,"y":1,"w":12,"h":14},
+			"trimmedRect": {"x":14,"y":1,"w":12,"h":14},
+			"trimmedSourceRect": {"x":18,"y":34,"w":12,"h":14},
+			"pivot": {"x":6.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_idle"
+			},
+			"data": {}
+		},
+		{
+			"index": 12,
+			"id": "sprite_12",
+			"inputIndex": 0,
+			"inputSpriteIndex": 12,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":27,"y":1,"w":12,"h":13},
+			"trimmedRect": {"x":27,"y":1,"w":12,"h":13},
+			"trimmedSourceRect": {"x":34,"y":35,"w":12,"h":13},
+			"pivot": {"x":6.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "red_enemy_dead"
+			},
+			"data": {}
+		},
+		{
+			"index": 13,
+			"id": "sprite_13",
+			"inputIndex": 0,
+			"inputSpriteIndex": 13,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":40,"y":1,"w":14,"h":14},
+			"trimmedRect": {"x":40,"y":1,"w":14,"h":14},
+			"trimmedSourceRect": {"x":49,"y":33,"w":14,"h":14},
+			"pivot": {"x":7.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,14.0,0.0,14.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_jump"
+			},
+			"data": {}
+		},
+		{
+			"index": 14,
+			"id": "sprite_14",
+			"inputIndex": 0,
+			"inputSpriteIndex": 14,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":55,"y":1,"w":12,"h":14},
+			"trimmedRect": {"x":55,"y":1,"w":12,"h":14},
+			"trimmedSourceRect": {"x":2,"y":50,"w":12,"h":14},
+			"pivot": {"x":6.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 15,
+			"id": "sprite_15",
+			"inputIndex": 0,
+			"inputSpriteIndex": 15,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":68,"y":1,"w":13,"h":14},
+			"trimmedRect": {"x":68,"y":1,"w":13,"h":14},
+			"trimmedSourceRect": {"x":17,"y":49,"w":13,"h":14},
+			"pivot": {"x":6.5,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,13.0,0.0,13.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 16,
+			"id": "sprite_16",
+			"inputIndex": 0,
+			"inputSpriteIndex": 16,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":82,"y":1,"w":12,"h":14},
+			"trimmedRect": {"x":82,"y":1,"w":12,"h":14},
+			"trimmedSourceRect": {"x":34,"y":50,"w":12,"h":14},
+			"pivot": {"x":6.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 17,
+			"id": "sprite_17",
+			"inputIndex": 0,
+			"inputSpriteIndex": 17,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":95,"y":1,"w":12,"h":14},
+			"trimmedRect": {"x":95,"y":1,"w":12,"h":14},
+			"trimmedSourceRect": {"x":50,"y":50,"w":12,"h":14},
+			"pivot": {"x":6.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 18,
+			"id": "sprite_18",
+			"inputIndex": 0,
+			"inputSpriteIndex": 18,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 8,
+			"rect": {"x":108,"y":1,"w":12,"h":14},
+			"trimmedRect": {"x":108,"y":1,"w":12,"h":14},
+			"trimmedSourceRect": {"x":66,"y":49,"w":12,"h":14},
+			"pivot": {"x":6.0,"y":7.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0],
+			"tags": {
+				"anim": "red_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 19,
+			"id": "sprite_19",
+			"inputIndex": 0,
+			"inputSpriteIndex": 19,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":1,"y":1,"w":16,"h":13},
+			"trimmedRect": {"x":1,"y":1,"w":16,"h":13},
+			"trimmedSourceRect": {"x":0,"y":67,"w":16,"h":13},
+			"pivot": {"x":8.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_idle"
+			},
+			"data": {}
+		},
+		{
+			"index": 20,
+			"id": "sprite_20",
+			"inputIndex": 0,
+			"inputSpriteIndex": 20,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":18,"y":1,"w":16,"h":13},
+			"trimmedRect": {"x":18,"y":1,"w":16,"h":13},
+			"trimmedSourceRect": {"x":16,"y":67,"w":16,"h":13},
+			"pivot": {"x":8.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_idle"
+			},
+			"data": {}
+		},
+		{
+			"index": 21,
+			"id": "sprite_21",
+			"inputIndex": 0,
+			"inputSpriteIndex": 21,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":35,"y":1,"w":16,"h":5},
+			"trimmedRect": {"x":35,"y":1,"w":16,"h":5},
+			"trimmedSourceRect": {"x":32,"y":75,"w":16,"h":5},
+			"pivot": {"x":8.0,"y":2.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,5.0,0.0,5.0],
+			"tags": {
+				"anim": "green_enemy_dead"
+			},
+			"data": {}
+		},
+		{
+			"index": 22,
+			"id": "sprite_22",
+			"inputIndex": 0,
+			"inputSpriteIndex": 22,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":52,"y":1,"w":16,"h":12},
+			"trimmedRect": {"x":52,"y":1,"w":16,"h":12},
+			"trimmedSourceRect": {"x":48,"y":68,"w":16,"h":12},
+			"pivot": {"x":8.0,"y":6.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,12.0,0.0,12.0],
+			"tags": {
+				"anim": "green_enemy_jump"
+			},
+			"data": {}
+		},
+		{
+			"index": 23,
+			"id": "sprite_23",
+			"inputIndex": 0,
+			"inputSpriteIndex": 23,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":69,"y":1,"w":16,"h":13},
+			"trimmedRect": {"x":69,"y":1,"w":16,"h":13},
+			"trimmedSourceRect": {"x":0,"y":83,"w":16,"h":13},
+			"pivot": {"x":8.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 24,
+			"id": "sprite_24",
+			"inputIndex": 0,
+			"inputSpriteIndex": 24,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":1,"y":15,"w":14,"h":13},
+			"trimmedRect": {"x":1,"y":15,"w":14,"h":13},
+			"trimmedSourceRect": {"x":17,"y":82,"w":14,"h":13},
+			"pivot": {"x":7.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,14.0,0.0,14.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 25,
+			"id": "sprite_25",
+			"inputIndex": 0,
+			"inputSpriteIndex": 25,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":16,"y":15,"w":14,"h":13},
+			"trimmedRect": {"x":16,"y":15,"w":14,"h":13},
+			"trimmedSourceRect": {"x":33,"y":83,"w":14,"h":13},
+			"pivot": {"x":7.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,14.0,0.0,14.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 26,
+			"id": "sprite_26",
+			"inputIndex": 0,
+			"inputSpriteIndex": 26,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":31,"y":15,"w":16,"h":13},
+			"trimmedRect": {"x":31,"y":15,"w":16,"h":13},
+			"trimmedSourceRect": {"x":48,"y":83,"w":16,"h":13},
+			"pivot": {"x":8.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 27,
+			"id": "sprite_27",
+			"inputIndex": 0,
+			"inputSpriteIndex": 27,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 8,
+			"rect": {"x":48,"y":15,"w":16,"h":13},
+			"trimmedRect": {"x":48,"y":15,"w":16,"h":13},
+			"trimmedSourceRect": {"x":64,"y":82,"w":16,"h":13},
+			"pivot": {"x":8.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_run"
+			},
+			"data": {}
+		},
+		{
+			"index": 28,
+			"id": "sprite_28",
+			"inputIndex": 0,
+			"inputSpriteIndex": 28,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 9,
+			"rect": {"x":65,"y":15,"w":16,"h":13},
+			"trimmedRect": {"x":65,"y":15,"w":16,"h":13},
+			"trimmedSourceRect": {"x":80,"y":83,"w":16,"h":13},
+			"pivot": {"x":8.0,"y":6.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0],
+			"tags": {
+				"anim": "green_enemy_run"
+			},
+			"data": {}
 		}
 	],
+	"tags": {
+		"anim": {
+			"blue_enemy_dead": [
+				2
+			],
+			"blue_enemy_idle": [
+				0,
+				1
+			],
+			"blue_enemy_jump": [
+				3
+			],
+			"blue_enemy_run": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"green_enemy_dead": [
+				21
+			],
+			"green_enemy_idle": [
+				19,
+				20
+			],
+			"green_enemy_jump": [
+				22
+			],
+			"green_enemy_run": [
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			],
+			"red_enemy_dead": [
+				12
+			],
+			"red_enemy_idle": [
+				10,
+				11
+			],
+			"red_enemy_jump": [
+				13
+			],
+			"red_enemy_run": [
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	},
 	"sheets": [
 		{
 			"id": "red",
@@ -38,1310 +666,56 @@
 	],
 	"sources": [
 		{
-			"filename": "Old enemies 2.png",
-			"height": 96,
 			"path": "",
-			"width": 96
+			"filename": "Old enemies 2.png",
+			"width": 96,
+			"height": 96
 		}
 	],
-	"sprites": [
+	"inputs": [
 		{
-			"data": {},
-			"id": "sprite_0",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {
-				"anim": "blue_enemy_idle"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 2,
-				"y": 5
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_1",
-			"index": 1,
-			"inputIndex": 0,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 13
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 0
-			},
-			"tags": {
-				"anim": "blue_enemy_idle"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 13
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 18,
-				"y": 5
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_2",
-			"index": 2,
-			"inputIndex": 0,
-			"inputSpriteIndex": 2,
-			"pivot": {
-				"x": 6.0,
-				"y": 2.5
-			},
-			"rect": {
-				"h": 5,
-				"w": 12,
-				"x": 1,
-				"y": 25
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 0
-			},
-			"tags": {
-				"anim": "blue_enemy_dead"
-			},
-			"trimmedRect": {
-				"h": 5,
-				"w": 12,
-				"x": 1,
-				"y": 25
-			},
-			"trimmedSourceRect": {
-				"h": 5,
-				"w": 12,
-				"x": 34,
-				"y": 11
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,5.0,0.0,5.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_3",
-			"index": 3,
-			"inputIndex": 0,
-			"inputSpriteIndex": 3,
-			"pivot": {
-				"x": 7.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 14,
-				"x": 1,
-				"y": 31
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 0
-			},
-			"tags": {
-				"anim": "blue_enemy_jump"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 14,
-				"x": 1,
-				"y": 31
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 14,
-				"x": 49,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,14.0,0.0,14.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_4",
-			"index": 4,
-			"inputIndex": 0,
-			"inputSpriteIndex": 4,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 43
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 16
-			},
-			"tags": {
-				"anim": "blue_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 43
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 2,
-				"y": 21
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_5",
-			"index": 5,
-			"inputIndex": 0,
-			"inputSpriteIndex": 5,
-			"pivot": {
-				"x": 6.5,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 13,
-				"x": 1,
-				"y": 55
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 16
-			},
-			"tags": {
-				"anim": "blue_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 13,
-				"x": 1,
-				"y": 55
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 13,
-				"x": 17,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,13.0,0.0,13.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_6",
-			"index": 6,
-			"inputIndex": 0,
-			"inputSpriteIndex": 6,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 67
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 16
-			},
-			"tags": {
-				"anim": "blue_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 67
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 34,
-				"y": 21
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_7",
-			"index": 7,
-			"inputIndex": 0,
-			"inputSpriteIndex": 7,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 79
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 16
-			},
-			"tags": {
-				"anim": "blue_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 79
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 50,
-				"y": 21
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_8",
-			"index": 8,
-			"inputIndex": 0,
-			"inputSpriteIndex": 8,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 91
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 8,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 16
-			},
-			"tags": {
-				"anim": "blue_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 91
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 66,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_9",
-			"index": 9,
-			"inputIndex": 0,
-			"inputSpriteIndex": 9,
-			"pivot": {
-				"x": 6.0,
-				"y": 5.5
-			},
-			"rect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 103
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 9,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 16
-			},
-			"tags": {
-				"anim": "blue_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 11,
-				"w": 12,
-				"x": 1,
-				"y": 103
-			},
-			"trimmedSourceRect": {
-				"h": 11,
-				"w": 12,
-				"x": 82,
-				"y": 21
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,11.0,0.0,11.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_10",
-			"index": 10,
-			"inputIndex": 0,
-			"inputSpriteIndex": 10,
-			"pivot": {
-				"x": 6.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 12,
-				"x": 1,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 32
-			},
-			"tags": {
-				"anim": "red_enemy_idle"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 12,
-				"x": 1,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 12,
-				"x": 2,
-				"y": 34
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_11",
-			"index": 11,
-			"inputIndex": 0,
-			"inputSpriteIndex": 11,
-			"pivot": {
-				"x": 6.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 12,
-				"x": 14,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 32
-			},
-			"tags": {
-				"anim": "red_enemy_idle"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 12,
-				"x": 14,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 12,
-				"x": 18,
-				"y": 34
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_12",
-			"index": 12,
-			"inputIndex": 0,
-			"inputSpriteIndex": 12,
-			"pivot": {
-				"x": 6.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 12,
-				"x": 27,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 32
-			},
-			"tags": {
-				"anim": "red_enemy_dead"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 12,
-				"x": 27,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 12,
-				"x": 34,
-				"y": 35
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_13",
-			"index": 13,
-			"inputIndex": 0,
-			"inputSpriteIndex": 13,
-			"pivot": {
-				"x": 7.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 14,
-				"x": 40,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 32
-			},
-			"tags": {
-				"anim": "red_enemy_jump"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 14,
-				"x": 40,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 14,
-				"x": 49,
-				"y": 33
-			},
-			"vertices": [0.0,0.0,14.0,0.0,14.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_14",
-			"index": 14,
-			"inputIndex": 0,
-			"inputSpriteIndex": 14,
-			"pivot": {
-				"x": 6.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 12,
-				"x": 55,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 48
-			},
-			"tags": {
-				"anim": "red_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 12,
-				"x": 55,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 12,
-				"x": 2,
-				"y": 50
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_15",
-			"index": 15,
-			"inputIndex": 0,
-			"inputSpriteIndex": 15,
-			"pivot": {
-				"x": 6.5,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 13,
-				"x": 68,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 48
-			},
-			"tags": {
-				"anim": "red_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 13,
-				"x": 68,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 13,
-				"x": 17,
-				"y": 49
-			},
-			"vertices": [0.0,0.0,13.0,0.0,13.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_16",
-			"index": 16,
-			"inputIndex": 0,
-			"inputSpriteIndex": 16,
-			"pivot": {
-				"x": 6.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 12,
-				"x": 82,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 48
-			},
-			"tags": {
-				"anim": "red_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 12,
-				"x": 82,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 12,
-				"x": 34,
-				"y": 50
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_17",
-			"index": 17,
-			"inputIndex": 0,
-			"inputSpriteIndex": 17,
-			"pivot": {
-				"x": 6.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 12,
-				"x": 95,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 48
-			},
-			"tags": {
-				"anim": "red_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 12,
-				"x": 95,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 12,
-				"x": 50,
-				"y": 50
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_18",
-			"index": 18,
-			"inputIndex": 0,
-			"inputSpriteIndex": 18,
-			"pivot": {
-				"x": 6.0,
-				"y": 7.0
-			},
-			"rect": {
-				"h": 14,
-				"w": 12,
-				"x": 108,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 8,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 48
-			},
-			"tags": {
-				"anim": "red_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 14,
-				"w": 12,
-				"x": 108,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 14,
-				"w": 12,
-				"x": 66,
-				"y": 49
-			},
-			"vertices": [0.0,0.0,12.0,0.0,12.0,14.0,0.0,14.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_19",
-			"index": 19,
-			"inputIndex": 0,
-			"inputSpriteIndex": 19,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 16,
-				"x": 1,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 64
-			},
-			"tags": {
-				"anim": "green_enemy_idle"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 16,
-				"x": 1,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 16,
-				"x": 0,
-				"y": 67
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_20",
-			"index": 20,
-			"inputIndex": 0,
-			"inputSpriteIndex": 20,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 16,
-				"x": 18,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 64
-			},
-			"tags": {
-				"anim": "green_enemy_idle"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 16,
-				"x": 18,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 16,
-				"x": 16,
-				"y": 67
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_21",
-			"index": 21,
-			"inputIndex": 0,
-			"inputSpriteIndex": 21,
-			"pivot": {
-				"x": 8.0,
-				"y": 2.5
-			},
-			"rect": {
-				"h": 5,
-				"w": 16,
-				"x": 35,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 64
-			},
-			"tags": {
-				"anim": "green_enemy_dead"
-			},
-			"trimmedRect": {
-				"h": 5,
-				"w": 16,
-				"x": 35,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 5,
-				"w": 16,
-				"x": 32,
-				"y": 75
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,5.0,0.0,5.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_22",
-			"index": 22,
-			"inputIndex": 0,
-			"inputSpriteIndex": 22,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.0
-			},
-			"rect": {
-				"h": 12,
-				"w": 16,
-				"x": 52,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 64
-			},
-			"tags": {
-				"anim": "green_enemy_jump"
-			},
-			"trimmedRect": {
-				"h": 12,
-				"w": 16,
-				"x": 52,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 12,
-				"w": 16,
-				"x": 48,
-				"y": 68
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,12.0,0.0,12.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_23",
-			"index": 23,
-			"inputIndex": 0,
-			"inputSpriteIndex": 23,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 16,
-				"x": 69,
-				"y": 1
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 80
-			},
-			"tags": {
-				"anim": "green_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 16,
-				"x": 69,
-				"y": 1
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 16,
-				"x": 0,
-				"y": 83
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_24",
-			"index": 24,
-			"inputIndex": 0,
-			"inputSpriteIndex": 24,
-			"pivot": {
-				"x": 7.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 14,
-				"x": 1,
-				"y": 15
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 80
-			},
-			"tags": {
-				"anim": "green_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 14,
-				"x": 1,
-				"y": 15
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 14,
-				"x": 17,
-				"y": 82
-			},
-			"vertices": [0.0,0.0,14.0,0.0,14.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_25",
-			"index": 25,
-			"inputIndex": 0,
-			"inputSpriteIndex": 25,
-			"pivot": {
-				"x": 7.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 14,
-				"x": 16,
-				"y": 15
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 80
-			},
-			"tags": {
-				"anim": "green_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 14,
-				"x": 16,
-				"y": 15
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 14,
-				"x": 33,
-				"y": 83
-			},
-			"vertices": [0.0,0.0,14.0,0.0,14.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_26",
-			"index": 26,
-			"inputIndex": 0,
-			"inputSpriteIndex": 26,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 16,
-				"x": 31,
-				"y": 15
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 80
-			},
-			"tags": {
-				"anim": "green_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 16,
-				"x": 31,
-				"y": 15
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 16,
-				"x": 48,
-				"y": 83
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_27",
-			"index": 27,
-			"inputIndex": 0,
-			"inputSpriteIndex": 27,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 16,
-				"x": 48,
-				"y": 15
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 8,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 80
-			},
-			"tags": {
-				"anim": "green_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 16,
-				"x": 48,
-				"y": 15
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 16,
-				"x": 64,
-				"y": 82
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_28",
-			"index": 28,
-			"inputIndex": 0,
-			"inputSpriteIndex": 28,
-			"pivot": {
-				"x": 8.0,
-				"y": 6.5
-			},
-			"rect": {
-				"h": 13,
-				"w": 16,
-				"x": 65,
-				"y": 15
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 9,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 80
-			},
-			"tags": {
-				"anim": "green_enemy_run"
-			},
-			"trimmedRect": {
-				"h": 13,
-				"w": 16,
-				"x": 65,
-				"y": 15
-			},
-			"trimmedSourceRect": {
-				"h": 13,
-				"w": 16,
-				"x": 80,
-				"y": 83
-			},
-			"vertices": [0.0,0.0,16.0,0.0,16.0,13.0,0.0,13.0]
+			"filename": "Old enemies 2.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28]
+				}
+			]
 		}
 	],
-	"tags": {
-		"anim": {
-			"blue_enemy_dead": [2],
-			"blue_enemy_idle": [0,1],
-			"blue_enemy_jump": [3],
-			"blue_enemy_run": [4,5,6,7,8,9],
-			"green_enemy_dead": [21],
-			"green_enemy_idle": [19,20],
-			"green_enemy_jump": [22],
-			"green_enemy_run": [23,24,25,26,27,28],
-			"red_enemy_dead": [12],
-			"red_enemy_idle": [10,11],
-			"red_enemy_jump": [13],
-			"red_enemy_run": [14,15,16,17,18]
-		}
-	},
 	"textures": [
 		{
-			"filename": "red.png",
-			"height": 16,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [10,11,12,13,14,15,16,17,18],
-			"width": 121
+			"path": "",
+			"filename": "red.png",
+			"width": 121,
+			"height": 16,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [10,11,12,13,14,15,16,17,18]
 		},
 		{
-			"filename": "green.png",
-			"height": 29,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 1,
 			"sliceIndex": 0,
-			"spriteIndices": [19,20,21,22,23,24,25,26,27,28],
-			"width": 86
+			"path": "",
+			"filename": "green.png",
+			"width": 86,
+			"height": 29,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [19,20,21,22,23,24,25,26,27,28]
 		},
 		{
-			"filename": "blue.png",
-			"height": 115,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 2,
 			"sliceIndex": 0,
-			"spriteIndices": [0,1,2,3,4,5,6,7,8,9],
-			"width": 16
+			"path": "",
+			"filename": "blue.png",
+			"width": 16,
+			"height": 115,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9]
 		}
 	]
 }

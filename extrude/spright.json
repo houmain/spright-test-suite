@@ -1,222 +1,439 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "hp_cobble_mossy.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0]
-				}
-			]
+			"index": 0,
+			"id": "sprite_0",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":6,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_earth_ground.png",
-			"sources": [
-				{
-					"index": 1,
-					"spriteIndices": [1]
-				}
-			]
+			"index": 1,
+			"id": "sprite_1",
+			"inputIndex": 1,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 1,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":87,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_fabric.png",
-			"sources": [
-				{
-					"index": 2,
-					"spriteIndices": [2]
-				}
-			]
+			"index": 2,
+			"id": "sprite_2",
+			"inputIndex": 2,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 2,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":168,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":168,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_floor_tiles.png",
-			"sources": [
-				{
-					"index": 3,
-					"spriteIndices": [3]
-				}
-			]
+			"index": 3,
+			"id": "sprite_3",
+			"inputIndex": 3,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 3,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":6,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_glass_crystal.png",
-			"sources": [
-				{
-					"index": 4,
-					"spriteIndices": [4]
-				}
-			]
+			"index": 4,
+			"id": "sprite_4",
+			"inputIndex": 4,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 4,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":87,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_ground_cracked.png",
-			"sources": [
-				{
-					"index": 5,
-					"spriteIndices": [5]
-				}
-			]
+			"index": 5,
+			"id": "sprite_5",
+			"inputIndex": 5,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 5,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":168,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":168,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_rock.png",
-			"sources": [
-				{
-					"index": 6,
-					"spriteIndices": [6]
-				}
-			]
+			"index": 6,
+			"id": "sprite_6",
+			"inputIndex": 6,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 6,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":6,"y":168,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":168,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_wood.png",
-			"sources": [
-				{
-					"index": 7,
-					"spriteIndices": [7]
-				}
-			]
+			"index": 7,
+			"id": "sprite_7",
+			"inputIndex": 7,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 7,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":87,"y":168,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":168,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_cobble_mossy.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [8]
-				}
-			]
+			"index": 8,
+			"id": "sprite_8",
+			"inputIndex": 8,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":6,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_earth_ground.png",
-			"sources": [
-				{
-					"index": 1,
-					"spriteIndices": [9]
-				}
-			]
+			"index": 9,
+			"id": "sprite_9",
+			"inputIndex": 9,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 1,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":87,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_fabric.png",
-			"sources": [
-				{
-					"index": 2,
-					"spriteIndices": [10]
-				}
-			]
+			"index": 10,
+			"id": "sprite_10",
+			"inputIndex": 10,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 2,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":168,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":168,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_floor_tiles.png",
-			"sources": [
-				{
-					"index": 3,
-					"spriteIndices": [11]
-				}
-			]
+			"index": 11,
+			"id": "sprite_11",
+			"inputIndex": 11,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 3,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":6,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_glass_crystal.png",
-			"sources": [
-				{
-					"index": 4,
-					"spriteIndices": [12]
-				}
-			]
+			"index": 12,
+			"id": "sprite_12",
+			"inputIndex": 12,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 4,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":87,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_ground_cracked.png",
-			"sources": [
-				{
-					"index": 5,
-					"spriteIndices": [13]
-				}
-			]
+			"index": 13,
+			"id": "sprite_13",
+			"inputIndex": 13,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 5,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":168,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":168,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_rock.png",
-			"sources": [
-				{
-					"index": 6,
-					"spriteIndices": [14]
-				}
-			]
+			"index": 14,
+			"id": "sprite_14",
+			"inputIndex": 14,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 6,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":6,"y":168,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":168,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_wood.png",
-			"sources": [
-				{
-					"index": 7,
-					"spriteIndices": [15]
-				}
-			]
+			"index": 15,
+			"id": "sprite_15",
+			"inputIndex": 15,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 7,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":87,"y":168,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":168,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_cobble_mossy.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [16]
-				}
-			]
+			"index": 16,
+			"id": "sprite_16",
+			"inputIndex": 16,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":6,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_earth_ground.png",
-			"sources": [
-				{
-					"index": 1,
-					"spriteIndices": [17]
-				}
-			]
+			"index": 17,
+			"id": "sprite_17",
+			"inputIndex": 17,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 1,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":87,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_fabric.png",
-			"sources": [
-				{
-					"index": 2,
-					"spriteIndices": [18]
-				}
-			]
+			"index": 18,
+			"id": "sprite_18",
+			"inputIndex": 18,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 2,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":168,"y":6,"w":69,"h":69},
+			"trimmedRect": {"x":168,"y":6,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_floor_tiles.png",
-			"sources": [
-				{
-					"index": 3,
-					"spriteIndices": [19]
-				}
-			]
+			"index": 19,
+			"id": "sprite_19",
+			"inputIndex": 19,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 3,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":6,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_glass_crystal.png",
-			"sources": [
-				{
-					"index": 4,
-					"spriteIndices": [20]
-				}
-			]
+			"index": 20,
+			"id": "sprite_20",
+			"inputIndex": 20,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 4,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":87,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_ground_cracked.png",
-			"sources": [
-				{
-					"index": 5,
-					"spriteIndices": [21]
-				}
-			]
+			"index": 21,
+			"id": "sprite_21",
+			"inputIndex": 21,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 5,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":168,"y":87,"w":69,"h":69},
+			"trimmedRect": {"x":168,"y":87,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_rock.png",
-			"sources": [
-				{
-					"index": 6,
-					"spriteIndices": [22]
-				}
-			]
+			"index": 22,
+			"id": "sprite_22",
+			"inputIndex": 22,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 6,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":6,"y":168,"w":69,"h":69},
+			"trimmedRect": {"x":6,"y":168,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "hp_wood.png",
-			"sources": [
-				{
-					"index": 7,
-					"spriteIndices": [23]
-				}
-			]
+			"index": 23,
+			"id": "sprite_23",
+			"inputIndex": 23,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 7,
+			"sourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"sliceIndex": 2,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":87,"y":168,"w":69,"h":69},
+			"trimmedRect": {"x":87,"y":168,"w":69,"h":69},
+			"trimmedSourceRect": {"x":0,"y":0,"w":69,"h":69},
+			"pivot": {"x":34.5,"y":34.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0],
+			"tags": {},
+			"data": {}
 		}
 	],
+	"tags": {},
 	"sheets": [
 		{
 			"id": "clamp",
@@ -245,1074 +462,305 @@
 	],
 	"sources": [
 		{
-			"filename": "hp_cobble_mossy.png",
-			"height": 69,
 			"path": "",
-			"width": 69
+			"filename": "hp_cobble_mossy.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_earth_ground.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_fabric.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_floor_tiles.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_glass_crystal.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_ground_cracked.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_rock.png",
+			"width": 69,
+			"height": 69
+		},
+		{
+			"path": "",
+			"filename": "hp_wood.png",
+			"width": 69,
+			"height": 69
+		}
+	],
+	"inputs": [
+		{
+			"filename": "hp_cobble_mossy.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0]
+				}
+			]
 		},
 		{
 			"filename": "hp_earth_ground.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 1,
+					"spriteIndices": [1]
+				}
+			]
 		},
 		{
 			"filename": "hp_fabric.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 2,
+					"spriteIndices": [2]
+				}
+			]
 		},
 		{
 			"filename": "hp_floor_tiles.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 3,
+					"spriteIndices": [3]
+				}
+			]
 		},
 		{
 			"filename": "hp_glass_crystal.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 4,
+					"spriteIndices": [4]
+				}
+			]
 		},
 		{
 			"filename": "hp_ground_cracked.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 5,
+					"spriteIndices": [5]
+				}
+			]
 		},
 		{
 			"filename": "hp_rock.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 6,
+					"spriteIndices": [6]
+				}
+			]
 		},
 		{
 			"filename": "hp_wood.png",
-			"height": 69,
-			"path": "",
-			"width": 69
+			"sourceSprites": [
+				{
+					"sourceIndex": 7,
+					"spriteIndices": [7]
+				}
+			]
+		},
+		{
+			"filename": "hp_cobble_mossy.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [8]
+				}
+			]
+		},
+		{
+			"filename": "hp_earth_ground.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 1,
+					"spriteIndices": [9]
+				}
+			]
+		},
+		{
+			"filename": "hp_fabric.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 2,
+					"spriteIndices": [10]
+				}
+			]
+		},
+		{
+			"filename": "hp_floor_tiles.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 3,
+					"spriteIndices": [11]
+				}
+			]
+		},
+		{
+			"filename": "hp_glass_crystal.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 4,
+					"spriteIndices": [12]
+				}
+			]
+		},
+		{
+			"filename": "hp_ground_cracked.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 5,
+					"spriteIndices": [13]
+				}
+			]
+		},
+		{
+			"filename": "hp_rock.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 6,
+					"spriteIndices": [14]
+				}
+			]
+		},
+		{
+			"filename": "hp_wood.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 7,
+					"spriteIndices": [15]
+				}
+			]
+		},
+		{
+			"filename": "hp_cobble_mossy.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [16]
+				}
+			]
+		},
+		{
+			"filename": "hp_earth_ground.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 1,
+					"spriteIndices": [17]
+				}
+			]
+		},
+		{
+			"filename": "hp_fabric.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 2,
+					"spriteIndices": [18]
+				}
+			]
+		},
+		{
+			"filename": "hp_floor_tiles.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 3,
+					"spriteIndices": [19]
+				}
+			]
+		},
+		{
+			"filename": "hp_glass_crystal.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 4,
+					"spriteIndices": [20]
+				}
+			]
+		},
+		{
+			"filename": "hp_ground_cracked.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 5,
+					"spriteIndices": [21]
+				}
+			]
+		},
+		{
+			"filename": "hp_rock.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 6,
+					"spriteIndices": [22]
+				}
+			]
+		},
+		{
+			"filename": "hp_wood.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 7,
+					"spriteIndices": [23]
+				}
+			]
 		}
 	],
-	"sprites": [
-		{
-			"data": {},
-			"id": "sprite_0",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_1",
-			"index": 1,
-			"inputIndex": 1,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 1,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_2",
-			"index": 2,
-			"inputIndex": 2,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 2,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_3",
-			"index": 3,
-			"inputIndex": 3,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 3,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_4",
-			"index": 4,
-			"inputIndex": 4,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 4,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_5",
-			"index": 5,
-			"inputIndex": 5,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 5,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_6",
-			"index": 6,
-			"inputIndex": 6,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 168
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 6,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 168
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_7",
-			"index": 7,
-			"inputIndex": 7,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 168
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 7,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 168
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_8",
-			"index": 8,
-			"inputIndex": 8,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_9",
-			"index": 9,
-			"inputIndex": 9,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 1,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_10",
-			"index": 10,
-			"inputIndex": 10,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 2,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_11",
-			"index": 11,
-			"inputIndex": 11,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 3,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_12",
-			"index": 12,
-			"inputIndex": 12,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 4,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_13",
-			"index": 13,
-			"inputIndex": 13,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 5,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_14",
-			"index": 14,
-			"inputIndex": 14,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 168
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 6,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 168
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_15",
-			"index": 15,
-			"inputIndex": 15,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 168
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 7,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 168
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_16",
-			"index": 16,
-			"inputIndex": 16,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_17",
-			"index": 17,
-			"inputIndex": 17,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 1,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_18",
-			"index": 18,
-			"inputIndex": 18,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 6
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 2,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 6
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_19",
-			"index": 19,
-			"inputIndex": 19,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 3,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_20",
-			"index": 20,
-			"inputIndex": 20,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 4,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_21",
-			"index": 21,
-			"inputIndex": 21,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 87
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 5,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 168,
-				"y": 87
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_22",
-			"index": 22,
-			"inputIndex": 22,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 168
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 6,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 6,
-				"y": 168
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_23",
-			"index": 23,
-			"inputIndex": 23,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 34.5,
-				"y": 34.5
-			},
-			"rect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 168
-			},
-			"rotated": false,
-			"sliceIndex": 2,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 7,
-			"sourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 69,
-				"w": 69,
-				"x": 87,
-				"y": 168
-			},
-			"trimmedSourceRect": {
-				"h": 69,
-				"w": 69,
-				"x": 0,
-				"y": 0
-			},
-			"vertices": [0.0,0.0,69.0,0.0,69.0,69.0,0.0,69.0]
-		}
-	],
-	"tags": {},
 	"textures": [
 		{
-			"filename": "spright-clamp-0.png",
-			"height": 243,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [0,1,2,3,4,5,6,7],
-			"width": 243
+			"path": "",
+			"filename": "spright-clamp-0.png",
+			"width": 243,
+			"height": 243,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [0,1,2,3,4,5,6,7]
 		},
 		{
-			"filename": "spright-mirror-0.png",
-			"height": 243,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 1,
 			"sliceIndex": 0,
-			"spriteIndices": [8,9,10,11,12,13,14,15],
-			"width": 243
+			"path": "",
+			"filename": "spright-mirror-0.png",
+			"width": 243,
+			"height": 243,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [8,9,10,11,12,13,14,15]
 		},
 		{
-			"filename": "spright-repeat-0.png",
-			"height": 243,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 2,
 			"sliceIndex": 0,
-			"spriteIndices": [16,17,18,19,20,21,22,23],
-			"width": 243
+			"path": "",
+			"filename": "spright-repeat-0.png",
+			"width": 243,
+			"height": 243,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [16,17,18,19,20,21,22,23]
 		}
 	]
 }

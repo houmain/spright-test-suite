@@ -1,24 +1,1087 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "Old enemies 2.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]
-				}
-			]
+			"index": 0,
+			"id": "sprite_0",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
 		},
 		{
-			"filename": "Old enemies 2.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59]
-				}
-			]
+			"index": 1,
+			"id": "sprite_1",
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":72,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":80,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 2,
+			"id": "sprite_2",
+			"inputIndex": 0,
+			"inputSpriteIndex": 2,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":4,"y":56,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":100,"w":48,"h":20},
+			"trimmedSourceRect": {"x":8,"y":44,"w":48,"h":20},
+			"pivot": {"x":32.0,"y":54.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,20.0,0.0,20.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 3,
+			"id": "sprite_3",
+			"inputIndex": 0,
+			"inputSpriteIndex": 3,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":0,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":72,"y":60,"w":64,"h":64},
+			"trimmedRect": {"x":76,"y":76,"w":56,"h":44},
+			"trimmedSourceRect": {"x":4,"y":16,"w":56,"h":44},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 4,
+			"id": "sprite_4",
+			"inputIndex": 0,
+			"inputSpriteIndex": 4,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":16,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":4,"y":116,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":136,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 5,
+			"id": "sprite_5",
+			"inputIndex": 0,
+			"inputSpriteIndex": 5,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":16,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":74,"y":120,"w":64,"h":64},
+			"trimmedRect": {"x":78,"y":136,"w":52,"h":44},
+			"trimmedSourceRect": {"x":4,"y":16,"w":52,"h":44},
+			"pivot": {"x":30.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,52.0,0.0,52.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 6,
+			"id": "sprite_6",
+			"inputIndex": 0,
+			"inputSpriteIndex": 6,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":16,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":4,"y":176,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":196,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 7,
+			"id": "sprite_7",
+			"inputIndex": 0,
+			"inputSpriteIndex": 7,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":16,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":72,"y":176,"w":64,"h":64},
+			"trimmedRect": {"x":80,"y":196,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 8,
+			"id": "sprite_8",
+			"inputIndex": 0,
+			"inputSpriteIndex": 8,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":16,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 8,
+			"rect": {"x":4,"y":240,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":256,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":16,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 9,
+			"id": "sprite_9",
+			"inputIndex": 0,
+			"inputSpriteIndex": 9,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":16,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 9,
+			"rect": {"x":72,"y":236,"w":64,"h":64},
+			"trimmedRect": {"x":80,"y":256,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 10,
+			"id": "sprite_10",
+			"inputIndex": 0,
+			"inputSpriteIndex": 10,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 10,
+			"rect": {"x":4,"y":296,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":304,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 11,
+			"id": "sprite_11",
+			"inputIndex": 0,
+			"inputSpriteIndex": 11,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 11,
+			"rect": {"x":72,"y":296,"w":64,"h":64},
+			"trimmedRect": {"x":80,"y":304,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 12,
+			"id": "sprite_12",
+			"inputIndex": 0,
+			"inputSpriteIndex": 12,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 12,
+			"rect": {"x":4,"y":356,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":368,"w":48,"h":52},
+			"trimmedSourceRect": {"x":8,"y":12,"w":48,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 13,
+			"id": "sprite_13",
+			"inputIndex": 0,
+			"inputSpriteIndex": 13,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":32,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 13,
+			"rect": {"x":72,"y":360,"w":64,"h":64},
+			"trimmedRect": {"x":76,"y":364,"w":56,"h":56},
+			"trimmedSourceRect": {"x":4,"y":4,"w":56,"h":56},
+			"pivot": {"x":32.0,"y":32.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 14,
+			"id": "sprite_14",
+			"inputIndex": 0,
+			"inputSpriteIndex": 14,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 14,
+			"rect": {"x":4,"y":416,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":424,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 15,
+			"id": "sprite_15",
+			"inputIndex": 0,
+			"inputSpriteIndex": 15,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 15,
+			"rect": {"x":74,"y":420,"w":64,"h":64},
+			"trimmedRect": {"x":78,"y":424,"w":52,"h":56},
+			"trimmedSourceRect": {"x":4,"y":4,"w":52,"h":56},
+			"pivot": {"x":30.0,"y":32.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,52.0,0.0,52.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 16,
+			"id": "sprite_16",
+			"inputIndex": 0,
+			"inputSpriteIndex": 16,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 16,
+			"rect": {"x":4,"y":476,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":484,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 17,
+			"id": "sprite_17",
+			"inputIndex": 0,
+			"inputSpriteIndex": 17,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 17,
+			"rect": {"x":72,"y":476,"w":64,"h":64},
+			"trimmedRect": {"x":80,"y":484,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 18,
+			"id": "sprite_18",
+			"inputIndex": 0,
+			"inputSpriteIndex": 18,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 18,
+			"rect": {"x":4,"y":540,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":544,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":4,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":32.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 19,
+			"id": "sprite_19",
+			"inputIndex": 0,
+			"inputSpriteIndex": 19,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":48,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 19,
+			"rect": {"x":72,"y":536,"w":64,"h":64},
+			"trimmedRect": {"x":80,"y":544,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 20,
+			"id": "sprite_20",
+			"inputIndex": 0,
+			"inputSpriteIndex": 20,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":64,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 20,
+			"rect": {"x":4,"y":596,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":608,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 21,
+			"id": "sprite_21",
+			"inputIndex": 0,
+			"inputSpriteIndex": 21,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":64,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 21,
+			"rect": {"x":72,"y":596,"w":64,"h":64},
+			"trimmedRect": {"x":72,"y":608,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 22,
+			"id": "sprite_22",
+			"inputIndex": 0,
+			"inputSpriteIndex": 22,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":64,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 22,
+			"rect": {"x":4,"y":656,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":700,"w":64,"h":20},
+			"trimmedSourceRect": {"x":0,"y":44,"w":64,"h":20},
+			"pivot": {"x":32.0,"y":54.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,20.0,0.0,20.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 23,
+			"id": "sprite_23",
+			"inputIndex": 0,
+			"inputSpriteIndex": 23,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":64,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 23,
+			"rect": {"x":72,"y":656,"w":64,"h":64},
+			"trimmedRect": {"x":72,"y":672,"w":64,"h":48},
+			"trimmedSourceRect": {"x":0,"y":16,"w":64,"h":48},
+			"pivot": {"x":32.0,"y":40.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,48.0,0.0,48.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 24,
+			"id": "sprite_24",
+			"inputIndex": 0,
+			"inputSpriteIndex": 24,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":80,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 24,
+			"rect": {"x":4,"y":716,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":728,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 25,
+			"id": "sprite_25",
+			"inputIndex": 0,
+			"inputSpriteIndex": 25,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":80,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 25,
+			"rect": {"x":72,"y":720,"w":64,"h":64},
+			"trimmedRect": {"x":76,"y":728,"w":56,"h":52},
+			"trimmedSourceRect": {"x":4,"y":8,"w":56,"h":52},
+			"pivot": {"x":32.0,"y":34.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 26,
+			"id": "sprite_26",
+			"inputIndex": 0,
+			"inputSpriteIndex": 26,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":80,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 26,
+			"rect": {"x":4,"y":776,"w":64,"h":64},
+			"trimmedRect": {"x":8,"y":788,"w":56,"h":52},
+			"trimmedSourceRect": {"x":4,"y":12,"w":56,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 27,
+			"id": "sprite_27",
+			"inputIndex": 0,
+			"inputSpriteIndex": 27,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":80,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 27,
+			"rect": {"x":72,"y":776,"w":64,"h":64},
+			"trimmedRect": {"x":72,"y":788,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 28,
+			"id": "sprite_28",
+			"inputIndex": 0,
+			"inputSpriteIndex": 28,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":80,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 28,
+			"rect": {"x":4,"y":840,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":848,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":8,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":34.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 29,
+			"id": "sprite_29",
+			"inputIndex": 0,
+			"inputSpriteIndex": 29,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":80,"w":16,"h":16},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 29,
+			"rect": {"x":72,"y":836,"w":64,"h":64},
+			"trimmedRect": {"x":72,"y":848,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 30,
+			"id": "sprite_30",
+			"inputIndex": 1,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":0,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 31,
+			"id": "sprite_31",
+			"inputIndex": 1,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":0,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 32,
+			"id": "sprite_32",
+			"inputIndex": 1,
+			"inputSpriteIndex": 2,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":0,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":40,"w":48,"h":20},
+			"trimmedSourceRect": {"x":8,"y":44,"w":48,"h":20},
+			"pivot": {"x":32.0,"y":54.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,20.0,0.0,20.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 33,
+			"id": "sprite_33",
+			"inputIndex": 1,
+			"inputSpriteIndex": 3,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":0,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":4,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":8,"y":16,"w":56,"h":44},
+			"trimmedSourceRect": {"x":4,"y":16,"w":56,"h":44},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 34,
+			"id": "sprite_34",
+			"inputIndex": 1,
+			"inputSpriteIndex": 4,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":16,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 35,
+			"id": "sprite_35",
+			"inputIndex": 1,
+			"inputSpriteIndex": 5,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":16,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 5,
+			"rect": {"x":6,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":10,"y":16,"w":52,"h":44},
+			"trimmedSourceRect": {"x":4,"y":16,"w":52,"h":44},
+			"pivot": {"x":30.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,52.0,0.0,52.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 36,
+			"id": "sprite_36",
+			"inputIndex": 1,
+			"inputSpriteIndex": 6,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":16,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 6,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 37,
+			"id": "sprite_37",
+			"inputIndex": 1,
+			"inputSpriteIndex": 7,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":16,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 7,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 38,
+			"id": "sprite_38",
+			"inputIndex": 1,
+			"inputSpriteIndex": 8,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":16,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 8,
+			"rect": {"x":4,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":16,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 39,
+			"id": "sprite_39",
+			"inputIndex": 1,
+			"inputSpriteIndex": 9,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":16,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 9,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":16,"w":48,"h":44},
+			"trimmedSourceRect": {"x":8,"y":20,"w":48,"h":44},
+			"pivot": {"x":32.0,"y":42.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 40,
+			"id": "sprite_40",
+			"inputIndex": 1,
+			"inputSpriteIndex": 10,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":32,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 10,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 41,
+			"id": "sprite_41",
+			"inputIndex": 1,
+			"inputSpriteIndex": 11,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":32,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 11,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 42,
+			"id": "sprite_42",
+			"inputIndex": 1,
+			"inputSpriteIndex": 12,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":32,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 12,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":8,"w":48,"h":52},
+			"trimmedSourceRect": {"x":8,"y":12,"w":48,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 43,
+			"id": "sprite_43",
+			"inputIndex": 1,
+			"inputSpriteIndex": 13,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":32,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 13,
+			"rect": {"x":4,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":8,"y":4,"w":56,"h":56},
+			"trimmedSourceRect": {"x":4,"y":4,"w":56,"h":56},
+			"pivot": {"x":32.0,"y":32.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 44,
+			"id": "sprite_44",
+			"inputIndex": 1,
+			"inputSpriteIndex": 14,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":48,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 14,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 45,
+			"id": "sprite_45",
+			"inputIndex": 1,
+			"inputSpriteIndex": 15,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":48,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 15,
+			"rect": {"x":6,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":10,"y":4,"w":52,"h":56},
+			"trimmedSourceRect": {"x":4,"y":4,"w":52,"h":56},
+			"pivot": {"x":30.0,"y":32.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,52.0,0.0,52.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 46,
+			"id": "sprite_46",
+			"inputIndex": 1,
+			"inputSpriteIndex": 16,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":48,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 16,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 47,
+			"id": "sprite_47",
+			"inputIndex": 1,
+			"inputSpriteIndex": 17,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":48,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 17,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 48,
+			"id": "sprite_48",
+			"inputIndex": 1,
+			"inputSpriteIndex": 18,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":48,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 18,
+			"rect": {"x":4,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":4,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":32.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 49,
+			"id": "sprite_49",
+			"inputIndex": 1,
+			"inputSpriteIndex": 19,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":48,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 19,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":12,"y":4,"w":48,"h":56},
+			"trimmedSourceRect": {"x":8,"y":8,"w":48,"h":56},
+			"pivot": {"x":32.0,"y":36.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 50,
+			"id": "sprite_50",
+			"inputIndex": 1,
+			"inputSpriteIndex": 20,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 20,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":8,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 51,
+			"id": "sprite_51",
+			"inputIndex": 1,
+			"inputSpriteIndex": 21,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 21,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":8,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 52,
+			"id": "sprite_52",
+			"inputIndex": 1,
+			"inputSpriteIndex": 22,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 22,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":40,"w":64,"h":20},
+			"trimmedSourceRect": {"x":0,"y":44,"w":64,"h":20},
+			"pivot": {"x":32.0,"y":54.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,20.0,0.0,20.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 53,
+			"id": "sprite_53",
+			"inputIndex": 1,
+			"inputSpriteIndex": 23,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":64,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 23,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":12,"w":64,"h":48},
+			"trimmedSourceRect": {"x":0,"y":16,"w":64,"h":48},
+			"pivot": {"x":32.0,"y":40.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,48.0,0.0,48.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 54,
+			"id": "sprite_54",
+			"inputIndex": 1,
+			"inputSpriteIndex": 24,
+			"sourceIndex": 0,
+			"sourceRect": {"x":0,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 24,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":8,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 55,
+			"id": "sprite_55",
+			"inputIndex": 1,
+			"inputSpriteIndex": 25,
+			"sourceIndex": 0,
+			"sourceRect": {"x":16,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 25,
+			"rect": {"x":4,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":8,"y":8,"w":56,"h":52},
+			"trimmedSourceRect": {"x":4,"y":8,"w":56,"h":52},
+			"pivot": {"x":32.0,"y":34.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 56,
+			"id": "sprite_56",
+			"inputIndex": 1,
+			"inputSpriteIndex": 26,
+			"sourceIndex": 0,
+			"sourceRect": {"x":32,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 26,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":8,"y":8,"w":56,"h":52},
+			"trimmedSourceRect": {"x":4,"y":12,"w":56,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 57,
+			"id": "sprite_57",
+			"inputIndex": 1,
+			"inputSpriteIndex": 27,
+			"sourceIndex": 0,
+			"sourceRect": {"x":48,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 27,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":8,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 58,
+			"id": "sprite_58",
+			"inputIndex": 1,
+			"inputSpriteIndex": 28,
+			"sourceIndex": 0,
+			"sourceRect": {"x":64,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 28,
+			"rect": {"x":4,"y":0,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":8,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":8,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":34.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 59,
+			"id": "sprite_59",
+			"inputIndex": 1,
+			"inputSpriteIndex": 29,
+			"sourceIndex": 0,
+			"sourceRect": {"x":80,"y":80,"w":16,"h":16},
+			"sliceIndex": 1,
+			"sliceSpriteIndex": 29,
+			"rect": {"x":4,"y":-4,"w":64,"h":64},
+			"trimmedRect": {"x":4,"y":8,"w":64,"h":52},
+			"trimmedSourceRect": {"x":0,"y":12,"w":64,"h":52},
+			"pivot": {"x":32.0,"y":38.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0],
+			"tags": {},
+			"data": {}
 		}
 	],
+	"tags": {},
 	"sheets": [
 		{
 			"id": "png",
@@ -39,2497 +1102,54 @@
 	],
 	"sources": [
 		{
-			"filename": "Old enemies 2.png",
-			"height": 96,
 			"path": "",
-			"width": 96
+			"filename": "Old enemies 2.png",
+			"width": 96,
+			"height": 96
 		}
 	],
-	"sprites": [
+	"inputs": [
 		{
-			"data": {},
-			"id": "sprite_0",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
+			"filename": "Old enemies 2.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]
+				}
+			]
 		},
 		{
-			"data": {},
-			"id": "sprite_1",
-			"index": 1,
-			"inputIndex": 0,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 80,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_2",
-			"index": 2,
-			"inputIndex": 0,
-			"inputSpriteIndex": 2,
-			"pivot": {
-				"x": 32.0,
-				"y": 54.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 56
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 20,
-				"w": 48,
-				"x": 12,
-				"y": 100
-			},
-			"trimmedSourceRect": {
-				"h": 20,
-				"w": 48,
-				"x": 8,
-				"y": 44
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,20.0,0.0,20.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_3",
-			"index": 3,
-			"inputIndex": 0,
-			"inputSpriteIndex": 3,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 60
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 56,
-				"x": 76,
-				"y": 76
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 56,
-				"x": 4,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_4",
-			"index": 4,
-			"inputIndex": 0,
-			"inputSpriteIndex": 4,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 116
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 136
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_5",
-			"index": 5,
-			"inputIndex": 0,
-			"inputSpriteIndex": 5,
-			"pivot": {
-				"x": 30.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 74,
-				"y": 120
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 52,
-				"x": 78,
-				"y": 136
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 52,
-				"x": 4,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,52.0,0.0,52.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_6",
-			"index": 6,
-			"inputIndex": 0,
-			"inputSpriteIndex": 6,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 176
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 196
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_7",
-			"index": 7,
-			"inputIndex": 0,
-			"inputSpriteIndex": 7,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 176
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 80,
-				"y": 196
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_8",
-			"index": 8,
-			"inputIndex": 0,
-			"inputSpriteIndex": 8,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 240
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 8,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 256
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_9",
-			"index": 9,
-			"inputIndex": 0,
-			"inputSpriteIndex": 9,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 236
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 9,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 80,
-				"y": 256
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_10",
-			"index": 10,
-			"inputIndex": 0,
-			"inputSpriteIndex": 10,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 296
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 10,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 304
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_11",
-			"index": 11,
-			"inputIndex": 0,
-			"inputSpriteIndex": 11,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 296
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 11,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 80,
-				"y": 304
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_12",
-			"index": 12,
-			"inputIndex": 0,
-			"inputSpriteIndex": 12,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 356
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 12,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 48,
-				"x": 12,
-				"y": 368
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 48,
-				"x": 8,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_13",
-			"index": 13,
-			"inputIndex": 0,
-			"inputSpriteIndex": 13,
-			"pivot": {
-				"x": 32.0,
-				"y": 32.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 360
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 13,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 56,
-				"x": 76,
-				"y": 364
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 56,
-				"x": 4,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_14",
-			"index": 14,
-			"inputIndex": 0,
-			"inputSpriteIndex": 14,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 416
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 14,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 424
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_15",
-			"index": 15,
-			"inputIndex": 0,
-			"inputSpriteIndex": 15,
-			"pivot": {
-				"x": 30.0,
-				"y": 32.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 74,
-				"y": 420
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 15,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 52,
-				"x": 78,
-				"y": 424
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 52,
-				"x": 4,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,52.0,0.0,52.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_16",
-			"index": 16,
-			"inputIndex": 0,
-			"inputSpriteIndex": 16,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 476
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 16,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 484
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_17",
-			"index": 17,
-			"inputIndex": 0,
-			"inputSpriteIndex": 17,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 476
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 17,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 80,
-				"y": 484
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_18",
-			"index": 18,
-			"inputIndex": 0,
-			"inputSpriteIndex": 18,
-			"pivot": {
-				"x": 32.0,
-				"y": 32.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 540
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 18,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 544
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_19",
-			"index": 19,
-			"inputIndex": 0,
-			"inputSpriteIndex": 19,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 536
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 19,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 80,
-				"y": 544
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_20",
-			"index": 20,
-			"inputIndex": 0,
-			"inputSpriteIndex": 20,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 596
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 20,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 608
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_21",
-			"index": 21,
-			"inputIndex": 0,
-			"inputSpriteIndex": 21,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 596
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 21,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 72,
-				"y": 608
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_22",
-			"index": 22,
-			"inputIndex": 0,
-			"inputSpriteIndex": 22,
-			"pivot": {
-				"x": 32.0,
-				"y": 54.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 656
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 22,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 20,
-				"w": 64,
-				"x": 4,
-				"y": 700
-			},
-			"trimmedSourceRect": {
-				"h": 20,
-				"w": 64,
-				"x": 0,
-				"y": 44
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,20.0,0.0,20.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_23",
-			"index": 23,
-			"inputIndex": 0,
-			"inputSpriteIndex": 23,
-			"pivot": {
-				"x": 32.0,
-				"y": 40.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 656
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 23,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 48,
-				"w": 64,
-				"x": 72,
-				"y": 672
-			},
-			"trimmedSourceRect": {
-				"h": 48,
-				"w": 64,
-				"x": 0,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,48.0,0.0,48.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_24",
-			"index": 24,
-			"inputIndex": 0,
-			"inputSpriteIndex": 24,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 716
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 24,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 728
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_25",
-			"index": 25,
-			"inputIndex": 0,
-			"inputSpriteIndex": 25,
-			"pivot": {
-				"x": 32.0,
-				"y": 34.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 720
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 25,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 56,
-				"x": 76,
-				"y": 728
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 56,
-				"x": 4,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_26",
-			"index": 26,
-			"inputIndex": 0,
-			"inputSpriteIndex": 26,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 776
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 26,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 56,
-				"x": 8,
-				"y": 788
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 56,
-				"x": 4,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_27",
-			"index": 27,
-			"inputIndex": 0,
-			"inputSpriteIndex": 27,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 776
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 27,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 72,
-				"y": 788
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_28",
-			"index": 28,
-			"inputIndex": 0,
-			"inputSpriteIndex": 28,
-			"pivot": {
-				"x": 32.0,
-				"y": 34.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 840
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 28,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 848
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_29",
-			"index": 29,
-			"inputIndex": 0,
-			"inputSpriteIndex": 29,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 72,
-				"y": 836
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 29,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 72,
-				"y": 848
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_30",
-			"index": 30,
-			"inputIndex": 1,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_31",
-			"index": 31,
-			"inputIndex": 1,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_32",
-			"index": 32,
-			"inputIndex": 1,
-			"inputSpriteIndex": 2,
-			"pivot": {
-				"x": 32.0,
-				"y": 54.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 20,
-				"w": 48,
-				"x": 12,
-				"y": 40
-			},
-			"trimmedSourceRect": {
-				"h": 20,
-				"w": 48,
-				"x": 8,
-				"y": 44
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,20.0,0.0,20.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_33",
-			"index": 33,
-			"inputIndex": 1,
-			"inputSpriteIndex": 3,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 0
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 56,
-				"x": 8,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 56,
-				"x": 4,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_34",
-			"index": 34,
-			"inputIndex": 1,
-			"inputSpriteIndex": 4,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_35",
-			"index": 35,
-			"inputIndex": 1,
-			"inputSpriteIndex": 5,
-			"pivot": {
-				"x": 30.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 6,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 5,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 52,
-				"x": 10,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 52,
-				"x": 4,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,52.0,0.0,52.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_36",
-			"index": 36,
-			"inputIndex": 1,
-			"inputSpriteIndex": 6,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 6,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_37",
-			"index": 37,
-			"inputIndex": 1,
-			"inputSpriteIndex": 7,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 7,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_38",
-			"index": 38,
-			"inputIndex": 1,
-			"inputSpriteIndex": 8,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 8,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_39",
-			"index": 39,
-			"inputIndex": 1,
-			"inputSpriteIndex": 9,
-			"pivot": {
-				"x": 32.0,
-				"y": 42.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 9,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 16
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 44,
-				"w": 48,
-				"x": 12,
-				"y": 16
-			},
-			"trimmedSourceRect": {
-				"h": 44,
-				"w": 48,
-				"x": 8,
-				"y": 20
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,44.0,0.0,44.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_40",
-			"index": 40,
-			"inputIndex": 1,
-			"inputSpriteIndex": 10,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 10,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_41",
-			"index": 41,
-			"inputIndex": 1,
-			"inputSpriteIndex": 11,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 11,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_42",
-			"index": 42,
-			"inputIndex": 1,
-			"inputSpriteIndex": 12,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 12,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 48,
-				"x": 12,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 48,
-				"x": 8,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_43",
-			"index": 43,
-			"inputIndex": 1,
-			"inputSpriteIndex": 13,
-			"pivot": {
-				"x": 32.0,
-				"y": 32.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 13,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 32
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 56,
-				"x": 8,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 56,
-				"x": 4,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_44",
-			"index": 44,
-			"inputIndex": 1,
-			"inputSpriteIndex": 14,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 14,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_45",
-			"index": 45,
-			"inputIndex": 1,
-			"inputSpriteIndex": 15,
-			"pivot": {
-				"x": 30.0,
-				"y": 32.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 6,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 15,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 52,
-				"x": 10,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 52,
-				"x": 4,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,52.0,0.0,52.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_46",
-			"index": 46,
-			"inputIndex": 1,
-			"inputSpriteIndex": 16,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 16,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_47",
-			"index": 47,
-			"inputIndex": 1,
-			"inputSpriteIndex": 17,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 17,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_48",
-			"index": 48,
-			"inputIndex": 1,
-			"inputSpriteIndex": 18,
-			"pivot": {
-				"x": 32.0,
-				"y": 32.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 18,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 4
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_49",
-			"index": 49,
-			"inputIndex": 1,
-			"inputSpriteIndex": 19,
-			"pivot": {
-				"x": 32.0,
-				"y": 36.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 19,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 48
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 56,
-				"w": 48,
-				"x": 12,
-				"y": 4
-			},
-			"trimmedSourceRect": {
-				"h": 56,
-				"w": 48,
-				"x": 8,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,48.0,0.0,48.0,56.0,0.0,56.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_50",
-			"index": 50,
-			"inputIndex": 1,
-			"inputSpriteIndex": 20,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 20,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_51",
-			"index": 51,
-			"inputIndex": 1,
-			"inputSpriteIndex": 21,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 21,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_52",
-			"index": 52,
-			"inputIndex": 1,
-			"inputSpriteIndex": 22,
-			"pivot": {
-				"x": 32.0,
-				"y": 54.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 22,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 20,
-				"w": 64,
-				"x": 4,
-				"y": 40
-			},
-			"trimmedSourceRect": {
-				"h": 20,
-				"w": 64,
-				"x": 0,
-				"y": 44
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,20.0,0.0,20.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_53",
-			"index": 53,
-			"inputIndex": 1,
-			"inputSpriteIndex": 23,
-			"pivot": {
-				"x": 32.0,
-				"y": 40.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 23,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 64
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 48,
-				"w": 64,
-				"x": 4,
-				"y": 12
-			},
-			"trimmedSourceRect": {
-				"h": 48,
-				"w": 64,
-				"x": 0,
-				"y": 16
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,48.0,0.0,48.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_54",
-			"index": 54,
-			"inputIndex": 1,
-			"inputSpriteIndex": 24,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 24,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 0,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_55",
-			"index": 55,
-			"inputIndex": 1,
-			"inputSpriteIndex": 25,
-			"pivot": {
-				"x": 32.0,
-				"y": 34.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 25,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 16,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 56,
-				"x": 8,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 56,
-				"x": 4,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_56",
-			"index": 56,
-			"inputIndex": 1,
-			"inputSpriteIndex": 26,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 26,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 32,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 56,
-				"x": 8,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 56,
-				"x": 4,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,56.0,0.0,56.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_57",
-			"index": 57,
-			"inputIndex": 1,
-			"inputSpriteIndex": 27,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 27,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 48,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_58",
-			"index": 58,
-			"inputIndex": 1,
-			"inputSpriteIndex": 28,
-			"pivot": {
-				"x": 32.0,
-				"y": 34.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": 0
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 28,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 64,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
-		},
-		{
-			"data": {},
-			"id": "sprite_59",
-			"index": 59,
-			"inputIndex": 1,
-			"inputSpriteIndex": 29,
-			"pivot": {
-				"x": 32.0,
-				"y": 38.0
-			},
-			"rect": {
-				"h": 64,
-				"w": 64,
-				"x": 4,
-				"y": -4
-			},
-			"rotated": false,
-			"sliceIndex": 1,
-			"sliceSpriteIndex": 29,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 16,
-				"w": 16,
-				"x": 80,
-				"y": 80
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 52,
-				"w": 64,
-				"x": 4,
-				"y": 8
-			},
-			"trimmedSourceRect": {
-				"h": 52,
-				"w": 64,
-				"x": 0,
-				"y": 12
-			},
-			"vertices": [0.0,0.0,64.0,0.0,64.0,52.0,0.0,52.0]
+			"filename": "Old enemies 2.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59]
+				}
+			]
 		}
 	],
-	"tags": {},
 	"textures": [
 		{
-			"filename": "spright.png",
-			"height": 3616,
-			"map": "",
-			"path": "",
-			"scale": 4.0,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29],
-			"width": 560
+			"path": "",
+			"filename": "spright.png",
+			"width": 560,
+			"height": 3616,
+			"scale": 4.0,
+			"map": "",
+			"spriteIndices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29]
 		},
 		{
-			"filename": "spright.gif",
-			"height": 256,
-			"map": "",
-			"path": "",
-			"scale": 4.0,
 			"sheetIndex": 1,
 			"sliceIndex": 0,
-			"spriteIndices": [30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59],
-			"width": 288
+			"path": "",
+			"filename": "spright.gif",
+			"width": 288,
+			"height": 256,
+			"scale": 4.0,
+			"map": "",
+			"spriteIndices": [30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59]
 		}
 	]
 }

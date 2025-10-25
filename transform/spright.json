@@ -1,15 +1,97 @@
 {
-	"inputs": [
+	"sprites": [
 		{
-			"filename": "misc_scenery.png",
-			"sources": [
-				{
-					"index": 0,
-					"spriteIndices": [0,1,2,3,4]
-				}
-			]
+			"index": 0,
+			"id": "candles",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":25,"y":18,"w":17,"h":51},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 0,
+			"rect": {"x":152,"y":10,"w":17,"h":51},
+			"trimmedRect": {"x":152,"y":10,"w":17,"h":51},
+			"trimmedSourceRect": {"x":25,"y":18,"w":17,"h":51},
+			"pivot": {"x":8.5,"y":25.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,17.0,0.0,17.0,51.0,0.0,51.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 1,
+			"id": "cage",
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":44,"y":8,"w":32,"h":77},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 1,
+			"rect": {"x":85,"y":152,"w":32,"h":77},
+			"trimmedRect": {"x":85,"y":152,"w":32,"h":77},
+			"trimmedSourceRect": {"x":44,"y":8,"w":32,"h":77},
+			"pivot": {"x":16.0,"y":38.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,32.0,0.0,32.0,77.0,0.0,77.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 2,
+			"id": "cage45",
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":44,"y":8,"w":32,"h":77},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 2,
+			"rect": {"x":6,"y":144,"w":78,"h":77},
+			"trimmedRect": {"x":10,"y":152,"w":65,"h":66},
+			"trimmedSourceRect": {"x":4,"y":8,"w":65,"h":66},
+			"pivot": {"x":39.0,"y":38.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,65.0,0.0,65.0,66.0,0.0,66.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 3,
+			"id": "candles45",
+			"inputIndex": 0,
+			"inputSpriteIndex": 0,
+			"sourceIndex": 0,
+			"sourceRect": {"x":25,"y":18,"w":17,"h":51},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 3,
+			"rect": {"x":122,"y":150,"w":49,"h":49},
+			"trimmedRect": {"x":127,"y":152,"w":43,"h":43},
+			"trimmedSourceRect": {"x":5,"y":2,"w":43,"h":43},
+			"pivot": {"x":24.5,"y":24.5},
+			"rotated": false,
+			"vertices": [0.0,0.0,43.0,0.0,43.0,43.0,0.0,43.0],
+			"tags": {},
+			"data": {}
+		},
+		{
+			"index": 4,
+			"id": "cage90",
+			"inputIndex": 0,
+			"inputSpriteIndex": 1,
+			"sourceIndex": 0,
+			"sourceRect": {"x":44,"y":8,"w":32,"h":77},
+			"sliceIndex": 0,
+			"sliceSpriteIndex": 4,
+			"rect": {"x":5,"y":-7,"w":154,"h":154},
+			"trimmedRect": {"x":10,"y":10,"w":132,"h":132},
+			"trimmedSourceRect": {"x":5,"y":17,"w":132,"h":132},
+			"pivot": {"x":77.0,"y":77.0},
+			"rotated": false,
+			"vertices": [0.0,0.0,132.0,0.0,132.0,132.0,0.0,132.0],
+			"tags": {},
+			"data": {}
 		}
 	],
+	"tags": {},
 	"sheets": [
 		{
 			"id": "sprites",
@@ -22,231 +104,34 @@
 	],
 	"sources": [
 		{
-			"filename": "misc_scenery.png",
-			"height": 162,
 			"path": "",
-			"width": 163
+			"filename": "misc_scenery.png",
+			"width": 163,
+			"height": 162
 		}
 	],
-	"sprites": [
+	"inputs": [
 		{
-			"data": {},
-			"id": "candles",
-			"index": 0,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 8.5,
-				"y": 25.5
-			},
-			"rect": {
-				"h": 51,
-				"w": 17,
-				"x": 152,
-				"y": 10
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 0,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 51,
-				"w": 17,
-				"x": 25,
-				"y": 18
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 51,
-				"w": 17,
-				"x": 152,
-				"y": 10
-			},
-			"trimmedSourceRect": {
-				"h": 51,
-				"w": 17,
-				"x": 25,
-				"y": 18
-			},
-			"vertices": [0.0,0.0,17.0,0.0,17.0,51.0,0.0,51.0]
-		},
-		{
-			"data": {},
-			"id": "cage",
-			"index": 1,
-			"inputIndex": 0,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 16.0,
-				"y": 38.5
-			},
-			"rect": {
-				"h": 77,
-				"w": 32,
-				"x": 85,
-				"y": 152
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 1,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 77,
-				"w": 32,
-				"x": 44,
-				"y": 8
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 77,
-				"w": 32,
-				"x": 85,
-				"y": 152
-			},
-			"trimmedSourceRect": {
-				"h": 77,
-				"w": 32,
-				"x": 44,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,32.0,0.0,32.0,77.0,0.0,77.0]
-		},
-		{
-			"data": {},
-			"id": "cage45",
-			"index": 2,
-			"inputIndex": 0,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 39.0,
-				"y": 38.5
-			},
-			"rect": {
-				"h": 77,
-				"w": 78,
-				"x": 6,
-				"y": 144
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 2,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 77,
-				"w": 32,
-				"x": 44,
-				"y": 8
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 66,
-				"w": 65,
-				"x": 10,
-				"y": 152
-			},
-			"trimmedSourceRect": {
-				"h": 66,
-				"w": 65,
-				"x": 4,
-				"y": 8
-			},
-			"vertices": [0.0,0.0,65.0,0.0,65.0,66.0,0.0,66.0]
-		},
-		{
-			"data": {},
-			"id": "candles45",
-			"index": 3,
-			"inputIndex": 0,
-			"inputSpriteIndex": 0,
-			"pivot": {
-				"x": 24.5,
-				"y": 24.5
-			},
-			"rect": {
-				"h": 49,
-				"w": 49,
-				"x": 122,
-				"y": 150
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 3,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 51,
-				"w": 17,
-				"x": 25,
-				"y": 18
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 43,
-				"w": 43,
-				"x": 127,
-				"y": 152
-			},
-			"trimmedSourceRect": {
-				"h": 43,
-				"w": 43,
-				"x": 5,
-				"y": 2
-			},
-			"vertices": [0.0,0.0,43.0,0.0,43.0,43.0,0.0,43.0]
-		},
-		{
-			"data": {},
-			"id": "cage90",
-			"index": 4,
-			"inputIndex": 0,
-			"inputSpriteIndex": 1,
-			"pivot": {
-				"x": 77.0,
-				"y": 77.0
-			},
-			"rect": {
-				"h": 154,
-				"w": 154,
-				"x": 5,
-				"y": -7
-			},
-			"rotated": false,
-			"sliceIndex": 0,
-			"sliceSpriteIndex": 4,
-			"sourceIndex": 0,
-			"sourceRect": {
-				"h": 77,
-				"w": 32,
-				"x": 44,
-				"y": 8
-			},
-			"tags": {},
-			"trimmedRect": {
-				"h": 132,
-				"w": 132,
-				"x": 10,
-				"y": 10
-			},
-			"trimmedSourceRect": {
-				"h": 132,
-				"w": 132,
-				"x": 5,
-				"y": 17
-			},
-			"vertices": [0.0,0.0,132.0,0.0,132.0,132.0,0.0,132.0]
+			"filename": "misc_scenery.png",
+			"sourceSprites": [
+				{
+					"sourceIndex": 0,
+					"spriteIndices": [0,1,2,3,4]
+				}
+			]
 		}
 	],
-	"tags": {},
 	"textures": [
 		{
-			"filename": "spright-0.png",
-			"height": 239,
-			"map": "",
-			"path": "",
-			"scale": 1.0,
 			"sheetIndex": 0,
 			"sliceIndex": 0,
-			"spriteIndices": [0,1,2,3,4],
-			"width": 180
+			"path": "",
+			"filename": "spright-0.png",
+			"width": 180,
+			"height": 239,
+			"scale": 1.0,
+			"map": "",
+			"spriteIndices": [0,1,2,3,4]
 		}
 	]
 }
