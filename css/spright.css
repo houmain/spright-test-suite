@@ -1,0 +1,120 @@
+
+.icons {
+	background-image: url('icons.spright.png');
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.icons.icons_empty_file {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -0px;
+}
+
+.icons.icons_files {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -32px;
+}
+
+.icons.icons_find {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -64px;
+}
+
+.icons.icons_floppy {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -96px;
+}
+
+.icons.icons_floppy_2 {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -128px;
+}
+
+.icons.icons_floppy_3 {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -160px;
+}
+
+.icons.icons_folder16 {
+	width: 16px;
+	height: 16px;
+	background-position: -0px -192px;
+}
+
+.icons.icons_folder24 {
+	width: 22px;
+	height: 24px;
+	background-position: -0px -208px;
+}
+
+.icons.icons_folder32 {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -232px;
+}
+
+.icons.icons_hdd {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -264px;
+}
+
+.icons.icons_img_file_1 {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -296px;
+}
+
+.icons.icons_snd_file_1 {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -328px;
+}
+
+.icons.icons_terminal {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -360px;
+}
+
+.icons.icons_text_file16 {
+	width: 16px;
+	height: 16px;
+	background-position: -0px -392px;
+}
+
+.icons.icons_text_file32 {
+	width: 32px;
+	height: 32px;
+	background-position: -0px -408px;
+}
+
+.paper {
+	background-image: url('paper.spright.png');
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.paper.Paper_0 {
+	width: 28px;
+	height: 32px;
+	background-position: -0px -0px;
+}
+
+.paper.Paper_1 {
+	width: 28px;
+	height: 32px;
+	background-position: -0px -32px;
+}
+
+.paper.Paper_2 {
+	width: 29px;
+	height: 32px;
+	background-position: -0px -64px;
+}

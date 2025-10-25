@@ -1,3 +1,4 @@
+
 # spright test suite
 
 This is the test suite from the [spright](https://github.com/houmain/spright) project.
@@ -158,3 +159,7 @@ Splitting multiple sprite sheets at once: [spright.conf](globbing/spright.conf)
 Transform sprites individually: [spright.conf](transform/spright.conf)
 
 <kbd><img src="transform/spright-0.png"/></kbd>
+
+# CSS
+
+Generate CSS used by [Test HTML](css/test.html) page: [spright.conf](css/spright.conf)
